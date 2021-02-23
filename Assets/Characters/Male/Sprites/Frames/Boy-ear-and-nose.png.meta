@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: e1a748153d32e4e3681df8c1f690e08f
+timeCreated: 1510059705
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Boy-ear-and-nose_0
+    21300002: Boy-ear-and-nose_1
+    21300004: Boy-ear-and-nose_2
+    21300006: Boy-ear-and-nose_3
+    21300008: Boy-ear-and-nose_4
+    21300010: Boy-ear-and-nose_5
+    21300012: Boy-ear-and-nose_6
+    21300014: Boy-ear-and-nose_7
+    21300016: Boy-ear-and-nose_8
+    21300018: Boy-ear-and-nose_9
+    21300020: Boy-ear-and-nose_10
+    21300022: Boy-ear-and-nose_11
+    21300024: Boy-ear-and-nose_12
+    21300026: Boy-ear-and-nose_13
+    21300028: Boy-ear-and-nose_14
+    21300030: Boy-ear-and-nose_15
+    21300032: Boy-ear-and-nose_16
+    21300034: Boy-ear-and-nose_17
+    21300036: Boy-ear-and-nose_18
+    21300038: Boy-ear-and-nose_19
+    21300040: Boy-ear-and-nose_20
+    21300042: Boy-ear-and-nose_21
+    21300044: Boy-ear-and-nose_22
+    21300046: Boy-ear-and-nose_23
+    21300048: Boy-ear-and-nose_24
+    21300050: Boy-ear-and-nose_25
+    21300052: Boy-ear-and-nose_26
+    21300054: Boy-ear-and-nose_27
+    21300056: Boy-ear-and-nose_28
+    21300058: Boy-ear-and-nose_29
+    21300060: Boy-ear-and-nose_30
+    21300062: Boy-ear-and-nose_31
+    21300064: Boy-ear-and-nose_32
+    21300066: Boy-ear-and-nose_33
+    21300068: Boy-ear-and-nose_34
+    21300070: Boy-ear-and-nose_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1786
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1786
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1786
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_3
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1786
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_4
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1786
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_5
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1786
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1534
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_7
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1534
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_8
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1534
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_9
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1534
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_10
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1534
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_11
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1534
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1282
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_13
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1282
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_14
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1282
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_15
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1282
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_16
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1282
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_17
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1282
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_18
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1030
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_19
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1030
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_20
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1030
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_21
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1030
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_22
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1030
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_23
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1030
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 778
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_25
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 778
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_26
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 778
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_27
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 778
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_28
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 778
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_29
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 778
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_30
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 526
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_31
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 526
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_32
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 526
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_33
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 526
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_34
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 526
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-ear-and-nose_35
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 526
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

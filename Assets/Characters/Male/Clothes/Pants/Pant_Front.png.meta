@@ -1,0 +1,1502 @@
+fileFormatVersion: 2
+guid: bcc47debf1094479e8f60940b7da50a6
+timeCreated: 1511764063
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pant_Front_0
+    21300002: Pant_Front_1
+    21300004: Pant_Front_2
+    21300006: Pant_Front_3
+    21300008: Pant_Front_4
+    21300010: Pant_Front_5
+    21300012: Pant_Front_6
+    21300014: Pant_Front_7
+    21300016: Pant_Front_8
+    21300018: Pant_Front_9
+    21300020: Pant_Front_10
+    21300022: Pant_Front_11
+    21300024: Pant_Front_12
+    21300026: Pant_Front_13
+    21300028: Pant_Front_14
+    21300030: Pant_Front_15
+    21300032: Pant_Front_16
+    21300034: Pant_Front_17
+    21300036: Pant_Front_18
+    21300038: Pant_Front_19
+    21300040: Pant_Front_20
+    21300042: Pant_Front_21
+    21300044: Pant_Front_22
+    21300046: Pant_Front_23
+    21300048: Pant_Front_24
+    21300050: Pant_Front_25
+    21300052: Pant_Front_26
+    21300054: Pant_Front_27
+    21300056: Pant_Front_28
+    21300058: Pant_Front_29
+    21300060: Pant_Front_30
+    21300062: Pant_Front_31
+    21300064: Pant_Front_32
+    21300066: Pant_Front_33
+    21300068: Pant_Front_34
+    21300070: Pant_Front_35
+    21300072: Pant_Front_36
+    21300074: Pant_Front_37
+    21300076: Pant_Front_38
+    21300078: Pant_Front_39
+    21300080: Pant_Front_40
+    21300082: Pant_Front_41
+    21300084: Pant_Front_42
+    21300086: Pant_Front_43
+    21300088: Pant_Front_44
+    21300090: Pant_Front_45
+    21300092: Pant_Front_46
+    21300094: Pant_Front_47
+    21300096: Pant_Front_48
+    21300098: Pant_Front_49
+    21300100: Pant_Front_50
+    21300102: Pant_Front_51
+    21300104: Pant_Front_52
+    21300106: Pant_Front_53
+    21300108: Pant_Front_54
+    21300110: Pant_Front_55
+    21300112: Pant_Front_56
+    21300114: Pant_Front_57
+    21300116: Pant_Front_58
+    21300118: Pant_Front_59
+    21300120: Pant_Front_60
+    21300122: Pant_Front_61
+    21300124: Pant_Front_62
+    21300126: Pant_Front_63
+    21300128: Pant_Front_64
+    21300130: Pant_Front_65
+    21300132: Pant_Front_66
+    21300134: Pant_Front_67
+    21300136: Pant_Front_68
+    21300138: Pant_Front_69
+    21300140: Pant_Front_70
+    21300142: Pant_Front_71
+    21300144: Pant_Front_72
+    21300146: Pant_Front_73
+    21300148: Pant_Front_74
+    21300150: Pant_Front_75
+    21300152: Pant_Front_76
+    21300154: Pant_Front_77
+    21300156: Pant_Front_78
+    21300158: Pant_Front_79
+    21300160: Pant_Front_80
+    21300162: Pant_Front_81
+    21300164: Pant_Front_82
+    21300166: Pant_Front_83
+    21300168: Pant_Front_84
+    21300170: Pant_Front_85
+    21300172: Pant_Front_86
+    21300174: Pant_Front_87
+    21300176: Pant_Front_88
+    21300178: Pant_Front_89
+    21300180: Pant_Front_90
+    21300182: Pant_Front_91
+    21300184: Pant_Front_92
+    21300186: Pant_Front_93
+    21300188: Pant_Front_94
+    21300190: Pant_Front_95
+    21300192: Pant_Front_96
+    21300194: Pant_Front_97
+    21300196: Pant_Front_98
+    21300198: Pant_Front_99
+    21300200: Pant_Front_100
+    21300202: Pant_Front_101
+    21300204: Pant_Front_102
+    21300206: Pant_Front_103
+    21300208: Pant_Front_104
+    21300210: Pant_Front_105
+    21300212: Pant_Front_106
+    21300214: Pant_Front_107
+    21300216: Pant_Front_108
+    21300218: Pant_Front_109
+    21300220: Pant_Front_110
+    21300222: Pant_Front_111
+    21300224: Pant_Front_112
+    21300226: Pant_Front_113
+    21300228: Pant_Front_114
+    21300230: Pant_Front_115
+    21300232: Pant_Front_116
+    21300234: Pant_Front_117
+    21300236: Pant_Front_118
+    21300238: Pant_Front_119
+    21300240: Pant_Front_120
+    21300242: Pant_Front_121
+    21300244: Pant_Front_122
+    21300246: Pant_Front_123
+    21300248: Pant_Front_124
+    21300250: Pant_Front_125
+    21300252: Pant_Front_126
+    21300254: Pant_Front_127
+    21300256: Pant_Front_128
+    21300258: Pant_Front_129
+    21300260: Pant_Front_130
+    21300262: Pant_Front_131
+    21300264: Pant_Front_132
+    21300266: Pant_Front_133
+    21300268: Pant_Front_134
+    21300270: Pant_Front_135
+    21300272: Pant_Front_136
+    21300274: Pant_Front_137
+    21300276: Pant_Front_138
+    21300278: Pant_Front_139
+    21300280: Pant_Front_140
+    21300282: Pant_Front_141
+    21300284: Pant_Front_142
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pant_Front_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1928
+        width: 141
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_1
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1912
+        width: 141
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_2
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1910
+        width: 140
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_3
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1916
+        width: 143
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_4
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1897
+        width: 138
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1727
+        width: 77
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1728
+        width: 92
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1723
+        width: 79
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_8
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1720
+        width: 97
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_9
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1720
+        width: 76
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_10
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1718
+        width: 93
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_11
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1719
+        width: 87
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_12
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1720
+        width: 103
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_13
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1687
+        width: 77
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_14
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1688
+        width: 96
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1568
+        width: 63
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1555
+        width: 70
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1563
+        width: 59
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_18
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1551
+        width: 66
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_19
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1561
+        width: 60
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_20
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1539
+        width: 69
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_21
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1553
+        width: 65
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_22
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1532
+        width: 71
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_23
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1549
+        width: 59
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_24
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1540
+        width: 68
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1437
+        width: 141
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: -0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_26
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1400
+        width: 141
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_27
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1399
+        width: 140
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_28
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1409
+        width: 143
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_29
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1387
+        width: 138
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1236
+        width: 77
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_31
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1237
+        width: 92
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_32
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1212
+        width: 79
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_33
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1209
+        width: 97
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_34
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1213
+        width: 76
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_35
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1210
+        width: 93
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_36
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1214
+        width: 87
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_37
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1214
+        width: 103
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_38
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1177
+        width: 77
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_39
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1178
+        width: 96
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1077
+        width: 63
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_41
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1064
+        width: 70
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_42
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1047
+        width: 59
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_43
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1034
+        width: 66
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_44
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1055
+        width: 60
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_45
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1033
+        width: 69
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_46
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1047
+        width: 65
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_47
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1026
+        width: 71
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_48
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1039
+        width: 59
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_49
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1030
+        width: 68
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 914
+        width: 141
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_51
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 885
+        width: 141
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_52
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 888
+        width: 140
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_53
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 902
+        width: 143
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_54
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 883
+        width: 138
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_55
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 713
+        width: 77
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_56
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 714
+        width: 92
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_57
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 697
+        width: 79
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_58
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 695
+        width: 97
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_59
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 703
+        width: 76
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_60
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 701
+        width: 93
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_61
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 708
+        width: 87
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_62
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 708
+        width: 103
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_63
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 673
+        width: 77
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_64
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 674
+        width: 96
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_65
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 554
+        width: 63
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_66
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 541
+        width: 70
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_67
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 535
+        width: 59
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_68
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 522
+        width: 66
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_69
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 548
+        width: 60
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_70
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 526
+        width: 69
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_71
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 541
+        width: 65
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_72
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 520
+        width: 71
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_73
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 535
+        width: 59
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_74
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 526
+        width: 68
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_75
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 373
+        width: 141
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_76
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 370
+        width: 141
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_77
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 386
+        width: 140
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_78
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 396
+        width: 143
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_79
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 380
+        width: 138
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 182
+        width: 77
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_81
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 183
+        width: 92
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_82
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 184
+        width: 79
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_83
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 181
+        width: 97
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_84
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 199
+        width: 76
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_85
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 197
+        width: 93
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_86
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 201
+        width: 87
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_87
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 201
+        width: 103
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_88
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 170
+        width: 77
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_89
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 171
+        width: 96
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_90
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 13
+        width: 63
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_91
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 70
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_92
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 21
+        width: 59
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_93
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 9
+        width: 66
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_94
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 33
+        width: 60
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_95
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 11
+        width: 69
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_96
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 34
+        width: 65
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_97
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 13
+        width: 71
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_98
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 32
+        width: 59
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pant_Front_99
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 23
+        width: 68
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

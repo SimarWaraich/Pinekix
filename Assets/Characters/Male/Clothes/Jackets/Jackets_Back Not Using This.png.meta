@@ -1,0 +1,2309 @@
+fileFormatVersion: 2
+guid: 70bb57e1f02ca4f64b03b456f3499129
+timeCreated: 1510662317
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Jackets1_uprArmL1
+    21300002: Jackets1_torso1
+    21300004: Jackets1_uprArmR1
+    21300006: Jackets1_uprArmL5
+    21300008: Jackets1_torso5
+    21300010: Jackets1_uprArmR5
+    21300012: Jackets1_uprArmL2
+    21300014: Jackets1_torso2
+    21300016: Jackets1_uprArmR2
+    21300018: Jackets1_uprArmL4
+    21300020: Jackets1_torso4
+    21300022: Jackets1_uprArmR4
+    21300024: Jackets1_uprArmL3
+    21300026: Jackets1_torso3
+    21300028: Jackets1_midArmL1
+    21300030: Jackets1_lowertorso1
+    21300032: Jackets1_midArmR1
+    21300034: Jackets1_midArmL5
+    21300036: Jackets1_lowertorso5
+    21300038: Jackets1_midArmR5
+    21300040: Jackets1_midArmL2
+    21300042: Jackets1_lowertorso2
+    21300044: Jackets1_midArmR2
+    21300046: Jackets1_midArmL4
+    21300048: Jackets1_lowertorso4
+    21300050: Jackets1_midArmR4
+    21300052: Jackets1_midArmL3
+    21300054: Jackets1_lowertorso3
+    21300056: Jackets2_uprArmL2
+    21300058: Jackets2_torso2
+    21300060: Jackets2_uprArmR2
+    21300062: Jackets2_uprArmL1
+    21300064: Jackets2_torso1
+    21300066: Jackets2_uprArmR1
+    21300068: Jackets2_uprArmL5
+    21300070: Jackets2_torso5
+    21300072: Jackets2_uprArmR5
+    21300074: Jackets2_uprArmL4
+    21300076: Jackets2_torso4
+    21300078: Jackets2_uprArmR4
+    21300080: Jackets2_uprArmL3
+    21300082: Jackets2_torso3
+    21300084: Jackets2_midArmL2
+    21300086: Jackets2_lowertorso2
+    21300088: Jackets2_midArmR2
+    21300090: Jackets2_midArmL1
+    21300092: Jackets2_lowertorso1
+    21300094: Jackets2_midArmR1
+    21300096: Jackets2_midArmL5
+    21300098: Jackets2_lowertorso5
+    21300100: Jackets2_midArmR5
+    21300102: Jackets2_midArmL4
+    21300104: Jackets2_lowertorso4
+    21300106: Jackets2_midArmR4
+    21300108: Jackets2_midArmL3
+    21300110: Jackets2_lowertorso3
+    21300112: Jackets3_uprArmL1
+    21300114: Jackets3_torso1
+    21300116: Jackets3_uprArmR1
+    21300118: Jackets3_uprArmL2
+    21300120: Jackets3_torso2
+    21300122: Jackets3_uprArmR2
+    21300124: Jackets3_uprArmL3
+    21300126: Jackets3_torso3
+    21300128: Jackets3_uprArmR3
+    21300130: Jackets3_uprArmL4
+    21300132: Jackets3_torso4
+    21300134: Jackets3_uprArmR4
+    21300136: Jackets3_uprArmL5
+    21300138: Jackets3_torso5
+    21300140: Jackets3_midArmL1
+    21300142: Jackets3_lowertorso1
+    21300144: Jackets3_midArmR1
+    21300146: Jackets3_midArmL2
+    21300148: Jackets3_lowertorso2
+    21300150: Jackets3_midArmR2
+    21300152: Jackets3_midArmL3
+    21300154: Jackets3_lowertorso3
+    21300156: Jackets3_midArmR3
+    21300158: Jackets3_midArmL4
+    21300160: Jackets3_lowertorso4
+    21300162: Jackets3_midArmR4
+    21300164: Jackets3_midArmL5
+    21300166: Jackets3_lowertorso5
+    21300168: Jackets4_uprArmL1
+    21300170: Jackets4_torso1
+    21300172: Jackets4_uprArmR1
+    21300174: Jackets4_uprArmL5
+    21300176: Jackets4_torso5
+    21300178: Jackets4_uprArmR5
+    21300180: Jackets4_uprArmL4
+    21300182: Jackets4_torso4
+    21300184: Jackets4_uprArmR4
+    21300186: Jackets4_uprArmL3
+    21300188: Jackets4_torso3
+    21300190: Jackets4_uprArmR3
+    21300192: Jackets4_uprArmL2
+    21300194: Jackets4_torso2
+    21300196: Jackets4_midArmL1
+    21300198: Jackets4_lowertorso1
+    21300200: Jackets4_midArmR1
+    21300202: Jackets4_midArmL5
+    21300204: Jackets4_lowertorso5
+    21300206: Jackets4_midArmR5
+    21300208: Jackets4_midArmL4
+    21300210: Jackets4_lowertorso4
+    21300212: Jackets4_midArmR4
+    21300214: Jackets4_midArmL3
+    21300216: Jackets4_lowertorso3
+    21300218: Jackets4_midArmR3
+    21300220: Jackets4_midArmL2
+    21300222: Jackets4_lowertorso2
+    21300224: Jackets5_uprArmL2
+    21300226: Jackets5_torso2
+    21300228: Jackets5_uprArmR2
+    21300230: Jackets5_uprArmL1
+    21300232: Jackets5_torso1
+    21300234: Jackets5_uprArmR1
+    21300236: Jackets5_uprArmL3
+    21300238: Jackets5_torso3
+    21300240: Jackets5_uprArmR3
+    21300242: Jackets5_uprArmL5
+    21300244: Jackets5_torso5
+    21300246: Jackets5_uprArmR5
+    21300248: Jackets5_uprArmL4
+    21300250: Jackets5_torso4
+    21300252: Jackets5_midArmL2
+    21300254: Jackets5_lowertorso2
+    21300256: Jackets5_midArmR2
+    21300258: Jackets5_midArmL1
+    21300260: Jackets5_lowertorso1
+    21300262: Jackets5_midArmR1
+    21300264: Jackets5_midArmL3
+    21300266: Jackets5_lowertorso3
+    21300268: Jackets5_midArmR3
+    21300270: Jackets5_midArmL5
+    21300272: Jackets5_lowertorso5
+    21300274: Jackets5_midArmR5
+    21300276: Jackets5_midArmL4
+    21300278: Jackets5_lowertorso4
+    21300280: Jackets1_uprArmR3
+    21300282: Jackets1_midArmR3
+    21300284: Jackets2_uprArmR3
+    21300286: Jackets2_midArmR3
+    21300288: Jackets3_uprArmR5
+    21300290: Jackets3_midArmR5
+    21300292: Jackets4_uprArmR2
+    21300294: Jackets4_midArmR2
+    21300296: Jackets5_uprArmR4
+    21300298: Jackets5_midArmR4
+    21300300: Jackets_Back_0
+    21300302: Jackets_Back_1
+    21300304: Jackets_Back_2
+    21300306: Jackets_Back_3
+    21300308: Jackets_Back_4
+    21300310: Jackets_Back_5
+    21300312: Jackets_Back_6
+    21300314: Jackets_Back_7
+    21300316: Jackets_Back_8
+    21300318: Jackets_Back_9
+    21300320: Jackets_Back_10
+    21300322: Jackets_Back_11
+    21300324: Jackets_Back_12
+    21300326: Jackets_Back_13
+    21300328: Jackets_Back_14
+    21300330: Jackets_Back_15
+    21300332: Jackets_Back_16
+    21300334: Jackets_Back_17
+    21300336: Jackets_Back_18
+    21300338: Jackets_Back_19
+    21300340: Jackets_Back_20
+    21300342: Jackets_Back_21
+    21300344: Jackets_Back_22
+    21300346: Jackets_Back_23
+    21300348: Jackets_Back_24
+    21300350: Jackets_Back_25
+    21300352: Jackets_Back_26
+    21300354: Jackets_Back_27
+    21300356: Jackets_Back_28
+    21300358: Jackets_Back_29
+    21300360: Jackets_Back_30
+    21300362: Jackets_Back_31
+    21300364: Jackets_Back_32
+    21300366: Jackets_Back_33
+    21300368: Jackets_Back_34
+    21300370: Jackets_Back_35
+    21300372: Jackets_Back_36
+    21300374: Jackets_Back_37
+    21300376: Jackets_Back_38
+    21300378: Jackets_Back_39
+    21300380: Jackets_Back_40
+    21300382: Jackets_Back_41
+    21300384: Jackets_Back_42
+    21300386: Jackets_Back_43
+    21300388: Jackets_Back_44
+    21300390: Jackets_Back_45
+    21300392: Jackets_Back_46
+    21300394: Jackets_Back_47
+    21300396: Jackets_Back_48
+    21300398: Jackets_Back_49
+    21300400: Jackets_Back_50
+    21300402: Jackets_Back_51
+    21300404: Jackets_Back_52
+    21300406: Jackets_Back_53
+    21300408: Jackets_Back_54
+    21300410: Jackets_Back_55
+    21300412: Jackets_Back_56
+    21300414: Jackets_Back_57
+    21300416: Jackets_Back_58
+    21300418: Jackets_Back_59
+    21300420: Jackets_Back_60
+    21300422: Jackets_Back_61
+    21300424: Jackets_Back_62
+    21300426: Jackets_Back_63
+    21300428: Jackets_Back_64
+    21300430: Jackets_Back_65
+    21300432: Jackets_Back_66
+    21300434: Jackets_Back_67
+    21300436: Jackets_Back_68
+    21300438: Jackets_Back_69
+    21300440: Jackets_Back_70
+    21300442: Jackets_Back_71
+    21300444: Jackets_Back_72
+    21300446: Jackets_Back_73
+    21300448: Jackets_Back_74
+    21300450: Jackets_Back_75
+    21300452: Jackets_Back_76
+    21300454: Jackets_Back_77
+    21300456: Jackets_Back_78
+    21300458: Jackets_Back_79
+    21300460: Jackets_Back_80
+    21300462: Jackets_Back_81
+    21300464: Jackets_Back_82
+    21300466: Jackets_Back_83
+    21300468: Jackets_Back_84
+    21300470: Jackets_Back_85
+    21300472: Jackets_Back_86
+    21300474: Jackets_Back_87
+    21300476: Jackets_Back_88
+    21300478: Jackets_Back_89
+    21300480: Jackets_Back_90
+    21300482: Jackets_Back_91
+    21300484: Jackets_Back_92
+    21300486: Jackets_Back_93
+    21300488: Jackets_Back_94
+    21300490: Jackets_Back_95
+    21300492: Jackets_Back_96
+    21300494: Jackets_Back_97
+    21300496: Jackets_Back_98
+    21300498: Jackets_Back_99
+    21300500: Jackets_Back_100
+    21300502: Jackets_Back_101
+    21300504: Jackets_Back_102
+    21300506: Jackets_Back_103
+    21300508: Jackets_Back_104
+    21300510: Jackets_Back_105
+    21300512: Jackets_Back_106
+    21300514: Jackets_Back_107
+    21300516: Jackets_Back_108
+    21300518: Jackets_Back_109
+    21300520: Jackets_Back_110
+    21300522: Jackets_Back_111
+    21300524: Jackets_Back_112
+    21300526: Jackets_Back_113
+    21300528: Jackets_Back_114
+    21300530: Jackets_Back_115
+    21300532: Jackets_Back_116
+    21300534: Jackets_Back_117
+    21300536: Jackets_Back_118
+    21300538: Jackets_Back_119
+    21300540: Jackets_Back_120
+    21300542: Jackets_Back_121
+    21300544: Jackets_Back_122
+    21300546: Jackets_Back_123
+    21300548: Jackets_Back_124
+    21300550: Jackets_Back_125
+    21300552: Jackets_Back_126
+    21300554: Jackets_Back_127
+    21300556: Jackets_Back_128
+    21300558: Jackets_Back_129
+    21300560: Jackets_Back_130
+    21300562: Jackets_Back_131
+    21300564: Jackets_Back_132
+    21300566: Jackets_Back_133
+    21300568: Jackets_Back_134
+    21300570: Jackets_Back_135
+    21300572: Jackets_Back_136
+    21300574: Jackets_Back_137
+    21300576: Jackets_Back_138
+    21300578: Jackets_Back_139
+    21300580: Jackets_Back_140
+    21300582: Jackets_Back_141
+    21300584: Jackets_Back_142
+    21300586: Jackets_Back_143
+    21300588: Jackets_Back_144
+    21300590: Jackets_Back_145
+    21300592: Jackets_Back_146
+    21300594: Jackets_Back_147
+    21300596: Jackets_Back_148
+    21300598: Jackets_Back_149
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jackets_Back_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1782
+        width: 105
+        height: 140
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1751
+        width: 174
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1799
+        width: 110
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1784
+        width: 110
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_4
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1750
+        width: 174
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_5
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1788
+        width: 110
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_6
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1786
+        width: 90
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_7
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1750
+        width: 174
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_8
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1809
+        width: 114
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_9
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1799
+        width: 114
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_10
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1750
+        width: 173
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_11
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 1808
+        width: 113
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_12
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1802
+        width: 117
+        height: 131
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_13
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1750
+        width: 174
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_14
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 1815
+        width: 111
+        height: 126
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1586
+        width: 109
+        height: 100
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1609
+        width: 142
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1577
+        width: 103
+        height: 91
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_18
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1596
+        width: 102
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_19
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1622
+        width: 144
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_20
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1579
+        width: 104
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_21
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1603
+        width: 104
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_22
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1622
+        width: 143
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_23
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1616
+        width: 102
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_24
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1619
+        width: 106
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_25
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1622
+        width: 142
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_26
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1633
+        width: 105
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_27
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1641
+        width: 103
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_28
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1622
+        width: 142
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_29
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 1647
+        width: 112
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1388
+        width: 105
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_31
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1356
+        width: 172
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_32
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1375
+        width: 111
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_33
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1389
+        width: 109
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_34
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1356
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_35
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1364
+        width: 111
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_36
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1387
+        width: 101
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_37
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1356
+        width: 173
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_38
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1383
+        width: 111
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_39
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1392
+        width: 119
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_40
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1356
+        width: 172
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_41
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 1403
+        width: 111
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_42
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1387
+        width: 96
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_43
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1356
+        width: 172
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_44
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1433
+        width: 111
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_45
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1231
+        width: 102
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_46
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1248
+        width: 153
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_47
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1227
+        width: 94
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_48
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1233
+        width: 107
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_49
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1248
+        width: 151
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_50
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1216
+        width: 95
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_51
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1234
+        width: 108
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_52
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1248
+        width: 151
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_53
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1235
+        width: 94
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_54
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1233
+        width: 106
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_55
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1248
+        width: 151
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_56
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 1254
+        width: 94
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_57
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1236
+        width: 116
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_58
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1248
+        width: 151
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_59
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 1281
+        width: 95
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_60
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1021
+        width: 111
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_61
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 983
+        width: 175
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_62
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1006
+        width: 115
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_63
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1019
+        width: 105
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_64
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 983
+        width: 176
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_65
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 995
+        width: 115
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_66
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1019
+        width: 102
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_67
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 983
+        width: 176
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_68
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1014
+        width: 114
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_69
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1020
+        width: 107
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_70
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 983
+        width: 177
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_71
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 1033
+        width: 115
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_72
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1020
+        width: 108
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_73
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 983
+        width: 177
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_74
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 1058
+        width: 114
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_75
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 836
+        width: 102
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_76
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 853
+        width: 151
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_77
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 822
+        width: 110
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_78
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 836
+        width: 102
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_79
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 853
+        width: 149
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_80
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 811
+        width: 111
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_81
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 836
+        width: 104
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_82
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 853
+        width: 149
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_83
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 830
+        width: 111
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_84
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 837
+        width: 108
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_85
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 853
+        width: 150
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_86
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 849
+        width: 111
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_87
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 837
+        width: 110
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_88
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 853
+        width: 150
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_89
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 869
+        width: 110
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_90
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 623
+        width: 113
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_91
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 585
+        width: 173
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_92
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 607
+        width: 111
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_93
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 622
+        width: 108
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_94
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 585
+        width: 174
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_95
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 596
+        width: 111
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_96
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 622
+        width: 110
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_97
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 585
+        width: 174
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_98
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 616
+        width: 111
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_99
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 622
+        width: 110
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_100
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 585
+        width: 172
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_101
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 635
+        width: 111
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_102
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 619
+        width: 94
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_103
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 585
+        width: 172
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_104
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 653
+        width: 110
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 476
+        width: 67
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_106
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 478
+        width: 144
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_107
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 462
+        width: 79
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_108
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 476
+        width: 69
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_109
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 478
+        width: 146
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_110
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 452
+        width: 80
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_111
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 477
+        width: 71
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_112
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 478
+        width: 145
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_113
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 470
+        width: 80
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_114
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 476
+        width: 70
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_115
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 478
+        width: 144
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_116
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 490
+        width: 79
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_117
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 477
+        width: 71
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_118
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 478
+        width: 145
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_119
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 512
+        width: 80
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_120
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 255
+        width: 103
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_121
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 224
+        width: 172
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_122
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 245
+        width: 113
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_123
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 254
+        width: 95
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_124
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 224
+        width: 174
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_125
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 233
+        width: 113
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_126
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 255
+        width: 102
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_127
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 224
+        width: 173
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_128
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 253
+        width: 112
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_129
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 255
+        width: 106
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_130
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 224
+        width: 172
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_131
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 271
+        width: 113
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_132
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 259
+        width: 115
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_133
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 224
+        width: 172
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_134
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 313
+        width: 113
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_135
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 104
+        width: 72
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_136
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 107
+        width: 153
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_137
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 88
+        width: 76
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_138
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 103
+        width: 73
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_139
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 107
+        width: 151
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_140
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 77
+        width: 77
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_141
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 102
+        width: 70
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_142
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 107
+        width: 151
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_143
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 97
+        width: 75
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_144
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 102
+        width: 71
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_145
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 107
+        width: 152
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_146
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 115
+        width: 76
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_147
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 102
+        width: 71
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_148
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 107
+        width: 151
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jackets_Back_149
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 102
+        width: 77
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

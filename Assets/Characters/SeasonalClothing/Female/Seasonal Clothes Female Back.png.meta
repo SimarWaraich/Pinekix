@@ -1,0 +1,1403 @@
+fileFormatVersion: 2
+guid: e2a1e2572451a441587de6c999e99ae9
+timeCreated: 1513666093
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Seasonal Clothes Female Back_0
+    21300002: Seasonal Clothes Female Back_1
+    21300004: Seasonal Clothes Female Back_2
+    21300006: Seasonal Clothes Female Back_3
+    21300008: Seasonal Clothes Female Back_4
+    21300010: Seasonal Clothes Female Back_5
+    21300012: Seasonal Clothes Female Back_6
+    21300014: Seasonal Clothes Female Back_7
+    21300016: Seasonal Clothes Female Back_8
+    21300018: Seasonal Clothes Female Back_9
+    21300020: Seasonal Clothes Female Back_10
+    21300022: Seasonal Clothes Female Back_11
+    21300024: Seasonal Clothes Female Back_12
+    21300026: Seasonal Clothes Female Back_13
+    21300028: Seasonal Clothes Female Back_14
+    21300030: Seasonal Clothes Female Back_15
+    21300032: Seasonal Clothes Female Back_16
+    21300034: Seasonal Clothes Female Back_17
+    21300036: Seasonal Clothes Female Back_18
+    21300038: Seasonal Clothes Female Back_19
+    21300040: Seasonal Clothes Female Back_20
+    21300042: Seasonal Clothes Female Back_21
+    21300044: Seasonal Clothes Female Back_22
+    21300046: Seasonal Clothes Female Back_23
+    21300048: Seasonal Clothes Female Back_24
+    21300050: Seasonal Clothes Female Back_25
+    21300052: Seasonal Clothes Female Back_26
+    21300054: Seasonal Clothes Female Back_27
+    21300056: Seasonal Clothes Female Back_28
+    21300058: Seasonal Clothes Female Back_29
+    21300060: Seasonal Clothes Female Back_30
+    21300062: Seasonal Clothes Female Back_31
+    21300064: Seasonal Clothes Female Back_32
+    21300066: Seasonal Clothes Female Back_33
+    21300068: Seasonal Clothes Female Back_34
+    21300070: Seasonal Clothes Female Back_35
+    21300072: Seasonal Clothes Female Back_36
+    21300074: Seasonal Clothes Female Back_37
+    21300076: Seasonal Clothes Female Back_38
+    21300078: Seasonal Clothes Female Back_39
+    21300080: Seasonal Clothes Female Back_40
+    21300082: Seasonal Clothes Female Back_41
+    21300084: Seasonal Clothes Female Back_42
+    21300086: Seasonal Clothes Female Back_43
+    21300088: Seasonal Clothes Female Back_44
+    21300090: Seasonal Clothes Female Back_45
+    21300092: Seasonal Clothes Female Back_46
+    21300094: Seasonal Clothes Female Back_47
+    21300096: Seasonal Clothes Female Back_48
+    21300098: Seasonal Clothes Female Back_49
+    21300100: Seasonal Clothes Female Back_50
+    21300102: Seasonal Clothes Female Back_51
+    21300104: Seasonal Clothes Female Back_52
+    21300106: Seasonal Clothes Female Back_53
+    21300108: Seasonal Clothes Female Back_54
+    21300110: Seasonal Clothes Female Back_55
+    21300112: Seasonal Clothes Female Back_56
+    21300114: Seasonal Clothes Female Back_57
+    21300116: Seasonal Clothes Female Back_58
+    21300118: Seasonal Clothes Female Back_59
+    21300120: Seasonal Clothes Female Back_60
+    21300122: Seasonal Clothes Female Back_61
+    21300124: Seasonal Clothes Female Back_62
+    21300126: Seasonal Clothes Female Back_63
+    21300128: Seasonal Clothes Female Back_64
+    21300130: Seasonal Clothes Female Back_65
+    21300132: Seasonal Clothes Female Back_66
+    21300134: Seasonal Clothes Female Back_67
+    21300136: Seasonal Clothes Female Back_68
+    21300138: Seasonal Clothes Female Back_69
+    21300140: Seasonal Clothes Female Back_70
+    21300142: Seasonal Clothes Female Back_71
+    21300144: Seasonal Clothes Female Back_72
+    21300146: Seasonal Clothes Female Back_73
+    21300148: Seasonal Clothes Female Back_74
+    21300150: Seasonal Clothes Female Back_75
+    21300152: Seasonal Clothes Female Back_76
+    21300154: Seasonal Clothes Female Back_77
+    21300156: Seasonal Clothes Female Back_78
+    21300158: Seasonal Clothes Female Back_79
+    21300160: Seasonal Clothes Female Back_80
+    21300162: Seasonal Clothes Female Back_81
+    21300164: Seasonal Clothes Female Back_82
+    21300166: Seasonal Clothes Female Back_83
+    21300168: Seasonal Clothes Female Back_84
+    21300170: Seasonal Clothes Female Back_85
+    21300172: Seasonal Clothes Female Back_86
+    21300174: Seasonal Clothes Female Back_87
+    21300176: Seasonal Clothes Female Back_88
+    21300178: Seasonal Clothes Female Back_89
+    21300180: Seasonal Clothes Female Back_90
+    21300182: Seasonal Clothes Female Back_91
+    21300184: Seasonal Clothes Female Back_92
+    21300186: Seasonal Clothes Female Back_93
+    21300188: Seasonal Clothes Female Back_94
+    21300190: Seasonal Clothes Female Back_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1893
+        width: 75
+        height: 123
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1851
+        width: 136
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1889
+        width: 66
+        height: 126
+      alignment: 9
+      pivot: {x: 0.05, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_3
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1947
+        width: 46
+        height: 54
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_4
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1831
+        width: 137
+        height: 180
+      alignment: 9
+      pivot: {x: 0.49, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_5
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1947
+        width: 45
+        height: 51
+      alignment: 9
+      pivot: {x: 0.05, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_6
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1866
+        width: 80
+        height: 120
+      alignment: 9
+      pivot: {x: 0.04, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_7
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1808
+        width: 135
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_8
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1840
+        width: 65
+        height: 128
+      alignment: 9
+      pivot: {x: 0.04, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_9
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1877
+        width: 75
+        height: 123
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_10
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1796
+        width: 136
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_11
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1849
+        width: 66
+        height: 126
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1750
+        width: 45
+        height: 107
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1760
+        width: 129
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1750
+        width: 54
+        height: 105
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_15
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1746
+        width: 129
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_16
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1753
+        width: 39
+        height: 103
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_17
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1726
+        width: 134
+        height: 63
+      alignment: 9
+      pivot: {x: 0.52, y: 1.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_18
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1748
+        width: 52
+        height: 101
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_19
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 1761
+        width: 45
+        height: 107
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_20
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1705
+        width: 129
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_21
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1708
+        width: 55
+        height: 105
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1552
+        width: 129
+        height: 175
+      alignment: 9
+      pivot: {x: 0.47, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_23
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1545
+        width: 81
+        height: 120
+      alignment: 9
+      pivot: {x: 0.02, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_24
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1500
+        width: 135
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_25
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1534
+        width: 64
+        height: 128
+      alignment: 9
+      pivot: {x: 0.02, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_26
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1480
+        width: 52
+        height: 101
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_27
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1551
+        width: 79
+        height: 123
+      alignment: 9
+      pivot: {x: 0.04, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_28
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1478
+        width: 134
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_29
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1531
+        width: 66
+        height: 130
+      alignment: 9
+      pivot: {x: 0.04, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_30
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1512
+        width: 81
+        height: 119
+      alignment: 9
+      pivot: {x: 0.04, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_31
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1457
+        width: 135
+        height: 178
+      alignment: 9
+      pivot: {x: 0.49, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_32
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1495
+        width: 63
+        height: 127
+      alignment: 9
+      pivot: {x: 0.04, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1343
+        width: 108
+        height: 206
+      alignment: 9
+      pivot: {x: 0.6, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1394
+        width: 163
+        height: 127
+      alignment: 9
+      pivot: {x: 0.52, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_35
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1436
+        width: 39
+        height: 103
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_36
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1417
+        width: 134
+        height: 62
+      alignment: 9
+      pivot: {x: 0.52, y: 1.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_37
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1470
+        width: 45
+        height: 61
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_38
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1424
+        width: 50
+        height: 61
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_39
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1403
+        width: 42
+        height: 95
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_40
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1410
+        width: 53
+        height: 92
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_41
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1246
+        width: 116
+        height: 162
+      alignment: 9
+      pivot: {x: 0.565, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_42
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1399
+        width: 121
+        height: 51
+      alignment: 9
+      pivot: {x: 0.53, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_43
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1308
+        width: 144
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_44
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1233
+        width: 80
+        height: 119
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_45
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1186
+        width: 135
+        height: 178
+      alignment: 9
+      pivot: {x: 0.49, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_46
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1209
+        width: 64
+        height: 127
+      alignment: 9
+      pivot: {x: 0.04, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_47
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1269
+        width: 80
+        height: 94
+      alignment: 9
+      pivot: {x: 0.47, y: 1.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_48
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1285
+        width: 71
+        height: 91
+      alignment: 9
+      pivot: {x: 0.42, y: 1.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_49
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1030
+        width: 129
+        height: 175
+      alignment: 9
+      pivot: {x: 0.47, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_50
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1109
+        width: 42
+        height: 94
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_51
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1041
+        width: 143
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_52
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1097
+        width: 53
+        height: 93
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_53
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1131
+        width: 131
+        height: 141
+      alignment: 9
+      pivot: {x: 0.48, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_54
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1066
+        width: 79
+        height: 123
+      alignment: 9
+      pivot: {x: 0.05, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_55
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1010
+        width: 134
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_56
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1045
+        width: 65
+        height: 130
+      alignment: 9
+      pivot: {x: 0.04, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_57
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 797
+        width: 108
+        height: 206
+      alignment: 9
+      pivot: {x: 0.6, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_58
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 873
+        width: 163
+        height: 127
+      alignment: 9
+      pivot: {x: 0.52, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_59
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 835
+        width: 116
+        height: 162
+      alignment: 9
+      pivot: {x: 0.565, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_60
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 959
+        width: 80
+        height: 94
+      alignment: 9
+      pivot: {x: 0.47, y: 1.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_61
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 946
+        width: 71
+        height: 91
+      alignment: 9
+      pivot: {x: 0.42, y: 1.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_62
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 965
+        width: 92
+        height: 123
+      alignment: 9
+      pivot: {x: 0.535, y: 1.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_63
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 945
+        width: 150
+        height: 160
+      alignment: 9
+      pivot: {x: 0.55, y: 1.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_64
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 955
+        width: 72
+        height: 120
+      alignment: 9
+      pivot: {x: 0.48, y: 1.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_65
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 988
+        width: 46
+        height: 60
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_66
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 963
+        width: 50
+        height: 61
+      alignment: 9
+      pivot: {x: 0.01, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_67
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 782
+        width: 131
+        height: 141
+      alignment: 9
+      pivot: {x: 0.48, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_68
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 921
+        width: 121
+        height: 51
+      alignment: 9
+      pivot: {x: 0.53, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_69
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 709
+        width: 51
+        height: 54
+      alignment: 9
+      pivot: {x: 0.05, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_70
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 595
+        width: 135
+        height: 182
+      alignment: 9
+      pivot: {x: 0.49, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_71
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 705
+        width: 47
+        height: 54
+      alignment: 9
+      pivot: {x: 0.04, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_72
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 598
+        width: 92
+        height: 123
+      alignment: 9
+      pivot: {x: 0.535, y: 1.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_73
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 571
+        width: 151
+        height: 160
+      alignment: 9
+      pivot: {x: 0.55, y: 1.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_74
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 681
+        width: 131
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_75
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 561
+        width: 72
+        height: 120
+      alignment: 9
+      pivot: {x: 0.48, y: 1.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_76
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 501
+        width: 92
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6, y: 1.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_77
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 420
+        width: 168
+        height: 160
+      alignment: 9
+      pivot: {x: 0.53, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_78
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 495
+        width: 87
+        height: 121
+      alignment: 9
+      pivot: {x: 0.44, y: 1.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_79
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 421
+        width: 100
+        height: 115
+      alignment: 9
+      pivot: {x: 0.61, y: 1.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_80
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 388
+        width: 185
+        height: 156
+      alignment: 9
+      pivot: {x: 0.51, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_81
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 417
+        width: 97
+        height: 116
+      alignment: 9
+      pivot: {x: 0.37, y: 1.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_82
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 284
+        width: 131
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_83
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 273
+        width: 46
+        height: 55
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_84
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 174
+        width: 137
+        height: 180
+      alignment: 9
+      pivot: {x: 0.49, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_85
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 290
+        width: 45
+        height: 51
+      alignment: 9
+      pivot: {x: 0.05, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_86
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 317
+        width: 51
+        height: 54
+      alignment: 9
+      pivot: {x: 0.05, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_87
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 238
+        width: 135
+        height: 182
+      alignment: 9
+      pivot: {x: 0.49, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_88
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 323
+        width: 46
+        height: 54
+      alignment: 9
+      pivot: {x: 0.04, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_89
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 112
+        width: 100
+        height: 115
+      alignment: 9
+      pivot: {x: 0.61, y: 1.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_90
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 65
+        width: 186
+        height: 156
+      alignment: 9
+      pivot: {x: 0.51, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_91
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 106
+        width: 97
+        height: 116
+      alignment: 9
+      pivot: {x: 0.37, y: 1.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_92
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 152
+        width: 92
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6, y: 1.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_93
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 71
+        width: 169
+        height: 160
+      alignment: 9
+      pivot: {x: 0.53, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_94
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 146
+        width: 87
+        height: 121
+      alignment: 9
+      pivot: {x: 0.44, y: 1.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Female Back_95
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 89
+        width: 129
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

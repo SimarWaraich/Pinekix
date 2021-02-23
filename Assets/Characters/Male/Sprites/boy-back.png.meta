@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: 9f138a2fa237ea8418baf40c3398dd14
+timeCreated: 1502445314
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: boy-back_0
+    21300002: boy-back_1
+    21300004: boy-back_2
+    21300006: boy-back_3
+    21300008: boy-back_4
+    21300010: boy-back_5
+    21300012: boy-back_6
+    21300014: boy-back_7
+    21300016: boy-back_8
+    21300018: boy-back_9
+    21300020: boy-back_10
+    21300022: boy-back_11
+    21300024: boy-back_12
+    21300026: boy-back_13
+    21300028: boy-back_14
+    21300030: boy-back_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: boy-back_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 852
+        width: 66
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 67.5}
+        - {x: -33, y: 55.5}
+        - {x: -33, y: 5.5}
+        - {x: -9, y: -65.5}
+        - {x: -6, y: -67.5}
+        - {x: 33, y: -67.5}
+        - {x: 33, y: 37.5}
+        - {x: 26, y: 67.5}
+    - name: boy-back_1
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 822
+        width: 100
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 66.5}
+        - {x: -50, y: 59.5}
+        - {x: -50, y: -27.5}
+        - {x: -38, y: -66.5}
+        - {x: 49, y: -66.5}
+        - {x: 50, y: -63.5}
+        - {x: 50, y: 61.5}
+        - {x: 45, y: 66.5}
+    - name: boy-back_2
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 818
+        width: 106
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 60.5}
+        - {x: -53, y: 52.5}
+        - {x: -53, y: 2.5}
+        - {x: 10, y: -60.5}
+        - {x: 53, y: -60.5}
+        - {x: 53, y: -20.5}
+        - {x: -3, y: 60.5}
+    - name: boy-back_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 740
+        width: 42
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 51.5}
+        - {x: -21, y: -17.5}
+        - {x: -12, y: -51.5}
+        - {x: 21, y: -51.5}
+        - {x: 21, y: 30.5}
+        - {x: 20, y: 43.5}
+        - {x: 17, y: 51.5}
+    - name: boy-back_4
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 700
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 35}
+        - {x: -26, y: 35}
+        - {x: -26, y: -33}
+        - {x: -21, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 12}
+        - {x: 17, y: 31}
+    - name: boy-back_5
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 700
+        width: 109
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: 38}
+        - {x: -54.5, y: 6}
+        - {x: 13.5, y: -38}
+        - {x: 54.5, y: -38}
+        - {x: 54.5, y: -17}
+        - {x: -2.5, y: 38}
+    - name: boy-back_6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 627
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 33}
+        - {x: -19.5, y: -30}
+        - {x: -10.5, y: -33}
+        - {x: 19.5, y: -33}
+        - {x: 19.5, y: 6}
+        - {x: 5.5, y: 33}
+    - name: boy-back_7
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 602
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 29.5}
+        - {x: -33.5, y: 5.5}
+        - {x: -16.5, y: -29.5}
+        - {x: 30.5, y: -29.5}
+        - {x: 33.5, y: -20.5}
+        - {x: 33.5, y: 14.5}
+        - {x: 25.5, y: 29.5}
+    - name: boy-back_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 360
+        width: 87
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 89.5}
+        - {x: -43.5, y: 50.5}
+        - {x: -43.5, y: -88.5}
+        - {x: -40.5, y: -89.5}
+        - {x: -2.5, y: -89.5}
+        - {x: 43.5, y: 4.5}
+        - {x: 43.5, y: 80.5}
+        - {x: 40.5, y: 89.5}
+    - name: boy-back_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 396
+        width: 164
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 100.5}
+        - {x: 40, y: 104.5}
+        - {x: -47, y: 104.5}
+        - {x: -62, y: 96.5}
+        - {x: -82, y: 78.5}
+        - {x: -82, y: 23.5}
+        - {x: -79, y: 9.5}
+        - {x: -42, y: -104.5}
+        - {x: 59, y: -104.5}
+        - {x: 69, y: -96.5}
+        - {x: 82, y: 1.5}
+        - {x: 82, y: 71.5}
+    - name: boy-back_10
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 314
+        width: 72
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 92}
+        - {x: -24, y: 92}
+        - {x: -36, y: 77}
+        - {x: -36, y: -85}
+        - {x: -28, y: -92}
+        - {x: 7, y: -92}
+        - {x: 22, y: -58}
+        - {x: 36, y: 11}
+        - {x: 36, y: 89}
+    - name: boy-back_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 149
+        width: 56
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 77}
+        - {x: -28, y: 45}
+        - {x: -28, y: -69}
+        - {x: -25, y: -74}
+        - {x: -21, y: -77}
+        - {x: 1, y: -77}
+        - {x: 7, y: -72}
+        - {x: 28, y: 35}
+        - {x: 28, y: 77}
+    - name: boy-back_12
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 173
+        width: 133
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.5, y: 53}
+        - {x: -45.5, y: 53}
+        - {x: -66.5, y: 37}
+        - {x: -66.5, y: -42}
+        - {x: -29.5, y: -53}
+        - {x: 44.5, y: -53}
+        - {x: 63.5, y: -46}
+        - {x: 66.5, y: -41}
+        - {x: 66.5, y: 25}
+    - name: boy-back_13
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 133
+        width: 51
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 71.5}
+        - {x: -16.5, y: 71.5}
+        - {x: -25.5, y: 59.5}
+        - {x: -25.5, y: -11.5}
+        - {x: -10.5, y: -71.5}
+        - {x: 14.5, y: -71.5}
+        - {x: 24.5, y: -64.5}
+        - {x: 25.5, y: -24.5}
+        - {x: 25.5, y: 64.5}
+    - name: boy-back_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 42
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 25}
+        - {x: -36, y: 25}
+        - {x: -36, y: -25}
+        - {x: -9, y: -25}
+        - {x: 36, y: -13}
+        - {x: 36, y: 12}
+        - {x: 34, y: 13}
+    - name: boy-back_15
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 77
+        width: 83
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 30.5}
+        - {x: -41.5, y: -30.5}
+        - {x: 4.5, y: -30.5}
+        - {x: 35.5, y: -25.5}
+        - {x: 41.5, y: -18.5}
+        - {x: 41.5, y: 16.5}
+        - {x: 0.5, y: 30.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

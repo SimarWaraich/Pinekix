@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 151a81225908e4a5b83d07bf3ee55f25
+timeCreated: 1511258454
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shorts-Skirts_0
+    21300002: shorts-Skirts_1
+    21300004: shorts-Skirts_2
+    21300006: shorts-Skirts_3
+    21300008: shorts-Skirts_4
+    21300010: shorts-Skirts_5
+    21300012: shorts-Skirts_6
+    21300014: shorts-Skirts_7
+    21300016: shorts-Skirts_8
+    21300018: shorts-Skirts_9
+    21300020: shorts-Skirts_10
+    21300022: shorts-Skirts_11
+    21300024: shorts-Skirts_12
+    21300026: shorts-Skirts_13
+    21300028: shorts-Skirts_14
+    21300030: shorts-Skirts_15
+    21300032: shorts-Skirts_16
+    21300034: shorts-Skirts_17
+    21300036: shorts-Skirts_18
+    21300038: shorts-Skirts_19
+    21300040: shorts-Skirts_20
+    21300042: shorts-Skirts_21
+    21300044: shorts-Skirts_22
+    21300046: shorts-Skirts_23
+    21300048: shorts-Skirts_24
+    21300050: shorts-Skirts_25
+    21300052: shorts-Skirts_26
+    21300054: shorts-Skirts_27
+    21300056: shorts-Skirts_28
+    21300058: shorts-Skirts_29
+    21300060: shorts-Skirts_30
+    21300062: shorts-Skirts_31
+    21300064: shorts-Skirts_32
+    21300066: shorts-Skirts_33
+    21300068: shorts-Skirts_34
+    21300070: shorts-Skirts_35
+    21300072: shorts-Skirts_36
+    21300074: shorts-Skirts_37
+    21300076: shorts-Skirts_38
+    21300078: shorts-Skirts_39
+    21300080: shorts-Skirts_40
+    21300082: shorts-Skirts_41
+    21300084: shorts-Skirts_42
+    21300086: shorts-Skirts_43
+    21300088: shorts-Skirts_44
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shorts-Skirts_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1788
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1788
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_2
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1788
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_3
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1788
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_4
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1788
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1536
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1536
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_7
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1536
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_8
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1536
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_9
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1536
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1289
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_11
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1289
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_12
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1289
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_13
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1289
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_14
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1289
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1037
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_16
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1037
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_17
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1037
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_18
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1037
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_19
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1037
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_20
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 833
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_21
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 833
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_22
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 787
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_23
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 787
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_24
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 787
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_25
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 787
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_26
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 787
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_27
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 564
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_28
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 564
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_29
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 520
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_30
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 520
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_31
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 520
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_32
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 520
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_33
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 296
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_34
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 296
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_35
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 267
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_36
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 267
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_37
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 267
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_38
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 267
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_39
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 15
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_40
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 15
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_41
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 15
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_42
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 15
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_43
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 27
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shorts-Skirts_44
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 27
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

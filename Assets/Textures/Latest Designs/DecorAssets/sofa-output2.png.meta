@@ -1,0 +1,619 @@
+fileFormatVersion: 2
+guid: 0a16e85bcc847494781fdd68d02fb546
+timeCreated: 1512387483
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sofa-output2_0
+    21300002: sofa-output2_1
+    21300004: sofa-output2_2
+    21300006: sofa-output2_3
+    21300008: sofa-output2_4
+    21300010: sofa-output2_5
+    21300012: sofa-output2_6
+    21300014: sofa-output2_7
+    21300016: sofa-output2_8
+    21300018: sofa-output2_9
+    21300020: sofa-output2_10
+    21300022: sofa-output2_11
+    21300024: sofa-output2_12
+    21300026: sofa-output2_13
+    21300028: sofa-output2_14
+    21300030: sofa-output2_15
+    21300032: sofa-output2_16
+    21300034: sofa-output2_17
+    21300036: sofa-output2_18
+    21300038: sofa-output2_19
+    21300040: sofa-output2_20
+    21300042: sofa-output2_21
+    21300044: sofa-output2_22
+    21300046: sofa-output2_23
+    21300048: sofa-output2_24
+    21300050: sofa-output2_25
+    21300052: sofa-output2_26
+    21300054: sofa-output2_27
+    21300056: sofa-output2_28
+    21300058: sofa-output2_29
+    21300060: sofa-output2_30
+    21300062: sofa-output2_31
+    21300064: sofa-output2_32
+    21300066: sofa-output2_33
+    21300068: sofa-output2_34
+    21300070: sofa-output2_35
+    21300072: sofa-output2_36
+    21300074: sofa-output2_37
+    21300076: sofa-output2_38
+    21300078: sofa-output2_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 80
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sofa-output2_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1849
+        width: 233
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_1
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1822
+        width: 229
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_2
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1822
+        width: 229
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_3
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1849
+        width: 232
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_4
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1790
+        width: 226
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_5
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1788
+        width: 227
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1555
+        width: 232
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1528
+        width: 228
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_8
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1528
+        width: 229
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_9
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1555
+        width: 232
+        height: 176
+      alignment: 9
+      pivot: {x: 0.52, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_10
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1514
+        width: 228
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_11
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1514
+        width: 225
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1259
+        width: 211
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1244
+        width: 202
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_14
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1244
+        width: 202
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_15
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1259
+        width: 211
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_16
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1183
+        width: 246
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_17
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1183
+        width: 234
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 989
+        width: 207
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_19
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 973
+        width: 198
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_20
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 973
+        width: 198
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_21
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 989
+        width: 207
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_22
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 901
+        width: 235
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_23
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 901
+        width: 246
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 690
+        width: 331
+        height: 195
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_25
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 678
+        width: 324
+        height: 207
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_26
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 678
+        width: 324
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_27
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 690
+        width: 331
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 407
+        width: 326
+        height: 191
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_29
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 395
+        width: 319
+        height: 203
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_30
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 395
+        width: 319
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_31
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 407
+        width: 326
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_32
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 399
+        width: 244
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_33
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 399
+        width: 233
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 84
+        width: 225
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 84
+        width: 227
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_36
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 84
+        width: 227
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_37
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 84
+        width: 226
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_38
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 87
+        width: 233
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sofa-output2_39
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 87
+        width: 244
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

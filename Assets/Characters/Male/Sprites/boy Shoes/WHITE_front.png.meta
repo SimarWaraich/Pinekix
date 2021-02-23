@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 5ff81ffdddad247a5b93bdd2e892e8f1
+timeCreated: 1505717891
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: White_1_L
+    21300002: White_1_R
+    21300004: Black_1_L
+    21300006: Black_1_R
+    21300008: Brown_1_L
+    21300010: Brown_1_R
+    21300012: Red_1_L
+    21300014: Red_1_R
+    21300016: Blue_1_L
+    21300018: Blue_1_R
+    21300020: White_2_L
+    21300022: White_2_R
+    21300024: Black_2_L
+    21300026: Black_2_R
+    21300028: Brown_2_L
+    21300030: Brown_2_R
+    21300032: Red_2_L
+    21300034: Red_2_R
+    21300036: Blue_2_L
+    21300038: Blue_2_R
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: White_1_L
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 502
+        width: 101
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White_1_R
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 503
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black_1_L
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 502
+        width: 101
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black_1_R
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 503
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Brown_1_L
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 502
+        width: 101
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Brown_1_R
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 503
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Red_1_L
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 502
+        width: 101
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Red_1_R
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 503
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_1_L
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 502
+        width: 101
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_1_R
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 503
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White_2_L
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 372
+        width: 102
+        height: 59
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White_2_R
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 372
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black_2_L
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 385
+        width: 102
+        height: 58
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black_2_R
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 385
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Brown_2_L
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 385
+        width: 102
+        height: 58
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Brown_2_R
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 385
+        width: 60
+        height: 71
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Red_2_L
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 385
+        width: 102
+        height: 58
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Red_2_R
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 385
+        width: 62
+        height: 71
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_2_L
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 385
+        width: 101
+        height: 58
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_2_R
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 385
+        width: 62
+        height: 71
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

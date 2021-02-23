@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: cff86a459bf79485e8f7f977c9c9ac15
+timeCreated: 1509975219
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dress-extra_0
+    21300002: dress-extra_1
+    21300004: dress-extra_2
+    21300006: dress-extra_3
+    21300008: dress-extra_4
+    21300010: dress-extra_5
+    21300012: dress-extra_6
+    21300014: dress-extra_7
+    21300016: dress-extra_8
+    21300018: dress-extra_9
+    21300020: dress-extra_10
+    21300022: dress-extra_11
+    21300024: dress-extra_12
+    21300026: dress-extra_13
+    21300028: dress-extra_14
+    21300030: dress-extra_15
+    21300032: dress-extra_16
+    21300034: dress-extra_17
+    21300036: dress-extra_18
+    21300038: dress-extra_19
+    21300040: dress-extra_20
+    21300042: dress-extra_21
+    21300044: dress-extra_22
+    21300046: dress-extra_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dress-extra_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 813
+        width: 122
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_1
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 814
+        width: 122
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_2
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 814
+        width: 122
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 662
+        width: 132
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 663
+        width: 132
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_5
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 663
+        width: 132
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 547
+        width: 69
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 547
+        width: 75
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 547
+        width: 69
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_9
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 547
+        width: 75
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_10
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 547
+        width: 69
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_11
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 547
+        width: 75
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_12
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 312
+        width: 121
+        height: 184
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_13
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 312
+        width: 121
+        height: 184
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_14
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 312
+        width: 121
+        height: 184
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 146
+        width: 139
+        height: 130
+      alignment: 9
+      pivot: {x: 0.52, y: 1.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_16
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 146
+        width: 139
+        height: 130
+      alignment: 9
+      pivot: {x: 0.52, y: 1.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_17
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 146
+        width: 139
+        height: 130
+      alignment: 9
+      pivot: {x: 0.52, y: 1.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 16
+        width: 76
+        height: 89
+      alignment: 9
+      pivot: {x: 0.48, y: 1.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_19
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 16
+        width: 69
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_20
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 16
+        width: 76
+        height: 89
+      alignment: 9
+      pivot: {x: 0.48, y: 1.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_21
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 16
+        width: 69
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_22
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 16
+        width: 76
+        height: 89
+      alignment: 9
+      pivot: {x: 0.48, y: 1.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-extra_23
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 16
+        width: 69
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

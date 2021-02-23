@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: b8f8cfdbe34ad4c39a7b0f623c15a2d9
+timeCreated: 1516878488
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SocietyWalls4_0
+    21300002: SocietyWalls4_1
+    21300004: SocietyWalls4_2
+    21300006: SocietyWalls4_3
+    21300008: SocietyWalls4_4
+    21300010: SocietyWalls4_5
+    21300012: SocietyWalls4_6
+    21300014: SocietyWalls4_7
+    21300016: SocietyWalls4_8
+    21300018: SocietyWalls4_9
+    21300020: SocietyWalls4_10
+    21300022: SocietyWalls4_11
+    21300024: SocietyWalls4_12
+    21300026: SocietyWalls4_13
+    21300028: SocietyWalls4_14
+    21300030: SocietyWalls4_15
+    21300032: SocietyWalls4_16
+    21300034: SocietyWalls4_17
+    21300036: SocietyWalls4_18
+    21300038: SocietyWalls4_19
+    21300040: SocietyWalls4_20
+    21300042: SocietyWalls4_21
+    21300044: SocietyWalls4_22
+    21300046: SocietyWalls4_23
+    21300048: SocietyWalls4_24
+    21300050: SocietyWalls4_25
+    21300052: SocietyWalls4_26
+    21300054: SocietyWalls4_27
+    21300056: SocietyWalls4_28
+    21300058: SocietyWalls4_29
+    21300060: SocietyWalls4_30
+    21300062: SocietyWalls4_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 83
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SocietyWalls4_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1797
+        width: 132
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1798
+        width: 133
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1798
+        width: 133
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_3
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1798
+        width: 133
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_4
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1528
+        width: 104
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_5
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1521
+        width: 134
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_6
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1496
+        width: 133
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_7
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1473
+        width: 136
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1247
+        width: 135
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1514
+        width: 133
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_10
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1514
+        width: 133
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_11
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1514
+        width: 134
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 688
+        width: 132
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_13
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 688
+        width: 135
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_14
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 688
+        width: 132
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_15
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 688
+        width: 134
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_16
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 887
+        width: 133
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_17
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 887
+        width: 135
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_18
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 887
+        width: 134
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_19
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 887
+        width: 136
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_20
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 552
+        width: 133
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_21
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 554
+        width: 133
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_22
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 554
+        width: 132
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_23
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 287
+        width: 134
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 48
+        width: 134
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_25
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 46
+        width: 133
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_26
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 46
+        width: 133
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_27
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 47
+        width: 130
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_28
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 31
+        width: 126
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_29
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 17
+        width: 133
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_30
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 26
+        width: 132
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SocietyWalls4_31
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 17
+        width: 133
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

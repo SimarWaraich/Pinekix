@@ -1,0 +1,983 @@
+fileFormatVersion: 2
+guid: 6d335f6df7bb64a2cbe80e9743812dc7
+timeCreated: 1510040107
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: top1_1_torso
+    21300002: top2_1_upr_armL
+    21300004: top2_1_torso
+    21300006: top2_1_upr_armR
+    21300008: top3_1_torso
+    21300010: top1_1_upr_armL
+    21300012: top1_1_upr_armR
+    21300014: top3_1_upr_armL
+    21300016: top3_1_upr_armR
+    21300018: top2_1_lower_torso
+    21300020: top4_1_mid_armL
+    21300022: top4_1_upr_armL
+    21300024: top4_1_torso
+    21300026: top4_1_upr_armR
+    21300028: top4_1_mid_armR
+    21300030: top1_2_torso
+    21300032: top2_2_upr_armL
+    21300034: top2_2_torso
+    21300036: top2_2_upr_armR
+    21300038: top3_2_upr_armL
+    21300040: top3_2_torso
+    21300042: top3_2_upr_armR
+    21300044: top1_2_upr_armL
+    21300046: top1_2_upr_armR
+    21300048: top4_2_mid_armL
+    21300050: top4_2_upr_armL
+    21300052: top4_2_torso
+    21300054: top4_2_upr_armR
+    21300056: top4_2_mid_armR
+    21300058: top2_2_lower_torso
+    21300060: top1_3_torso
+    21300062: top2_3_upr_armL
+    21300064: top2_3_torso
+    21300066: top2_3_upr_armR
+    21300068: top3_3_upr_armL
+    21300070: top3_3_torso
+    21300072: top3_3_upr_armR
+    21300074: top1_3_upr_armL
+    21300076: top1_3_upr_armR
+    21300078: top4_3_mid_armL
+    21300080: top4_3_upr_armL
+    21300082: top4_3_torso
+    21300084: top4_3_upr_armR
+    21300086: top4_3_mid_armR
+    21300088: top2_3_lower_torso
+    21300090: top6_1_mid_armL
+    21300092: top6_1_upr_armL
+    21300094: top6_1_torso
+    21300096: top6_1_upr_armR
+    21300098: top6_1_mid_armR
+    21300100: top5_1_torso
+    21300102: top5_2_torso
+    21300104: top5_3_torso
+    21300106: top6_2_mid_armL
+    21300108: top6_2_upr_armL
+    21300110: top6_2_torso
+    21300112: top6_2_upr_armR
+    21300114: top6_2_mid_armR
+    21300116: top5_1_lower_torso
+    21300118: top5_2_lower_torso
+    21300120: top5_3_lower_torso
+    21300122: top6_3_mid_armL
+    21300124: top6_3_upr_armL
+    21300126: top6_3_torso
+    21300128: top6_3_upr_armR
+    21300130: top6_3_mid_armR
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: top1_1_torso
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1858
+        width: 131
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top2_1_upr_armL
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1982
+        width: 53
+        height: 47
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top2_1_torso
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1866
+        width: 132
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top2_1_upr_armR
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1978
+        width: 49
+        height: 50
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top3_1_torso
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1842
+        width: 133
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top1_1_upr_armL
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1915
+        width: 64
+        height: 60
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top1_1_upr_armR
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1913
+        width: 53
+        height: 63
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top3_1_upr_armL
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1937
+        width: 53
+        height: 45
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top3_1_upr_armR
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1926
+        width: 48
+        height: 55
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top2_1_lower_torso
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1747
+        width: 129
+        height: 62
+      alignment: 9
+      pivot: {x: 0.518, y: -0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top4_1_mid_armL
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1799
+        width: 40
+        height: 88
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top4_1_upr_armL
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1794
+        width: 105
+        height: 98
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top4_1_torso
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1772
+        width: 134
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top4_1_upr_armR
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1786
+        width: 87
+        height: 114
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top4_1_mid_armR
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1802
+        width: 73
+        height: 82
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top1_2_torso
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1386
+        width: 131
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top2_2_upr_armL
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1509
+        width: 53
+        height: 48
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top2_2_torso
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1394
+        width: 132
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top2_2_upr_armR
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1505
+        width: 49
+        height: 51
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top3_2_upr_armL
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1554
+        width: 53
+        height: 45
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top3_2_torso
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1459
+        width: 133
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top3_2_upr_armR
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1543
+        width: 47
+        height: 55
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top1_2_upr_armL
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1486
+        width: 64
+        height: 61
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top1_2_upr_armR
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1482
+        width: 53
+        height: 63
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top4_2_mid_armL
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1415
+        width: 40
+        height: 88
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top4_2_upr_armL
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1410
+        width: 105
+        height: 98
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top4_2_torso
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1388
+        width: 134
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top4_2_upr_armR
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1402
+        width: 87
+        height: 114
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top4_2_mid_armR
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1418
+        width: 73
+        height: 82
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top2_2_lower_torso
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1292
+        width: 129
+        height: 63
+      alignment: 9
+      pivot: {x: 0.518, y: -0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top1_3_torso
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1001
+        width: 131
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top2_3_upr_armL
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1125
+        width: 53
+        height: 48
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top2_3_torso
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1010
+        width: 132
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top2_3_upr_armR
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1121
+        width: 49
+        height: 51
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top3_3_upr_armL
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1169
+        width: 53
+        height: 45
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top3_3_torso
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1074
+        width: 133
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top3_3_upr_armR
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1158
+        width: 47
+        height: 55
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top1_3_upr_armL
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1102
+        width: 64
+        height: 61
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top1_3_upr_armR
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1098
+        width: 53
+        height: 63
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top4_3_mid_armL
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1031
+        width: 40
+        height: 88
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top4_3_upr_armL
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1026
+        width: 105
+        height: 98
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top4_3_torso
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1004
+        width: 134
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top4_3_upr_armR
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1018
+        width: 87
+        height: 114
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top4_3_mid_armR
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1034
+        width: 73
+        height: 82
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top2_3_lower_torso
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 933
+        width: 129
+        height: 63
+      alignment: 9
+      pivot: {x: 0.518, y: -0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top6_1_mid_armL
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 618
+        width: 29
+        height: 37
+      alignment: 9
+      pivot: {x: -0.08, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top6_1_upr_armL
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 591
+        width: 101
+        height: 91
+      alignment: 9
+      pivot: {x: 1, y: 1.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top6_1_torso
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 581
+        width: 133
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top6_1_upr_armR
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 581
+        width: 85
+        height: 111
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top6_1_mid_armR
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 618
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top5_1_torso
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 450
+        width: 127
+        height: 171
+      alignment: 9
+      pivot: {x: 0.53, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top5_2_torso
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 450
+        width: 127
+        height: 171
+      alignment: 9
+      pivot: {x: 0.53, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top5_3_torso
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 450
+        width: 127
+        height: 171
+      alignment: 9
+      pivot: {x: 0.53, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top6_2_mid_armL
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 354
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: -0.08, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top6_2_upr_armL
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 327
+        width: 98
+        height: 91
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top6_2_torso
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 317
+        width: 129
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top6_2_upr_armR
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 317
+        width: 82
+        height: 111
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top6_2_mid_armR
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 354
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top5_1_lower_torso
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 289
+        width: 127
+        height: 74
+      alignment: 9
+      pivot: {x: 0.51, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top5_2_lower_torso
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 289
+        width: 127
+        height: 74
+      alignment: 9
+      pivot: {x: 0.51, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top5_3_lower_torso
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 289
+        width: 127
+        height: 74
+      alignment: 9
+      pivot: {x: 0.51, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top6_3_mid_armL
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 83
+        width: 29
+        height: 37
+      alignment: 9
+      pivot: {x: -0.08, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top6_3_upr_armL
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 56
+        width: 101
+        height: 91
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top6_3_torso
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 46
+        width: 133
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top6_3_upr_armR
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 46
+        width: 85
+        height: 111
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top6_3_mid_armR
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 83
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

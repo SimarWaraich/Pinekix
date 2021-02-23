@@ -1,0 +1,899 @@
+fileFormatVersion: 2
+guid: d59321752264f4260b0793dcec5e3f1c
+timeCreated: 1505468254
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Black_1_L
+    21300002: Black_1_R
+    21300004: Violet_1_L
+    21300006: Violet_1_R
+    21300008: Pink_1_L
+    21300010: Pink_1_R
+    21300012: Blue_1_L
+    21300014: Blue_1_R
+    21300016: Purple_1_L
+    21300018: Purple_1_R
+    21300020: Black_2_L
+    21300022: Black_2_R
+    21300024: Violet_2_L
+    21300026: Violet_2_R
+    21300028: Pink_2_L
+    21300030: Pink_2_R
+    21300032: Blue_2_L
+    21300034: Blue_2_R
+    21300036: Purple_2_L
+    21300038: Purple_2_R
+    21300040: Black_3_L
+    21300042: Black_3_R
+    21300044: Violet_3_L
+    21300046: Violet_3_R
+    21300048: Pink_3_L
+    21300050: Pink_3_R
+    21300052: Blue_3_L
+    21300054: Blue_3_R
+    21300056: Purple_3_L
+    21300058: Purple_3_R
+    21300060: Black_4_L
+    21300062: Black_4_R
+    21300064: Violet_4_L
+    21300066: Violet_4_R
+    21300068: Pink_4_L
+    21300070: Pink_4_R
+    21300072: Blue_4_L
+    21300074: Blue_4_R
+    21300076: Purple_4_L
+    21300078: Purple_4_R
+    21300080: Black_5_L
+    21300082: Black_5_R
+    21300084: Violet_5_L
+    21300086: Violet_5_R
+    21300088: Pink_5_L
+    21300090: Pink_5_R
+    21300092: Blue_5_L
+    21300094: Blue_5_R
+    21300096: Purple_5_L
+    21300098: Purple_5_R
+    21300100: Black_6_L
+    21300102: Black_6_R
+    21300104: Violet_6_L
+    21300106: Violet_6_R
+    21300108: Pink_6_L
+    21300110: Pink_6_R
+    21300112: Blue_6_L
+    21300114: Blue_6_R
+    21300116: Purple_6_L
+    21300118: Purple_6_R
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black_1_L
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 912
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black_1_R
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 912
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Violet_1_L
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 912
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Violet_1_R
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 912
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pink_1_L
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 912
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pink_1_R
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 912
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_1_L
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 912
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_1_R
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 912
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Purple_1_L
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 912
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Purple_1_R
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 912
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black_2_L
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 763
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.54, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black_2_R
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 763
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.48, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Violet_2_L
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 763
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.54, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Violet_2_R
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 763
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.48, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pink_2_L
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 763
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.54, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pink_2_R
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 763
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.48, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_2_L
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 763
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.54, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_2_R
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 763
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.48, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Purple_2_L
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 763
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.54, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Purple_2_R
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 763
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.48, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black_3_L
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 594
+        width: 64
+        height: 78
+      alignment: 9
+      pivot: {x: 0.52, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black_3_R
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 594
+        width: 63
+        height: 78
+      alignment: 9
+      pivot: {x: 0.48, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Violet_3_L
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 594
+        width: 64
+        height: 78
+      alignment: 9
+      pivot: {x: 0.52, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Violet_3_R
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 594
+        width: 63
+        height: 78
+      alignment: 9
+      pivot: {x: 0.48, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pink_3_L
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 594
+        width: 64
+        height: 78
+      alignment: 9
+      pivot: {x: 0.52, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pink_3_R
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 594
+        width: 63
+        height: 78
+      alignment: 9
+      pivot: {x: 0.48, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_3_L
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 594
+        width: 64
+        height: 78
+      alignment: 9
+      pivot: {x: 0.52, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_3_R
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 594
+        width: 63
+        height: 78
+      alignment: 9
+      pivot: {x: 0.48, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Purple_3_L
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 594
+        width: 64
+        height: 78
+      alignment: 9
+      pivot: {x: 0.52, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Purple_3_R
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 594
+        width: 63
+        height: 78
+      alignment: 9
+      pivot: {x: 0.48, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black_4_L
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 357
+        width: 58
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black_4_R
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 362
+        width: 53
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Violet_4_L
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 357
+        width: 58
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Violet_4_R
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 362
+        width: 53
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pink_4_L
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 357
+        width: 58
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pink_4_R
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 362
+        width: 53
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_4_L
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 357
+        width: 58
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_4_R
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 362
+        width: 53
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Purple_4_L
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 357
+        width: 58
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Purple_4_R
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 362
+        width: 53
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black_5_L
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 206
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.54, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black_5_R
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 206
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.48, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Violet_5_L
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 206
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.54, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Violet_5_R
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 206
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.48, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pink_5_L
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 206
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.54, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pink_5_R
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 203
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.48, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_5_L
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 206
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.54, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_5_R
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 203
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.48, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Purple_5_L
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 206
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.54, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Purple_5_R
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 203
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.48, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black_6_L
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 46
+        width: 52
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black_6_R
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 46
+        width: 52
+        height: 82
+      alignment: 9
+      pivot: {x: 0.45, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Violet_6_L
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 46
+        width: 51
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Violet_6_R
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 46
+        width: 52
+        height: 82
+      alignment: 9
+      pivot: {x: 0.45, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pink_6_L
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 46
+        width: 51
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pink_6_R
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 46
+        width: 52
+        height: 82
+      alignment: 9
+      pivot: {x: 0.45, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_6_L
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 46
+        width: 51
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_6_R
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 46
+        width: 52
+        height: 82
+      alignment: 9
+      pivot: {x: 0.45, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Purple_6_L
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 46
+        width: 51
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Purple_6_R
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 46
+        width: 51
+        height: 82
+      alignment: 9
+      pivot: {x: 0.45, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: GirlCharacter
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

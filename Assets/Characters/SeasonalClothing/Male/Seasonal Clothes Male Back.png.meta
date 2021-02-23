@@ -1,0 +1,1179 @@
+fileFormatVersion: 2
+guid: dd56b93e49a34430aa3e9da89e174520
+timeCreated: 1513332683
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Seasonal Clothes Male Back_0
+    21300002: Seasonal Clothes Male Back_1
+    21300004: Seasonal Clothes Male Back_2
+    21300006: Seasonal Clothes Male Back_3
+    21300008: Seasonal Clothes Male Back_4
+    21300010: Seasonal Clothes Male Back_5
+    21300012: Seasonal Clothes Male Back_6
+    21300014: Seasonal Clothes Male Back_7
+    21300016: Seasonal Clothes Male Back_8
+    21300018: Seasonal Clothes Male Back_9
+    21300020: Seasonal Clothes Male Back_10
+    21300022: Seasonal Clothes Male Back_11
+    21300024: Seasonal Clothes Male Back_12
+    21300026: Seasonal Clothes Male Back_13
+    21300028: Seasonal Clothes Male Back_14
+    21300030: Seasonal Clothes Male Back_15
+    21300032: Seasonal Clothes Male Back_16
+    21300034: Seasonal Clothes Male Back_17
+    21300036: Seasonal Clothes Male Back_18
+    21300038: Seasonal Clothes Male Back_19
+    21300040: Seasonal Clothes Male Back_20
+    21300042: Seasonal Clothes Male Back_21
+    21300044: Seasonal Clothes Male Back_22
+    21300046: Seasonal Clothes Male Back_23
+    21300048: Seasonal Clothes Male Back_24
+    21300050: Seasonal Clothes Male Back_25
+    21300052: Seasonal Clothes Male Back_26
+    21300054: Seasonal Clothes Male Back_27
+    21300056: Seasonal Clothes Male Back_28
+    21300058: Seasonal Clothes Male Back_29
+    21300060: Seasonal Clothes Male Back_30
+    21300062: Seasonal Clothes Male Back_31
+    21300064: Seasonal Clothes Male Back_32
+    21300066: Seasonal Clothes Male Back_33
+    21300068: Seasonal Clothes Male Back_34
+    21300070: Seasonal Clothes Male Back_35
+    21300072: Seasonal Clothes Male Back_36
+    21300074: Seasonal Clothes Male Back_37
+    21300076: Seasonal Clothes Male Back_38
+    21300078: Seasonal Clothes Male Back_39
+    21300080: Seasonal Clothes Male Back_40
+    21300082: Seasonal Clothes Male Back_41
+    21300084: Seasonal Clothes Male Back_42
+    21300086: Seasonal Clothes Male Back_43
+    21300088: Seasonal Clothes Male Back_44
+    21300090: Seasonal Clothes Male Back_45
+    21300092: Seasonal Clothes Male Back_46
+    21300094: Seasonal Clothes Male Back_47
+    21300096: Seasonal Clothes Male Back_48
+    21300098: Seasonal Clothes Male Back_49
+    21300100: Seasonal Clothes Male Back_50
+    21300102: Seasonal Clothes Male Back_51
+    21300104: Seasonal Clothes Male Back_52
+    21300106: Seasonal Clothes Male Back_53
+    21300108: Seasonal Clothes Male Back_54
+    21300110: Seasonal Clothes Male Back_55
+    21300112: Seasonal Clothes Male Back_56
+    21300114: Seasonal Clothes Male Back_57
+    21300116: Seasonal Clothes Male Back_58
+    21300118: Seasonal Clothes Male Back_59
+    21300120: Seasonal Clothes Male Back_60
+    21300122: Seasonal Clothes Male Back_61
+    21300124: Seasonal Clothes Male Back_62
+    21300126: Seasonal Clothes Male Back_63
+    21300128: Seasonal Clothes Male Back_64
+    21300130: Seasonal Clothes Male Back_65
+    21300132: Seasonal Clothes Male Back_66
+    21300134: Seasonal Clothes Male Back_67
+    21300136: Seasonal Clothes Male Back_68
+    21300138: Seasonal Clothes Male Back_69
+    21300140: Seasonal Clothes Male Back_70
+    21300142: Seasonal Clothes Male Back_71
+    21300144: Seasonal Clothes Male Back_72
+    21300146: Seasonal Clothes Male Back_73
+    21300148: Seasonal Clothes Male Back_74
+    21300150: Seasonal Clothes Male Back_75
+    21300152: Seasonal Clothes Male Back_76
+    21300154: Seasonal Clothes Male Back_77
+    21300156: Seasonal Clothes Male Back_78
+    21300158: Seasonal Clothes Male Back_79
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1805
+        width: 75
+        height: 138
+      alignment: 9
+      pivot: {x: 0.49, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1761
+        width: 169
+        height: 245
+      alignment: 9
+      pivot: {x: 0.51, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1811
+        width: 71
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_3
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1748
+        width: 83
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_4
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1704
+        width: 173
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_5
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1774
+        width: 73
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_6
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1837
+        width: 80
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_7
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1789
+        width: 175
+        height: 218
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_8
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1843
+        width: 72
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1634
+        width: 39
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_10
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1622
+        width: 135
+        height: 107
+      alignment: 9
+      pivot: {x: 0.48, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_11
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1650
+        width: 54
+        height: 106
+      alignment: 9
+      pivot: {x: 0.52, y: 1.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_12
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1576
+        width: 50
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_13
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1575
+        width: 74
+        height: 113
+      alignment: 9
+      pivot: {x: 0.54, y: 0.98}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_14
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1662
+        width: 45
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_15
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1659
+        width: 156
+        height: 100
+      alignment: 9
+      pivot: {x: 0.54, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_16
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1669
+        width: 61
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1357
+        width: 169
+        height: 245
+      alignment: 9
+      pivot: {x: 0.51, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_18
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1555
+        width: 155
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_19
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1443
+        width: 103
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_20
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1441
+        width: 89
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_21
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1454
+        width: 148
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1401
+        width: 75
+        height: 138
+      alignment: 9
+      pivot: {x: 0.49, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_23
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1407
+        width: 71
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_24
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1313
+        width: 83
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_25
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1269
+        width: 173
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_26
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1314
+        width: 72
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_27
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1230
+        width: 39
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1237
+        width: 135
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_29
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1246
+        width: 54
+        height: 106
+      alignment: 9
+      pivot: {x: 0.52, y: 1.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_30
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1141
+        width: 50
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_31
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1140
+        width: 74
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_32
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1202
+        width: 80
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_33
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1157
+        width: 175
+        height: 218
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_34
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1208
+        width: 72
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_35
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1062
+        width: 85
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_36
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1011
+        width: 170
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_37
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1062
+        width: 74
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_38
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1120
+        width: 155
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_39
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1011
+        width: 45
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_40
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1017
+        width: 61
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_41
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 966
+        width: 56
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_42
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 952
+        width: 58
+        height: 80
+      alignment: 9
+      pivot: {x: 0.57, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_43
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 874
+        width: 83
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_44
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 830
+        width: 173
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_45
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 875
+        width: 72
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_46
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1018
+        width: 156
+        height: 99
+      alignment: 9
+      pivot: {x: 0.54, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_47
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 922
+        width: 140
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_48
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 767
+        width: 103
+        height: 186
+      alignment: 9
+      pivot: {x: 0.53, y: 0.98}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_49
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 765
+        width: 89
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_50
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 782
+        width: 61
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_51
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 735
+        width: 86
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_52
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 684
+        width: 170
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_53
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 735
+        width: 74
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_54
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 702
+        width: 50
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_55
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 681
+        width: 155
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_56
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 701
+        width: 74
+        height: 113
+      alignment: 9
+      pivot: {x: 0.55, y: 0.98}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_57
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 759
+        width: 69
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_58
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 733
+        width: 148
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_59
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 639
+        width: 56
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_60
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 595
+        width: 140
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_61
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 625
+        width: 58
+        height: 80
+      alignment: 9
+      pivot: {x: 0.57, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_62
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 485
+        width: 149
+        height: 198
+      alignment: 9
+      pivot: {x: 0.55, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_63
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 485
+        width: 149
+        height: 198
+      alignment: 9
+      pivot: {x: 0.55, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_64
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 324
+        width: 83
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_65
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 280
+        width: 173
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_66
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 325
+        width: 72
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_67
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 370
+        width: 152
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_68
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 344
+        width: 152
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_69
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 399
+        width: 139
+        height: 63
+      alignment: 9
+      pivot: {x: 0.49, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_70
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 399
+        width: 139
+        height: 63
+      alignment: 9
+      pivot: {x: 0.49, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 170
+        width: 50
+        height: 118
+      alignment: 9
+      pivot: {x: 0.51, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_72
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 137
+        width: 155
+        height: 105
+      alignment: 9
+      pivot: {x: 0.51, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_73
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 175
+        width: 74
+        height: 113
+      alignment: 9
+      pivot: {x: 0.55, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_74
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 191
+        width: 159
+        height: 116
+      alignment: 9
+      pivot: {x: 0.52, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_75
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 165
+        width: 159
+        height: 116
+      alignment: 9
+      pivot: {x: 0.52, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_76
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 140
+        width: 149
+        height: 197
+      alignment: 9
+      pivot: {x: 0.55, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_77
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 140
+        width: 149
+        height: 197
+      alignment: 9
+      pivot: {x: 0.55, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_78
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 44
+        width: 139
+        height: 63
+      alignment: 9
+      pivot: {x: 0.49, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Clothes Male Back_79
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 44
+        width: 139
+        height: 63
+      alignment: 9
+      pivot: {x: 0.45, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

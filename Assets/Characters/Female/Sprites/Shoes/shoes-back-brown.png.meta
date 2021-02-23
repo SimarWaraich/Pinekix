@@ -1,0 +1,899 @@
+fileFormatVersion: 2
+guid: 2abdcb74e1c174b058fbabab490a5761
+timeCreated: 1505468582
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shoes-back-brown_0
+    21300002: shoes-back-brown_1
+    21300004: shoes-back-brown_2
+    21300006: shoes-back-brown_3
+    21300008: shoes-back-brown_4
+    21300010: shoes-back-brown_5
+    21300012: shoes-back-brown_6
+    21300014: shoes-back-brown_7
+    21300016: shoes-back-brown_8
+    21300018: shoes-back-brown_9
+    21300020: shoes-back-brown_10
+    21300022: shoes-back-brown_11
+    21300024: shoes-back-brown_12
+    21300026: shoes-back-brown_13
+    21300028: shoes-back-brown_14
+    21300030: shoes-back-brown_15
+    21300032: shoes-back-brown_16
+    21300034: shoes-back-brown_17
+    21300036: shoes-back-brown_18
+    21300038: shoes-back-brown_19
+    21300040: shoes-back-brown_20
+    21300042: shoes-back-brown_21
+    21300044: shoes-back-brown_22
+    21300046: shoes-back-brown_23
+    21300048: shoes-back-brown_24
+    21300050: shoes-back-brown_25
+    21300052: shoes-back-brown_26
+    21300054: shoes-back-brown_27
+    21300056: shoes-back-brown_28
+    21300058: shoes-back-brown_29
+    21300060: shoes-back-brown_30
+    21300062: shoes-back-brown_31
+    21300064: shoes-back-brown_32
+    21300066: shoes-back-brown_33
+    21300068: shoes-back-brown_34
+    21300070: shoes-back-brown_35
+    21300072: shoes-back-brown_36
+    21300074: shoes-back-brown_37
+    21300076: shoes-back-brown_38
+    21300078: shoes-back-brown_39
+    21300080: shoes-back-brown_40
+    21300082: shoes-back-brown_41
+    21300084: shoes-back-brown_42
+    21300086: shoes-back-brown_43
+    21300088: shoes-back-brown_44
+    21300090: shoes-back-brown_45
+    21300092: shoes-back-brown_46
+    21300094: shoes-back-brown_47
+    21300096: shoes-back-brown_48
+    21300098: shoes-back-brown_49
+    21300100: shoes-back-brown_50
+    21300102: shoes-back-brown_51
+    21300104: shoes-back-brown_52
+    21300106: shoes-back-brown_53
+    21300108: shoes-back-brown_54
+    21300110: shoes-back-brown_55
+    21300112: shoes-back-brown_56
+    21300114: shoes-back-brown_57
+    21300116: shoes-back-brown_58
+    21300118: shoes-back-brown_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shoes-back-brown_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 912
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 912
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 912
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_3
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 912
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_4
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 912
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 912
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_6
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 912
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_7
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 912
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_8
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 912
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_9
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 912
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 763
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.54, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 763
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.48, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 763
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.54, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 763
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.48, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_14
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 763
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.54, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_15
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 763
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.48, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_16
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 763
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.54, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 763
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.48, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_18
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 763
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.54, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_19
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 763
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.48, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 594
+        width: 64
+        height: 78
+      alignment: 9
+      pivot: {x: 0.52, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 594
+        width: 63
+        height: 78
+      alignment: 9
+      pivot: {x: 0.48, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_22
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 594
+        width: 63
+        height: 78
+      alignment: 9
+      pivot: {x: 0.52, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_23
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 594
+        width: 63
+        height: 78
+      alignment: 9
+      pivot: {x: 0.48, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_24
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 594
+        width: 63
+        height: 78
+      alignment: 9
+      pivot: {x: 0.52, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_25
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 594
+        width: 63
+        height: 78
+      alignment: 9
+      pivot: {x: 0.48, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_26
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 594
+        width: 63
+        height: 78
+      alignment: 9
+      pivot: {x: 0.52, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_27
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 594
+        width: 63
+        height: 78
+      alignment: 9
+      pivot: {x: 0.48, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_28
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 594
+        width: 63
+        height: 78
+      alignment: 9
+      pivot: {x: 0.52, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_29
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 594
+        width: 63
+        height: 78
+      alignment: 9
+      pivot: {x: 0.48, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 357
+        width: 58
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 362
+        width: 53
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 357
+        width: 58
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_33
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 362
+        width: 53
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_34
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 357
+        width: 58
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_35
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 362
+        width: 53
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_36
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 357
+        width: 58
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_37
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 362
+        width: 53
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_38
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 357
+        width: 58
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_39
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 362
+        width: 53
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_40
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 206
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.54, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_41
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 206
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_42
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 206
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.54, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_43
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 206
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_44
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 206
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.54, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_45
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 203
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_46
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 206
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_47
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 203
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_48
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 206
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_49
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 203
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_50
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 46
+        width: 52
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 46
+        width: 52
+        height: 82
+      alignment: 9
+      pivot: {x: 0.45, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_52
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 46
+        width: 51
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_53
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 46
+        width: 52
+        height: 82
+      alignment: 9
+      pivot: {x: 0.45, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_54
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 46
+        width: 51
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_55
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 46
+        width: 52
+        height: 82
+      alignment: 9
+      pivot: {x: 0.45, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_56
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 46
+        width: 51
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_57
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 46
+        width: 52
+        height: 82
+      alignment: 9
+      pivot: {x: 0.45, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_58
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 46
+        width: 51
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoes-back-brown_59
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 46
+        width: 51
+        height: 82
+      alignment: 9
+      pivot: {x: 0.45, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: GirlCharacter
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1179 @@
+fileFormatVersion: 2
+guid: 95eac2887705e4e71a55d44c1fe7eea3
+timeCreated: 1512047464
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Chairs-output_0
+    21300002: Chairs-output_1
+    21300004: Chairs-output_2
+    21300006: Chairs-output_3
+    21300008: Chairs-output_4
+    21300010: Chairs-output_5
+    21300012: Chairs-output_6
+    21300014: Chairs-output_7
+    21300016: Chairs-output_8
+    21300018: Chairs-output_9
+    21300020: Chairs-output_10
+    21300022: Chairs-output_11
+    21300024: Chairs-output_12
+    21300026: Chairs-output_13
+    21300028: Chairs-output_14
+    21300030: Chairs-output_15
+    21300032: Chairs-output_16
+    21300034: Chairs-output_17
+    21300036: Chairs-output_18
+    21300038: Chairs-output_19
+    21300040: Chairs-output_20
+    21300042: Chairs-output_21
+    21300044: Chairs-output_22
+    21300046: Chairs-output_23
+    21300048: Chairs-output_24
+    21300050: Chairs-output_25
+    21300052: Chairs-output_26
+    21300054: Chairs-output_27
+    21300056: Chairs-output_28
+    21300058: Chairs-output_29
+    21300060: Chairs-output_30
+    21300062: Chairs-output_31
+    21300064: Chairs-output_32
+    21300066: Chairs-output_33
+    21300068: Chairs-output_34
+    21300070: Chairs-output_35
+    21300072: Chairs-output_36
+    21300074: Chairs-output_37
+    21300076: Chairs-output_38
+    21300078: Chairs-output_39
+    21300080: Chairs-output_40
+    21300082: Chairs-output_41
+    21300084: Chairs-output_42
+    21300086: Chairs-output_43
+    21300088: Chairs-output_44
+    21300090: Chairs-output_45
+    21300092: Chairs-output_46
+    21300094: Chairs-output_47
+    21300096: Chairs-output_48
+    21300098: Chairs-output_49
+    21300100: Chairs-output_50
+    21300102: Chairs-output_51
+    21300104: Chairs-output_52
+    21300106: Chairs-output_53
+    21300108: Chairs-output_54
+    21300110: Chairs-output_55
+    21300112: Chairs-output_56
+    21300114: Chairs-output_57
+    21300116: Chairs-output_58
+    21300118: Chairs-output_59
+    21300120: Chairs-output_60
+    21300122: Chairs-output_61
+    21300124: Chairs-output_62
+    21300126: Chairs-output_63
+    21300128: Chairs-output_64
+    21300130: Chairs-output_65
+    21300132: Chairs-output_66
+    21300134: Chairs-output_67
+    21300136: Chairs-output_68
+    21300138: Chairs-output_69
+    21300140: Chairs-output_70
+    21300142: Chairs-output_71
+    21300144: Chairs-output_72
+    21300146: Chairs-output_73
+    21300148: Chairs-output_74
+    21300150: Chairs-output_75
+    21300152: Chairs-output_76
+    21300154: Chairs-output_77
+    21300156: Chairs-output_78
+    21300158: Chairs-output_79
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chairs-output_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 888
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 912
+        width: 81
+        height: 103
+      alignment: 9
+      pivot: {x: 0.45, y: 0.62}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 912
+        width: 81
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 888
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 883
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_5
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 894
+        width: 76
+        height: 92
+      alignment: 9
+      pivot: {x: 0.48, y: 0.59}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_6
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 894
+        width: 76
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_7
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 883
+        width: 71
+        height: 103
+      alignment: 9
+      pivot: {x: 0.48, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_8
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 864
+        width: 47
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_9
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 864
+        width: 47
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 751
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_11
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 775
+        width: 81
+        height: 103
+      alignment: 9
+      pivot: {x: 0.47, y: 0.62}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_12
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 775
+        width: 81
+        height: 103
+      alignment: 9
+      pivot: {x: 0.54, y: 0.62}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_13
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 751
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 753
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_15
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 764
+        width: 76
+        height: 92
+      alignment: 9
+      pivot: {x: 0.48, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_16
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 764
+        width: 76
+        height: 92
+      alignment: 9
+      pivot: {x: 0.49, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_17
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 753
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_18
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 716
+        width: 47
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_19
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 716
+        width: 47
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 585
+        width: 62
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 603
+        width: 72
+        height: 132
+      alignment: 9
+      pivot: {x: 0.4, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 603
+        width: 72
+        height: 132
+      alignment: 9
+      pivot: {x: 0.57, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_23
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 585
+        width: 63
+        height: 150
+      alignment: 9
+      pivot: {x: 0.68, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_24
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 603
+        width: 55
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_25
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 616
+        width: 66
+        height: 111
+      alignment: 9
+      pivot: {x: 0.43, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_26
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 616
+        width: 66
+        height: 111
+      alignment: 9
+      pivot: {x: 0.65, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_27
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 603
+        width: 55
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_28
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 608
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_29
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 618
+        width: 53
+        height: 95
+      alignment: 9
+      pivot: {x: 0.52, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_30
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 618
+        width: 54
+        height: 95
+      alignment: 9
+      pivot: {x: 0.47, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_31
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 608
+        width: 51
+        height: 105
+      alignment: 9
+      pivot: {x: 0.47, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_32
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 569
+        width: 47
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_33
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 569
+        width: 47
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_34
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 419
+        width: 62
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_35
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 437
+        width: 72
+        height: 132
+      alignment: 9
+      pivot: {x: 0.57, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_36
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 437
+        width: 72
+        height: 132
+      alignment: 9
+      pivot: {x: 0.57, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_37
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 419
+        width: 63
+        height: 150
+      alignment: 9
+      pivot: {x: 0.68, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_38
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 459
+        width: 55
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_39
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 459
+        width: 66
+        height: 111
+      alignment: 9
+      pivot: {x: 0.43, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_40
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 459
+        width: 66
+        height: 111
+      alignment: 9
+      pivot: {x: 0.65, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_41
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 459
+        width: 55
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_42
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 473
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_43
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 483
+        width: 53
+        height: 95
+      alignment: 9
+      pivot: {x: 0.52, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_44
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 483
+        width: 54
+        height: 95
+      alignment: 9
+      pivot: {x: 0.47, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_45
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 473
+        width: 51
+        height: 105
+      alignment: 9
+      pivot: {x: 0.47, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_46
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 420
+        width: 47
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_47
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 420
+        width: 47
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 288
+        width: 79
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_49
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 288
+        width: 78
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_50
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 288
+        width: 79
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 78
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_52
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 314
+        width: 90
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_53
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 296
+        width: 86
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_54
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 296
+        width: 86
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_55
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 314
+        width: 90
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_56
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 269
+        width: 62
+        height: 93
+      alignment: 9
+      pivot: {x: 0.52, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_57
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 267
+        width: 62
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_58
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 267
+        width: 63
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_59
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 157
+        width: 79
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_60
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 157
+        width: 78
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_61
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 157
+        width: 79
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 157
+        width: 78
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_63
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 158
+        width: 90
+        height: 127
+      alignment: 9
+      pivot: {x: 0.49, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_64
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 140
+        width: 86
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_65
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 140
+        width: 86
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_66
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 158
+        width: 90
+        height: 127
+      alignment: 9
+      pivot: {x: 0.52, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_67
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 144
+        width: 61
+        height: 93
+      alignment: 9
+      pivot: {x: 0.52, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_68
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 144
+        width: 62
+        height: 93
+      alignment: 9
+      pivot: {x: 0.52, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_69
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 141
+        width: 62
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_70
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 11
+        width: 81
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_71
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 5
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_72
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 5
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_73
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 11
+        width: 81
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_74
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 8
+        width: 81
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_75
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_76
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 2
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_77
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 8
+        width: 81
+        height: 99
+      alignment: 9
+      pivot: {x: 0.51, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_78
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 16
+        width: 63
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chairs-output_79
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 19
+        width: 61
+        height: 93
+      alignment: 9
+      pivot: {x: 0.52, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

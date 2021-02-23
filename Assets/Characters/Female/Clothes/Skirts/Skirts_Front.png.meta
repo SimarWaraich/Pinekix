@@ -1,0 +1,1123 @@
+fileFormatVersion: 2
+guid: 3fdbd5ba1dee241708a340bfe4219d64
+timeCreated: 1508159840
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Skirt1_upr_torso1
+    21300002: Skirt1_upr_torso2
+    21300004: Skirt1_upr_torso3
+    21300006: Skirt1_upr_torso4
+    21300008: Skirt1_legL1
+    21300010: Skirt1_torso1
+    21300012: Skirt1_legR1
+    21300014: Skirt1_legL2
+    21300016: Skirt1_torso2
+    21300018: Skirt1_legR2
+    21300020: Skirt1_legL3
+    21300022: Skirt1_torso3
+    21300024: Skirt1_legR3
+    21300026: Skirt1_legL4
+    21300028: Skirt1_torso4
+    21300030: Skirt1_legR4
+    21300032: Skirt2_legL1
+    21300034: Skirt2_torso1
+    21300036: Skirt2_legR1
+    21300038: Skirt2_legL2
+    21300040: Skirt2_torso2
+    21300042: Skirt2_legR2
+    21300044: Skirt2_legL3
+    21300046: Skirt2_torso3
+    21300048: Skirt2_legR3
+    21300050: Skirt2_legL4
+    21300052: Skirt2_torso4
+    21300054: Skirt2_legR4
+    21300056: Skirt3_upr_torso1
+    21300058: Skirt3_upr_torso2
+    21300060: Skirt3_upr_torso3
+    21300062: Skirt3_upr_torso4
+    21300064: Skirt3_legL1
+    21300066: Skirt3_torso1
+    21300068: Skirt3_legR1
+    21300070: Skirt3_legL2
+    21300072: Skirt3_torso2
+    21300074: Skirt3_legR2
+    21300076: Skirt3_legL3
+    21300078: Skirt3_torso3
+    21300080: Skirt3_legR3
+    21300082: Skirt3_legL4
+    21300084: Skirt3_torso4
+    21300086: Skirt3_legR4
+    21300088: Skirt4_upr_torso1
+    21300090: Skirt4_upr_torso2
+    21300092: Skirt4_upr_torso3
+    21300094: Skirt4_upr_torso4
+    21300096: Skirt4_legL1
+    21300098: Skirt4_torso1
+    21300100: Skirt4_legR1
+    21300102: Skirt4_legL2
+    21300104: Skirt4_torso2
+    21300106: Skirt4_legR2
+    21300108: Skirt4_legL3
+    21300110: Skirt4_torso3
+    21300112: Skirt4_legR3
+    21300114: Skirt4_legL4
+    21300116: Skirt4_torso4
+    21300118: Skirt4_legR4
+    21300120: Skirt5_upr_torso1
+    21300122: Skirt5_upr_torso2
+    21300124: Skirt5_upr_torso3
+    21300126: Skirt5_upr_torso4
+    21300128: Skirt5_legL1
+    21300130: Skirt5_torso1
+    21300132: Skirt5_legR1
+    21300134: Skirt5_legL2
+    21300136: Skirt5_torso2
+    21300138: Skirt5_legR2
+    21300140: Skirt5_legL3
+    21300142: Skirt5_torso3
+    21300144: Skirt5_legR3
+    21300146: Skirt5_legL4
+    21300148: Skirt5_torso5
+    21300150: Skirt5_legR4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skirt1_upr_torso1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1939
+        width: 102
+        height: 45
+      alignment: 9
+      pivot: {x: 0.492, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt1_upr_torso2
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1939
+        width: 102
+        height: 45
+      alignment: 9
+      pivot: {x: 0.492, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt1_upr_torso3
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1939
+        width: 102
+        height: 45
+      alignment: 9
+      pivot: {x: 0.492, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt1_upr_torso4
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1939
+        width: 102
+        height: 45
+      alignment: 9
+      pivot: {x: 0.492, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt1_legL1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1784
+        width: 71
+        height: 105
+      alignment: 9
+      pivot: {x: 0.49, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt1_torso1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1783
+        width: 139
+        height: 144
+      alignment: 9
+      pivot: {x: 0.47, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt1_legR1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1781
+        width: 76
+        height: 108
+      alignment: 9
+      pivot: {x: 0.46, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt1_legL2
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1784
+        width: 71
+        height: 105
+      alignment: 9
+      pivot: {x: 0.49, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt1_torso2
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1783
+        width: 139
+        height: 144
+      alignment: 9
+      pivot: {x: 0.47, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt1_legR2
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1781
+        width: 77
+        height: 108
+      alignment: 9
+      pivot: {x: 0.46, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt1_legL3
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1784
+        width: 71
+        height: 105
+      alignment: 9
+      pivot: {x: 0.49, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt1_torso3
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1783
+        width: 139
+        height: 144
+      alignment: 9
+      pivot: {x: 0.47, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt1_legR3
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1781
+        width: 77
+        height: 108
+      alignment: 9
+      pivot: {x: 0.46, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt1_legL4
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1784
+        width: 70
+        height: 105
+      alignment: 9
+      pivot: {x: 0.49, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt1_torso4
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1783
+        width: 139
+        height: 144
+      alignment: 9
+      pivot: {x: 0.47, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt1_legR4
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1781
+        width: 77
+        height: 108
+      alignment: 9
+      pivot: {x: 0.46, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt2_legL1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1470
+        width: 71
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt2_torso1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1471
+        width: 136
+        height: 114
+      alignment: 9
+      pivot: {x: 0.48, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt2_legR1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1471
+        width: 75
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt2_legL2
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1470
+        width: 71
+        height: 83
+      alignment: 9
+      pivot: {x: 0.49, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt2_torso2
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1471
+        width: 136
+        height: 114
+      alignment: 9
+      pivot: {x: 0.48, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt2_legR2
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1471
+        width: 74
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt2_legL3
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1470
+        width: 71
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt2_torso3
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1471
+        width: 136
+        height: 114
+      alignment: 9
+      pivot: {x: 0.48, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt2_legR3
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1471
+        width: 75
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt2_legL4
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1470
+        width: 71
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt2_torso4
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1471
+        width: 135
+        height: 114
+      alignment: 9
+      pivot: {x: 0.48, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt2_legR4
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1471
+        width: 74
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt3_upr_torso1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1234
+        width: 104
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt3_upr_torso2
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1234
+        width: 104
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt3_upr_torso3
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1234
+        width: 105
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt3_upr_torso4
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1234
+        width: 105
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt3_legL1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1075
+        width: 80
+        height: 81
+      alignment: 9
+      pivot: {x: 0.56, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt3_torso1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1069
+        width: 159
+        height: 126
+      alignment: 9
+      pivot: {x: 0.49, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt3_legR1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1068
+        width: 87
+        height: 91
+      alignment: 9
+      pivot: {x: 0.46, y: -0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt3_legL2
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1075
+        width: 80
+        height: 81
+      alignment: 9
+      pivot: {x: 0.56, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt3_torso2
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1069
+        width: 159
+        height: 126
+      alignment: 9
+      pivot: {x: 0.49, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt3_legR2
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1068
+        width: 87
+        height: 91
+      alignment: 9
+      pivot: {x: 0.46, y: -0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt3_legL3
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1075
+        width: 80
+        height: 81
+      alignment: 9
+      pivot: {x: 0.56, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt3_torso3
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1069
+        width: 160
+        height: 126
+      alignment: 9
+      pivot: {x: 0.49, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt3_legR3
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1068
+        width: 87
+        height: 91
+      alignment: 9
+      pivot: {x: 0.46, y: -0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt3_legL4
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1075
+        width: 80
+        height: 81
+      alignment: 9
+      pivot: {x: 0.56, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt3_torso4
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1069
+        width: 160
+        height: 126
+      alignment: 9
+      pivot: {x: 0.49, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt3_legR4
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1068
+        width: 87
+        height: 91
+      alignment: 9
+      pivot: {x: 0.46, y: -0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt4_upr_torso1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 833
+        width: 105
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt4_upr_torso2
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 833
+        width: 105
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt4_upr_torso3
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 833
+        width: 105
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt4_upr_torso4
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 833
+        width: 105
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt4_legL1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 682
+        width: 74
+        height: 89
+      alignment: 9
+      pivot: {x: 0.46, y: -0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt4_torso1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 683
+        width: 135
+        height: 125
+      alignment: 9
+      pivot: {x: 0.49, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt4_legR1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 682
+        width: 74
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt4_legL2
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 682
+        width: 74
+        height: 89
+      alignment: 9
+      pivot: {x: 0.46, y: -0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt4_torso2
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 683
+        width: 135
+        height: 125
+      alignment: 9
+      pivot: {x: 0.49, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt4_legR2
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 682
+        width: 74
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt4_legL3
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 682
+        width: 74
+        height: 89
+      alignment: 9
+      pivot: {x: 0.46, y: -0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt4_torso3
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 683
+        width: 135
+        height: 125
+      alignment: 9
+      pivot: {x: 0.49, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt4_legR3
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 682
+        width: 74
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt4_legL4
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 682
+        width: 74
+        height: 89
+      alignment: 9
+      pivot: {x: 0.46, y: -0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt4_torso4
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 683
+        width: 135
+        height: 125
+      alignment: 9
+      pivot: {x: 0.49, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt4_legR4
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 682
+        width: 74
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt5_upr_torso1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 355
+        width: 103
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt5_upr_torso2
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 355
+        width: 103
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt5_upr_torso3
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 355
+        width: 103
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt5_upr_torso4
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 355
+        width: 103
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt5_legL1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 181
+        width: 72
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt5_torso1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 182
+        width: 143
+        height: 148
+      alignment: 9
+      pivot: {x: 0.46, y: 0.325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt5_legR1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 181
+        width: 81
+        height: 117
+      alignment: 9
+      pivot: {x: 0.48, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt5_legL2
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 181
+        width: 72
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt5_torso2
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 182
+        width: 143
+        height: 148
+      alignment: 9
+      pivot: {x: 0.46, y: 0.325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt5_legR2
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 181
+        width: 81
+        height: 117
+      alignment: 9
+      pivot: {x: 0.48, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt5_legL3
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 181
+        width: 72
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt5_torso3
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 182
+        width: 143
+        height: 148
+      alignment: 9
+      pivot: {x: 0.46, y: 0.325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt5_legR3
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 181
+        width: 81
+        height: 117
+      alignment: 9
+      pivot: {x: 0.48, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt5_legL4
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 181
+        width: 72
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt5_torso5
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 182
+        width: 143
+        height: 148
+      alignment: 9
+      pivot: {x: 0.46, y: 0.325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skirt5_legR4
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 181
+        width: 82
+        height: 117
+      alignment: 9
+      pivot: {x: 0.48, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

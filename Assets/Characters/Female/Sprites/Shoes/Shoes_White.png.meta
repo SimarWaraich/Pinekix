@@ -1,0 +1,899 @@
+fileFormatVersion: 2
+guid: c05342dfa11e248d4ae94836b2e9691d
+timeCreated: 1505396904
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shoes_L_Black1
+    21300002: Shoes_R_Black1
+    21300004: Shoes_L_Violet1
+    21300006: Shoes_R_Violet1
+    21300008: Shoes_L_Pink1
+    21300010: Shoes_R_Pink1
+    21300012: Shoes_L_Blue1
+    21300014: Shoes_R_Blue1
+    21300016: Shoes_L_Purple1
+    21300018: Shoes_R_Purple1
+    21300020: Shoes_L_Black2
+    21300022: Shoes_R_Black2
+    21300024: Shoes_L_Violet2
+    21300026: Shoes_R_Violet2
+    21300028: Shoes_L_Pink2
+    21300030: Shoes_R_Pink2
+    21300032: Shoes_L_Blue2
+    21300034: Shoes_R_Blue2
+    21300036: Shoes_L_Purple2
+    21300038: Shoes_R_Purple2
+    21300040: Shoes_L_Black3
+    21300042: Shoes_R_Black3
+    21300044: Shoes_L_Violet3
+    21300046: Shoes_R_Violet3
+    21300048: Shoes_L_Pink3
+    21300050: Shoes_R_Pink3
+    21300052: Shoes_L_Blue3
+    21300054: Shoes_R_Blue3
+    21300056: Shoes_L_Purple3
+    21300058: Shoes_R_Purple3
+    21300060: Shoes_L_Black4
+    21300062: Shoes_R_Black4
+    21300064: Shoes_L_Violet4
+    21300066: Shoes_R_Violet4
+    21300068: Shoes_L_Pink4
+    21300070: Shoes_R_Pink4
+    21300072: Shoes_L_Blue4
+    21300074: Shoes_R_Blue4
+    21300076: Shoes_L_Purple4
+    21300078: Shoes_R_Purple4
+    21300080: Shoes_L_Black5
+    21300082: Shoes_R_Black5
+    21300084: Shoes_L_Violet5
+    21300086: Shoes_R_Violet5
+    21300088: Shoes_L_Pink5
+    21300090: Shoes_R_Pink5
+    21300092: Shoes_L_Blue5
+    21300094: Shoes_R_Blue5
+    21300096: Shoes_L_Purple5
+    21300098: Shoes_R_Purple5
+    21300100: Shoes_L_Black6
+    21300102: Shoes_R_Black6
+    21300104: Shoes_L_Violet6
+    21300106: Shoes_R_Violet6
+    21300108: Shoes_L_Pink6
+    21300110: Shoes_R_Pink6
+    21300112: Shoes_L_Blue6
+    21300114: Shoes_R_Blue6
+    21300116: Shoes_L_Purple6
+    21300118: Shoes_R_Purple6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shoes_L_Black1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 929
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Black1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 921
+        width: 39
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Violet1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 929
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Violet1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 921
+        width: 39
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Pink1
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 929
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Pink1
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 921
+        width: 39
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Blue1
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 929
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Blue1
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 921
+        width: 39
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Purple1
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 929
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Purple1
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 921
+        width: 39
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Black2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 765
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Black2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 758
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Violet2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 765
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Violet2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 758
+        width: 43
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Pink2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 765
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Pink2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 758
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Blue2
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 765
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Blue2
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 758
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Purple2
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 765
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Purple2
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 758
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Black3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 594
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Black3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 585
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Violet3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 594
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Violet3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 585
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Pink3
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 594
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Pink3
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 585
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Blue3
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 594
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Blue3
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 585
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Purple3
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 594
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Purple3
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 585
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Black4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 358
+        width: 53
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Black4
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 370
+        width: 57
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Violet4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 358
+        width: 54
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Violet4
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 370
+        width: 56
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Pink4
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 358
+        width: 54
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Pink4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 370
+        width: 56
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Blue4
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 358
+        width: 53
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Blue4
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 370
+        width: 56
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Purple4
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 358
+        width: 53
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Purple4
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 370
+        width: 57
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Black5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 207
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.48, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Black5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 201
+        width: 40
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Violet5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 207
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.48, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Violet5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 201
+        width: 40
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Pink5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 207
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.48, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Pink5
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 201
+        width: 40
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Blue5
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 207
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.48, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Blue5
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 201
+        width: 41
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Purple5
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 207
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.48, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Purple5
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 201
+        width: 40
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Black6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 30
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Black6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 24
+        width: 42
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Violet6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 30
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Violet6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 24
+        width: 42
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Pink6
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 30
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Pink6
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 24
+        width: 42
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Blue6
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 30
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Blue6
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 24
+        width: 42
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_L_Purple6
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 30
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoes_R_Purple6
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 24
+        width: 42
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: GirlCharacter
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

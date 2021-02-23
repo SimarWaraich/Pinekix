@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 451066157
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: trish
+      Dependencies: {}
+    Info_1:
+      Name: mark
+      Dependencies: {}
+    Info_2:
+      Name: eventprize2
+      Dependencies: {}
+    Info_3:
+      Name: eventprize5
+      Dependencies: {}
+    Info_4:
+      Name: eventprize4
+      Dependencies: {}
+    Info_5:
+      Name: eventprize
+      Dependencies: {}
+    Info_6:
+      Name: eventprize3
+      Dependencies: {}
+    Info_7:
+      Name: decor_bed1
+      Dependencies: {}

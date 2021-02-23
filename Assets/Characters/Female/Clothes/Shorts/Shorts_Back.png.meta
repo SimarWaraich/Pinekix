@@ -1,0 +1,1320 @@
+fileFormatVersion: 2
+guid: 457488418f3a548e1852bfecadf45034
+timeCreated: 1508325958
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shorts1_legL1
+    21300002: Shorts1_torso1
+    21300004: Shorts1_legR1
+    21300006: Shorts2_legL1
+    21300008: Shorts2_torso1
+    21300010: Shorts2_legR1
+    21300012: Shorts3_uprtorso1
+    21300014: Shorts4_uprtorso1
+    21300016: Shorts5_uprtorso1
+    21300018: Shorts3_torso1
+    21300020: Shorts4_torso1
+    21300022: Shorts5_torso1
+    21300024: Shorts3_legL1
+    21300026: Shorts3_legR1
+    21300028: Shorts4_legL1
+    21300030: Shorts4_legR1
+    21300032: Shorts5_legL1
+    21300034: Shorts5_legR1
+    21300036: Shorts1_legL2
+    21300038: Shorts1_torso2
+    21300040: Shorts1_legR2
+    21300042: Shorts2_legL2
+    21300044: Shorts2_torso2
+    21300046: Shorts2_legR2
+    21300048: Shorts3_uprtorso2
+    21300050: Shorts4_uprtorso2
+    21300052: Shorts5_uprtorso2
+    21300054: Shorts3_torso2
+    21300056: Shorts4_torso2
+    21300058: Shorts5_torso2
+    21300060: Shorts3_legL2
+    21300062: Shorts3_legR2
+    21300064: Shorts4_legL2
+    21300066: Shorts4_legR2
+    21300068: Shorts5_legL2
+    21300070: Shorts5_legR2
+    21300072: Shorts1_legL3
+    21300074: Shorts1_torso3
+    21300076: Shorts1_legR3
+    21300078: Shorts2_torso3
+    21300080: Shorts3_uprtorso3
+    21300082: Shorts4_uprtorso3
+    21300084: Shorts5_uprtorso3
+    21300086: Shorts2_legL3
+    21300088: Shorts2_legR3
+    21300090: Shorts3_torso3
+    21300092: Shorts4_torso3
+    21300094: Shorts5_torso3
+    21300096: Shorts3_legL3
+    21300098: Shorts3_legR3
+    21300100: Shorts4_legL3
+    21300102: Shorts4_legR3
+    21300104: Shorts5_legL3
+    21300106: Shorts5_legR3
+    21300108: Shorts3_uprtorso4
+    21300110: Shorts4_uprtorso4
+    21300112: Shorts5_uprtorso4
+    21300114: Shorts1_legL4
+    21300116: Shorts1_torso4
+    21300118: Shorts1_legR4
+    21300120: Shorts2_legL4
+    21300122: Shorts2_torso4
+    21300124: Shorts2_legR4
+    21300126: Shorts3_torso4
+    21300128: Shorts4_torso4
+    21300130: Shorts5_torso4
+    21300132: Shorts3_legL4
+    21300134: Shorts3_legR4
+    21300136: Shorts4_legL4
+    21300138: Shorts4_legR4
+    21300140: Shorts5_legL4
+    21300142: Shorts5_legR4
+    21300144: Shorts3_uprtorso5
+    21300146: Shorts4_uprtorso5
+    21300148: Shorts5_uprtorso5
+    21300150: Shorts1_legL5
+    21300152: Shorts1_torso6
+    21300154: Shorts1_legR5
+    21300156: Shorts2_legL5
+    21300158: Shorts2_torso5
+    21300160: Shorts2_legR5
+    21300162: Shorts3_torso5
+    21300164: Shorts4_torso5*-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    21300166: Shorts5_torso5
+    21300168: Shorts3_legL5
+    21300170: Shorts3_legR5
+    21300172: Shorts4_legL5
+    21300174: Shorts4_legR5
+    21300176: Shorts5_legL5
+    21300178: Shorts5_legR5
+    21300180: Shorts4_torso5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shorts1_legL1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1931
+        width: 76
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts1_torso1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1929
+        width: 126
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts1_legR1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1932
+        width: 73
+        height: 86
+      alignment: 9
+      pivot: {x: 0.44, y: 1.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts2_legL1
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1939
+        width: 70
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts2_torso1
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1950
+        width: 123
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: -0.045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts2_legR1
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1941
+        width: 69
+        height: 61
+      alignment: 9
+      pivot: {x: 0.51, y: 1.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts3_uprtorso1
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1974
+        width: 99
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts4_uprtorso1
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1935
+        width: 102
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts5_uprtorso1
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 1936
+        width: 101
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts3_torso1
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1889
+        width: 123
+        height: 77
+      alignment: 9
+      pivot: {x: 0.505, y: -0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts4_torso1
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1837
+        width: 124
+        height: 86
+      alignment: 9
+      pivot: {x: 0.505, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts5_torso1
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1829
+        width: 126
+        height: 92
+      alignment: 9
+      pivot: {x: 0.51, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts3_legL1
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1807
+        width: 74
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts3_legR1
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1815
+        width: 71
+        height: 68
+      alignment: 9
+      pivot: {x: 0.495, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts4_legL1
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1749
+        width: 76
+        height: 78
+      alignment: 9
+      pivot: {x: 0.53, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts4_legR1
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1752
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.485, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts5_legL1
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1749
+        width: 75
+        height: 71
+      alignment: 9
+      pivot: {x: 0.52, y: 1.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts5_legR1
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1754
+        width: 70
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts1_legL2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1538
+        width: 76
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts1_torso2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1536
+        width: 126
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts1_legR2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1539
+        width: 73
+        height: 85
+      alignment: 9
+      pivot: {x: 0.45, y: 1.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts2_legL2
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1547
+        width: 70
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts2_torso2
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1557
+        width: 123
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: -0.045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts2_legR2
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1549
+        width: 69
+        height: 61
+      alignment: 9
+      pivot: {x: 0.51, y: 1.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts3_uprtorso2
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1597
+        width: 99
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 1.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts4_uprtorso2
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1562
+        width: 102
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts5_uprtorso2
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 1568
+        width: 101
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts3_torso2
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1512
+        width: 123
+        height: 77
+      alignment: 9
+      pivot: {x: 0.505, y: -0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts4_torso2
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1464
+        width: 124
+        height: 86
+      alignment: 9
+      pivot: {x: 0.505, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts5_torso2
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1461
+        width: 126
+        height: 92
+      alignment: 9
+      pivot: {x: 0.51, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts3_legL2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1429
+        width: 74
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts3_legR2
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1438
+        width: 71
+        height: 67
+      alignment: 9
+      pivot: {x: 0.495, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts4_legL2
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1377
+        width: 76
+        height: 77
+      alignment: 9
+      pivot: {x: 0.53, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts4_legR2
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1379
+        width: 67
+        height: 76
+      alignment: 9
+      pivot: {x: 0.485, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts5_legL2
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1381
+        width: 75
+        height: 71
+      alignment: 9
+      pivot: {x: 0.52, y: 1.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts5_legR2
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1386
+        width: 70
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts1_legL3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1145
+        width: 76
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts1_torso3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1143
+        width: 126
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts1_legR3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1146
+        width: 73
+        height: 85
+      alignment: 9
+      pivot: {x: 0.45, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts2_torso3
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1165
+        width: 123
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: -0.045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts3_uprtorso3
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1219
+        width: 99
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts4_uprtorso3
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1190
+        width: 102
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts5_uprtorso3
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 1200
+        width: 101
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts2_legL3
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1155
+        width: 70
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts2_legR3
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1156
+        width: 69
+        height: 61
+      alignment: 9
+      pivot: {x: 0.51, y: 1.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts3_torso3
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1134
+        width: 123
+        height: 77
+      alignment: 9
+      pivot: {x: 0.505, y: -0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts4_torso3
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1092
+        width: 124
+        height: 86
+      alignment: 9
+      pivot: {x: 0.505, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts5_torso3
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1093
+        width: 126
+        height: 92
+      alignment: 9
+      pivot: {x: 0.51, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts3_legL3
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1052
+        width: 74
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts3_legR3
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1060
+        width: 71
+        height: 68
+      alignment: 9
+      pivot: {x: 0.495, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts4_legL3
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1004
+        width: 76
+        height: 78
+      alignment: 9
+      pivot: {x: 0.53, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts4_legR3
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1007
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.485, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts5_legL3
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1013
+        width: 75
+        height: 71
+      alignment: 9
+      pivot: {x: 0.52, y: 1.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts5_legR3
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1018
+        width: 70
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts3_uprtorso4
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 842
+        width: 99
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 1.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts4_uprtorso4
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 817
+        width: 102
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts5_uprtorso4
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 832
+        width: 101
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts1_legL4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 752
+        width: 76
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts1_torso4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 750
+        width: 126
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts1_legR4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 753
+        width: 73
+        height: 85
+      alignment: 9
+      pivot: {x: 0.45, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts2_legL4
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 762
+        width: 70
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts2_torso4
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 773
+        width: 123
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: -0.045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts2_legR4
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 764
+        width: 69
+        height: 61
+      alignment: 9
+      pivot: {x: 0.51, y: 1.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts3_torso4
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 757
+        width: 123
+        height: 77
+      alignment: 9
+      pivot: {x: 0.505, y: -0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts4_torso4
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 719
+        width: 124
+        height: 86
+      alignment: 9
+      pivot: {x: 0.505, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts5_torso4
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 725
+        width: 126
+        height: 92
+      alignment: 9
+      pivot: {x: 0.51, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts3_legL4
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 674
+        width: 74
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts3_legR4
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 683
+        width: 71
+        height: 67
+      alignment: 9
+      pivot: {x: 0.495, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts4_legL4
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 632
+        width: 76
+        height: 77
+      alignment: 9
+      pivot: {x: 0.53, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts4_legR4
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 634
+        width: 67
+        height: 76
+      alignment: 9
+      pivot: {x: 0.485, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts5_legL4
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 645
+        width: 75
+        height: 71
+      alignment: 9
+      pivot: {x: 0.52, y: 1.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts5_legR4
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 650
+        width: 70
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts3_uprtorso5
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 464
+        width: 99
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts4_uprtorso5
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 445
+        width: 102
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts5_uprtorso5
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 464
+        width: 101
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts1_legL5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 358
+        width: 76
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts1_torso6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 356
+        width: 126
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts1_legR5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 359
+        width: 73
+        height: 86
+      alignment: 9
+      pivot: {x: 0.45, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts2_legL5
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 370
+        width: 70
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts2_torso5
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 381
+        width: 123
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: -0.045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts2_legR5
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 372
+        width: 69
+        height: 61
+      alignment: 9
+      pivot: {x: 0.51, y: 1.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts3_torso5
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 379
+        width: 123
+        height: 77
+      alignment: 9
+      pivot: {x: 0.505, y: -0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts4_torso5
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 347
+        width: 124
+        height: 86
+      alignment: 9
+      pivot: {x: 0.505, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts5_torso5
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 357
+        width: 126
+        height: 92
+      alignment: 9
+      pivot: {x: 0.51, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts3_legL5
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 297
+        width: 74
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts3_legR5
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 305
+        width: 71
+        height: 68
+      alignment: 9
+      pivot: {x: 0.495, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts4_legL5
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 259
+        width: 76
+        height: 78
+      alignment: 9
+      pivot: {x: 0.53, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts4_legR5
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 262
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.485, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts5_legL5
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 277
+        width: 75
+        height: 71
+      alignment: 9
+      pivot: {x: 0.52, y: 1.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts5_legR5
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 282
+        width: 70
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

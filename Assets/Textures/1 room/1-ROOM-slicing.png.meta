@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: 82e8b402c2e634734834dced099f6d04
+timeCreated: 1512130386
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: B1_0
+    21300002: B1_1
+    21300004: B1_2
+    21300006: B1_3
+    21300008: A1_0
+    21300010: A1_1
+    21300012: A1_2
+    21300014: A1_3
+    21300016: A1_4
+    21300018: B2_0
+    21300020: B2_1
+    21300022: B2_2
+    21300024: B2_3
+    21300026: A2_0
+    21300028: A2_1
+    21300030: A2_2
+    21300032: A2_3
+    21300034: A2_4
+    21300036: C1-up-and-C2-down_0
+    21300038: C1-up-and-C2-down_1
+    21300040: C1-up-and-C2-down_2
+    21300042: C1-up-and-C2-down_3
+    21300044: C1-up-and-C2-down_7
+    21300046: C1-up-and-C2-down_4
+    21300048: C1-up-and-C2-down_5
+    21300050: C1-up-and-C2-down_6
+    21300052: C1-up-and-C2-down_8
+    21300054: C1-up-and-C2-down_9
+    21300056: D1-up-and-D2-down_7
+    21300058: D1-up-and-D2-down_0
+    21300060: D1-up-and-D2-down_1
+    21300062: D1-up-and-D2-down_2
+    21300064: D1-up-and-D2-down_3
+    21300066: D1-up-and-D2-down_4
+    21300068: D1-up-and-D2-down_5
+    21300070: D1-up-and-D2-down_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: B1_0
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1640
+        width: 64
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B1_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1636
+        width: 82
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B1_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1636
+        width: 81
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B1_3
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1636
+        width: 83
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: A1_0
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1603
+        width: 82
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: A1_1
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1603
+        width: 83
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: A1_2
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1603
+        width: 81
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: A1_3
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1603
+        width: 82
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: A1_4
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1603
+        width: 83
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B2_0
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1208
+        width: 83
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B2_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1208
+        width: 82
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B2_2
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1208
+        width: 81
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B2_3
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1208
+        width: 82
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: A2_0
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1236
+        width: 82
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: A2_1
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1236
+        width: 82
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: A2_2
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1236
+        width: 81
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: A2_3
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 1236
+        width: 82
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: A2_4
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1236
+        width: 80
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: C1-up-and-C2-down_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 835
+        width: 82
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: C1-up-and-C2-down_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 835
+        width: 82
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: C1-up-and-C2-down_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 836
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: C1-up-and-C2-down_3
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 836
+        width: 82
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: C1-up-and-C2-down_7
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 753
+        width: 83
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: C1-up-and-C2-down_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 527
+        width: 78
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: C1-up-and-C2-down_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 527
+        width: 77
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: C1-up-and-C2-down_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 525
+        width: 81
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: C1-up-and-C2-down_8
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 526
+        width: 82
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: C1-up-and-C2-down_9
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 526
+        width: 82
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: D1-up-and-D2-down_7
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 17
+        width: 82
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: D1-up-and-D2-down_0
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 307
+        width: 82
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: D1-up-and-D2-down_1
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 308
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: D1-up-and-D2-down_2
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 308
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: D1-up-and-D2-down_3
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 308
+        width: 82
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: D1-up-and-D2-down_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 99
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: D1-up-and-D2-down_5
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 100
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: D1-up-and-D2-down_6
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 100
+        width: 83
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

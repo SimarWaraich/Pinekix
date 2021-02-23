@@ -1,0 +1,911 @@
+fileFormatVersion: 2
+guid: bea34467b917a44a09dd151bbfa950b7
+timeCreated: 1512731570
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shorts1_torso1
+    21300002: Shorts_Front_1
+    21300004: Shorts_Front_2
+    21300006: Shorts_Front_3
+    21300008: Shorts_Front_4
+    21300010: Shorts1_uprArmL1
+    21300012: Shorts1_uprArmR1
+    21300014: Shorts_Front_7
+    21300016: Shorts_Front_8
+    21300018: Shorts_Front_9
+    21300020: Shorts_Front_10
+    21300022: Shorts_Front_11
+    21300024: Shorts_Front_12
+    21300026: Shorts_Front_13
+    21300028: Shorts_Front_14
+    21300030: Shorts1_torso2
+    21300032: Shorts_Front_16
+    21300034: Shorts_Front_17
+    21300036: Shorts_Front_18
+    21300038: Shorts_Front_19
+    21300040: Shorts1_uprArmL2
+    21300042: Shorts1_uprArmR2
+    21300044: Shorts_Front_22
+    21300046: Shorts_Front_23
+    21300048: Shorts_Front_24
+    21300050: Shorts_Front_25
+    21300052: Shorts_Front_26
+    21300054: Shorts_Front_27
+    21300056: Shorts_Front_28
+    21300058: Shorts_Front_29
+    21300060: Shorts1_torso3
+    21300062: Shorts_Front_31
+    21300064: Shorts_Front_32
+    21300066: Shorts_Front_33
+    21300068: Shorts_Front_34
+    21300070: Shorts1_uprArmL3
+    21300072: Shorts1_uprArmR3
+    21300074: Shorts_Front_37
+    21300076: Shorts_Front_38
+    21300078: Shorts_Front_39
+    21300080: Shorts_Front_40
+    21300082: Shorts_Front_41
+    21300084: Shorts_Front_42
+    21300086: Shorts_Front_43
+    21300088: Shorts_Front_44
+    21300090: Shorts1_torso4
+    21300092: Shorts_Front_46
+    21300094: Shorts_Front_47
+    21300096: Shorts_Front_48
+    21300098: Shorts_Front_49
+    21300100: Shorts1_uprArmL4
+    21300102: Shorts1_uprArmR4
+    21300104: Shorts_Front_52
+    21300106: Shorts_Front_53
+    21300108: Shorts_Front_54
+    21300110: Shorts_Front_55
+    21300112: Shorts_Front_56
+    21300114: Shorts_Front_57
+    21300116: Shorts_Front_58
+    21300118: Shorts_Front_59
+    21300120: Shorts_Front_0
+    21300122: Shorts_Front_5
+    21300124: Shorts_Front_6
+    21300126: Shorts_Front_15
+    21300128: Shorts_Front_20
+    21300130: Shorts_Front_21
+    21300132: Shorts_Front_30
+    21300134: Shorts_Front_35
+    21300136: Shorts_Front_36
+    21300138: Shorts_Front_45
+    21300140: Shorts_Front_50
+    21300142: Shorts_Front_51
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shorts_Front_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1832
+        width: 140
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_1
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1829
+        width: 140
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_2
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1830
+        width: 140
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_3
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1828
+        width: 140
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_4
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1828
+        width: 140
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1635
+        width: 79
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1634
+        width: 101
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1612
+        width: 80
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_8
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1610
+        width: 101
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_9
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1595
+        width: 74
+        height: 150
+      alignment: 9
+      pivot: {x: 0.51, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_10
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1597
+        width: 86
+        height: 147
+      alignment: 9
+      pivot: {x: 0.525, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_11
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1614
+        width: 74
+        height: 130
+      alignment: 9
+      pivot: {x: 0.52, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_12
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1616
+        width: 87
+        height: 127
+      alignment: 9
+      pivot: {x: 0.51, y: 1.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_13
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1632
+        width: 71
+        height: 90
+      alignment: 9
+      pivot: {x: 0.55, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_14
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1632
+        width: 84
+        height: 89
+      alignment: 9
+      pivot: {x: 0.55, y: 1.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1455
+        width: 140
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_16
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1451
+        width: 140
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_17
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1420
+        width: 141
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_18
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1397
+        width: 140
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_19
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1398
+        width: 141
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1261
+        width: 79
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_21
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1260
+        width: 101
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_22
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1244
+        width: 80
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_23
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1242
+        width: 101
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_24
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1217
+        width: 74
+        height: 150
+      alignment: 9
+      pivot: {x: 0.51, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_25
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1219
+        width: 86
+        height: 147
+      alignment: 9
+      pivot: {x: 0.525, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_26
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1239
+        width: 74
+        height: 130
+      alignment: 9
+      pivot: {x: 0.52, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_27
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1241
+        width: 87
+        height: 127
+      alignment: 9
+      pivot: {x: 0.51, y: 1.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_28
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1256
+        width: 71
+        height: 90
+      alignment: 9
+      pivot: {x: 0.55, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_29
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1256
+        width: 84
+        height: 89
+      alignment: 9
+      pivot: {x: 0.55, y: 1.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1103
+        width: 140
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_31
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1070
+        width: 140
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_32
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1056
+        width: 141
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_33
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1031
+        width: 140
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_34
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1063
+        width: 141
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 899
+        width: 79
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_36
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 898
+        width: 101
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_37
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 860
+        width: 80
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_38
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 858
+        width: 101
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_39
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 848
+        width: 74
+        height: 150
+      alignment: 9
+      pivot: {x: 0.51, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_40
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 850
+        width: 86
+        height: 147
+      alignment: 9
+      pivot: {x: 0.525, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_41
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 869
+        width: 74
+        height: 130
+      alignment: 9
+      pivot: {x: 0.52, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_42
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 871
+        width: 87
+        height: 127
+      alignment: 9
+      pivot: {x: 0.51, y: 1.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_43
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 916
+        width: 71
+        height: 90
+      alignment: 9
+      pivot: {x: 0.55, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_44
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 916
+        width: 84
+        height: 89
+      alignment: 9
+      pivot: {x: 0.55, y: 1.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_45
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 747
+        width: 140
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_46
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 678
+        width: 140
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_47
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 680
+        width: 141
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_48
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 700
+        width: 140
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_49
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 723
+        width: 141
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_50
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 543
+        width: 79
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_51
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 542
+        width: 101
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_52
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 468
+        width: 80
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_53
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 466
+        width: 101
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_54
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 473
+        width: 74
+        height: 150
+      alignment: 9
+      pivot: {x: 0.51, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_55
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 475
+        width: 86
+        height: 147
+      alignment: 9
+      pivot: {x: 0.525, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_56
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 538
+        width: 74
+        height: 130
+      alignment: 9
+      pivot: {x: 0.52, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_57
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 540
+        width: 87
+        height: 127
+      alignment: 9
+      pivot: {x: 0.51, y: 1.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_58
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 576
+        width: 71
+        height: 90
+      alignment: 9
+      pivot: {x: 0.55, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shorts_Front_59
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 576
+        width: 84
+        height: 89
+      alignment: 9
+      pivot: {x: 0.55, y: 1.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

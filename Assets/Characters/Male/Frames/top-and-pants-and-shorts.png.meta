@@ -1,0 +1,913 @@
+fileFormatVersion: 2
+guid: 010a68d03837f4c209a37cae73a9d0e6
+timeCreated: 1511334167
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: top-and-pants-and-shorts_0
+    21300002: top-and-pants-and-shorts_1
+    21300004: top-and-pants-and-shorts_2
+    21300006: top-and-pants-and-shorts_3
+    21300008: top-and-pants-and-shorts_4
+    21300010: top-and-pants-and-shorts_5
+    21300012: top-and-pants-and-shorts_6
+    21300014: top-and-pants-and-shorts_7
+    21300016: top-and-pants-and-shorts_8
+    21300018: top-and-pants-and-shorts_9
+    21300020: top-and-pants-and-shorts_10
+    21300022: top-and-pants-and-shorts_11
+    21300024: top-and-pants-and-shorts_12
+    21300026: top-and-pants-and-shorts_13
+    21300028: top-and-pants-and-shorts_14
+    21300030: top-and-pants-and-shorts_15
+    21300032: top-and-pants-and-shorts_16
+    21300034: top-and-pants-and-shorts_17
+    21300036: top-and-pants-and-shorts_18
+    21300038: top-and-pants-and-shorts_19
+    21300040: top-and-pants-and-shorts_20
+    21300042: top-and-pants-and-shorts_21
+    21300044: top-and-pants-and-shorts_22
+    21300046: top-and-pants-and-shorts_23
+    21300048: top-and-pants-and-shorts_24
+    21300050: top-and-pants-and-shorts_25
+    21300052: top-and-pants-and-shorts_26
+    21300054: top-and-pants-and-shorts_27
+    21300056: top-and-pants-and-shorts_28
+    21300058: top-and-pants-and-shorts_29
+    21300060: top-and-pants-and-shorts_30
+    21300062: top-and-pants-and-shorts_31
+    21300064: top-and-pants-and-shorts_32
+    21300066: top-and-pants-and-shorts_33
+    21300068: top-and-pants-and-shorts_34
+    21300070: top-and-pants-and-shorts_35
+    21300072: top-and-pants-and-shorts_36
+    21300074: top-and-pants-and-shorts_37
+    21300076: top-and-pants-and-shorts_38
+    21300078: top-and-pants-and-shorts_39
+    21300080: top-and-pants-and-shorts_40
+    21300082: top-and-pants-and-shorts_41
+    21300084: top-and-pants-and-shorts_42
+    21300086: top-and-pants-and-shorts_43
+    21300088: top-and-pants-and-shorts_44
+    21300090: top-and-pants-and-shorts_45
+    21300092: top-and-pants-and-shorts_46
+    21300094: top-and-pants-and-shorts_47
+    21300096: top-and-pants-and-shorts_48
+    21300098: top-and-pants-and-shorts_49
+    21300100: top-and-pants-and-shorts_50
+    21300102: top-and-pants-and-shorts_51
+    21300104: top-and-pants-and-shorts_52
+    21300106: top-and-pants-and-shorts_53
+    21300108: top-and-pants-and-shorts_54
+    21300110: top-and-pants-and-shorts_55
+    21300112: top-and-pants-and-shorts_56
+    21300114: top-and-pants-and-shorts_57
+    21300116: top-and-pants-and-shorts_58
+    21300118: top-and-pants-and-shorts_59
+    21300120: top-and-pants-and-shorts_60
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1783
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1783
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_2
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1783
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_3
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1783
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_4
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1783
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_5
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1783
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_6
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1783
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1531
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1531
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_9
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1531
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_10
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1531
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_11
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1531
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_12
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1531
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_13
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1531
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1279
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1279
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_16
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1279
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_17
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1279
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_18
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1279
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_19
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1279
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_20
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1279
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1015
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_22
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1015
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_23
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1015
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_24
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1015
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_25
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1015
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_26
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1015
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_27
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1015
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_28
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1015
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 763
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_30
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 763
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_31
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 763
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_32
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 763
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_33
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 763
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_34
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 763
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_35
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 763
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_36
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 763
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 511
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_38
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 511
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_39
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 511
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_40
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 511
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_41
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 511
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_42
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 511
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_43
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 511
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_44
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 511
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 266
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_46
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 266
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_47
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 266
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_48
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 266
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_49
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 266
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_50
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 266
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_51
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 266
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_52
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 266
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_53
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 14
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_54
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 14
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_55
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 14
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_56
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 14
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_57
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 14
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_58
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 14
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_59
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 14
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top-and-pants-and-shorts_60
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 14
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

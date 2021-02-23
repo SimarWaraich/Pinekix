@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: a235cb23daf2545a1a34d2ea9e1c8aad
+timeCreated: 1513330774
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SeasonalClothes Changes_0
+    21300002: SeasonalClothes Changes_1
+    21300004: SeasonalClothes Changes_2
+    21300006: SeasonalClothes Changes_3
+    21300008: SeasonalClothes Changes_4
+    21300010: SeasonalClothes Changes_5
+    21300012: SeasonalClothes Changes_6
+    21300014: SeasonalClothes Changes_7
+    21300016: SeasonalClothes Changes_8
+    21300018: SeasonalClothes Changes_9
+    21300020: SeasonalClothes Changes_10
+    21300022: SeasonalClothes Changes_11
+    21300024: SeasonalClothes Changes_12
+    21300026: SeasonalClothes Changes_13
+    21300028: SeasonalClothes Changes_14
+    21300030: SeasonalClothes Changes_15
+    21300032: SeasonalClothes Changes_16
+    21300034: SeasonalClothes Changes_17
+    21300036: SeasonalClothes Changes_18
+    21300038: SeasonalClothes Changes_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SeasonalClothes Changes_0
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1686
+        width: 77
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SeasonalClothes Changes_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1666
+        width: 169
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SeasonalClothes Changes_2
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1702
+        width: 81
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SeasonalClothes Changes_3
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1626
+        width: 149
+        height: 198
+      alignment: 9
+      pivot: {x: 0.46, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SeasonalClothes Changes_4
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1626
+        width: 149
+        height: 198
+      alignment: 9
+      pivot: {x: 0.48, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SeasonalClothes Changes_5
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1607
+        width: 149
+        height: 198
+      alignment: 9
+      pivot: {x: 0.46, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SeasonalClothes Changes_6
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1607
+        width: 149
+        height: 198
+      alignment: 9
+      pivot: {x: 0.46, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SeasonalClothes Changes_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1553
+        width: 54
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SeasonalClothes Changes_8
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1497
+        width: 145
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SeasonalClothes Changes_9
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1558
+        width: 47
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SeasonalClothes Changes_10
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1386
+        width: 150
+        height: 120
+      alignment: 9
+      pivot: {x: 0.52, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SeasonalClothes Changes_11
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1386
+        width: 151
+        height: 120
+      alignment: 9
+      pivot: {x: 0.52, y: 0.98}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SeasonalClothes Changes_12
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1367
+        width: 150
+        height: 120
+      alignment: 9
+      pivot: {x: 0.52, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SeasonalClothes Changes_13
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1367
+        width: 150
+        height: 120
+      alignment: 9
+      pivot: {x: 0.52, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SeasonalClothes Changes_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1121
+        width: 106
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SeasonalClothes Changes_15
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1050
+        width: 134
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SeasonalClothes Changes_16
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1134
+        width: 92
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SeasonalClothes Changes_17
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 966
+        width: 121
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SeasonalClothes Changes_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 886
+        width: 47
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SeasonalClothes Changes_19
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 885
+        width: 58
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

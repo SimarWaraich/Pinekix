@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: a4dfbaf8a7d7a41459f5c85dab9b93b8
+timeCreated: 1512632656
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tables-output_0
+    21300002: tables-output_1
+    21300004: tables-output_2
+    21300006: tables-output_3
+    21300008: tables-output_4
+    21300010: tables-output_5
+    21300012: tables-output_6
+    21300014: tables-output_7
+    21300016: tables-output_8
+    21300018: tables-output_9
+    21300020: tables-output_10
+    21300022: tables-output_11
+    21300024: tables-output_12
+    21300026: tables-output_13
+    21300028: tables-output_14
+    21300030: tables-output_15
+    21300032: tables-output_16
+    21300034: tables-output_17
+    21300036: tables-output_18
+    21300038: tables-output_19
+    21300040: tables-output_20
+    21300042: tables-output_21
+    21300044: tables-output_22
+    21300046: tables-output_23
+    21300048: tables-output_24
+    21300050: tables-output_25
+    21300052: tables-output_26
+    21300054: tables-output_27
+    21300056: tables-output_28
+    21300058: tables-output_29
+    21300060: tables-output_30
+    21300062: tables-output_31
+    21300064: tables-output_32
+    21300066: tables-output_33
+    21300068: tables-output_34
+    21300070: tables-output_35
+    21300072: tables-output_36
+    21300074: tables-output_37
+    21300076: tables-output_38
+    21300078: tables-output_39
+    21300080: tables-output_40
+    21300082: tables-output_41
+    21300084: tables-output_42
+    21300086: tables-output_43
+    21300088: tables-output_44
+    21300090: tables-output_45
+    21300092: tables-output_46
+    21300094: tables-output_47
+    21300096: tables-output_48
+    21300098: tables-output_49
+    21300100: tables-output_50
+    21300102: tables-output_51
+    21300104: tables-output_52
+    21300106: tables-output_53
+    21300108: tables-output_54
+    21300110: tables-output_55
+    21300112: tables-output_56
+    21300114: tables-output_57
+    21300116: tables-output_58
+    21300118: tables-output_59
+    21300120: tables-output_60
+    21300122: tables-output_61
+    21300124: tables-output_62
+    21300126: tables-output_63
+    21300128: tables-output_64
+    21300130: tables-output_65
+    21300132: tables-output_66
+    21300134: tables-output_67
+    21300136: tables-output_68
+    21300138: tables-output_69
+    21300140: tables-output_70
+    21300142: tables-output_71
+    21300144: tables-output_72
+    21300146: tables-output_73
+    21300148: tables-output_74
+    21300150: tables-output_75
+    21300152: tables-output_76
+    21300154: tables-output_77
+    21300156: tables-output_78
+    21300158: tables-output_79
+    21300160: tables-output_80
+    21300162: tables-output_81
+    21300164: tables-output_82
+    21300166: tables-output_83
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 80
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tables-output_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1818
+        width: 291
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1818
+        width: 291
+        height: 183
+      alignment: 9
+      pivot: {x: 0.33, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_2
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1818
+        width: 292
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_3
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1818
+        width: 292
+        height: 183
+      alignment: 9
+      pivot: {x: 0.33, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_4
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1807
+        width: 152
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_5
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1829
+        width: 197
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_6
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1828
+        width: 197
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1592
+        width: 291
+        height: 183
+      alignment: 9
+      pivot: {x: 0.64, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1592
+        width: 291
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_9
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1592
+        width: 292
+        height: 183
+      alignment: 9
+      pivot: {x: 0.64, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_10
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1592
+        width: 292
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_11
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1591
+        width: 152
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_12
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1630
+        width: 197
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_13
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1631
+        width: 197
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1385
+        width: 182
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_15
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1385
+        width: 181
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_16
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1385
+        width: 182
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_17
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1385
+        width: 182
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_18
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1355
+        width: 152
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_19
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1438
+        width: 197
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_20
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1439
+        width: 197
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1196
+        width: 182
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_22
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1196
+        width: 181
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_23
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1196
+        width: 182
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_24
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1196
+        width: 182
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_25
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1153
+        width: 152
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_26
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1241
+        width: 197
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_27
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1240
+        width: 197
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_28
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1019
+        width: 191
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_29
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1019
+        width: 191
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_30
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1019
+        width: 191
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_31
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1019
+        width: 191
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_32
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1026
+        width: 168
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_33
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1026
+        width: 168
+        height: 102
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_34
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1026
+        width: 168
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_35
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1026
+        width: 168
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_36
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 842
+        width: 191
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_37
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 842
+        width: 191
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_38
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 842
+        width: 191
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_39
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 842
+        width: 191
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_40
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 903
+        width: 168
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_41
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 903
+        width: 168
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_42
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 903
+        width: 168
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_43
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 903
+        width: 168
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_44
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 627
+        width: 157
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_45
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 627
+        width: 157
+        height: 155
+      alignment: 9
+      pivot: {x: 0.68, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_46
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 627
+        width: 157
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_47
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 627
+        width: 157
+        height: 155
+      alignment: 9
+      pivot: {x: 0.68, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_48
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 738
+        width: 133
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_49
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 738
+        width: 133
+        height: 145
+      alignment: 9
+      pivot: {x: 0.46, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_50
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 738
+        width: 133
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_51
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 738
+        width: 133
+        height: 145
+      alignment: 9
+      pivot: {x: 0.46, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_52
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 578
+        width: 133
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_53
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 578
+        width: 133
+        height: 145
+      alignment: 9
+      pivot: {x: 0.46, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_54
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 578
+        width: 133
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_55
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 578
+        width: 133
+        height: 145
+      alignment: 9
+      pivot: {x: 0.48, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_56
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 418
+        width: 157
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_57
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 418
+        width: 157
+        height: 154
+      alignment: 9
+      pivot: {x: 0.68, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_58
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 418
+        width: 157
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_59
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 418
+        width: 157
+        height: 154
+      alignment: 9
+      pivot: {x: 0.68, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_60
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 433
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_61
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 433
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_62
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 433
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_63
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 433
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_64
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 216
+        width: 194
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_65
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 216
+        width: 193
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_66
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 216
+        width: 194
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_67
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 216
+        width: 194
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_68
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 296
+        width: 127
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_69
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 296
+        width: 127
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_70
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 296
+        width: 127
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_71
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 296
+        width: 127
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_72
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 29
+        width: 194
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_73
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 29
+        width: 193
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_74
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 29
+        width: 194
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_75
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 29
+        width: 194
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_76
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 148
+        width: 121
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_77
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 148
+        width: 121
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_78
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 148
+        width: 121
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_79
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 148
+        width: 121
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_80
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 15
+        width: 121
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_81
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 15
+        width: 121
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_82
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 15
+        width: 121
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tables-output_83
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 15
+        width: 121
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

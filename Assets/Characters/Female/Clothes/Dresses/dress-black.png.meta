@@ -1,0 +1,1263 @@
+fileFormatVersion: 2
+guid: c5c8e9871b5764b7eb3ca72aad09c63e
+timeCreated: 1509970465
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dress-black_0
+    21300002: dress-black_1
+    21300004: dress-black_2
+    21300006: dress-black_3
+    21300008: dress-black_4
+    21300010: dress-black_5
+    21300012: dress-black_6
+    21300014: dress-black_7
+    21300016: dress-black_8
+    21300018: dress-black_9
+    21300020: dress-black_10
+    21300022: dress-black_11
+    21300024: dress-black_12
+    21300026: dress-black_13
+    21300028: dress-black_14
+    21300030: dress-black_15
+    21300032: dress-black_16
+    21300034: dress-black_17
+    21300036: dress-black_18
+    21300038: dress-black_19
+    21300040: dress-black_20
+    21300042: dress-black_21
+    21300044: dress-black_22
+    21300046: dress-black_23
+    21300048: dress-black_24
+    21300050: dress-black_25
+    21300052: dress-black_26
+    21300054: dress-black_27
+    21300056: dress-black_28
+    21300058: dress-black_29
+    21300060: dress-black_30
+    21300062: dress-black_31
+    21300064: dress-black_32
+    21300066: dress-black_33
+    21300068: dress-black_34
+    21300070: dress-black_35
+    21300072: dress-black_36
+    21300074: dress-black_37
+    21300076: dress-black_38
+    21300078: dress-black_39
+    21300080: dress-black_40
+    21300082: dress-black_41
+    21300084: dress-black_42
+    21300086: dress-black_43
+    21300088: dress-black_44
+    21300090: dress-black_45
+    21300092: dress-black_46
+    21300094: dress-black_47
+    21300096: dress-black_48
+    21300098: dress-black_49
+    21300100: dress-black_50
+    21300102: dress-black_51
+    21300104: dress-black_52
+    21300106: dress-black_53
+    21300108: dress-black_54
+    21300110: dress-black_55
+    21300112: dress-black_56
+    21300114: dress-black_57
+    21300116: dress-black_58
+    21300118: dress-black_59
+    21300120: dress-black_60
+    21300122: dress-black_61
+    21300124: dress-black_62
+    21300126: dress-black_63
+    21300128: dress-black_64
+    21300130: dress-black_65
+    21300132: dress-black_66
+    21300134: dress-black_67
+    21300136: dress-black_68
+    21300138: dress-black_69
+    21300140: dress-black_70
+    21300142: dress-black_71
+    21300144: dress-black_72
+    21300146: dress-black_73
+    21300148: dress-black_74
+    21300150: dress-black_75
+    21300152: dress-black_76
+    21300154: dress-black_77
+    21300156: dress-black_78
+    21300158: dress-black_79
+    21300160: dress-black_80
+    21300162: dress-black_81
+    21300164: dress-black_82
+    21300166: dress-black_83
+    21300168: dress-black_84
+    21300170: dress-black_85
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dress-black_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1870
+        width: 133
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_1
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1870
+        width: 133
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_2
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1870
+        width: 133
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_3
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1840
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_4
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1762
+        width: 134
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_5
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1834
+        width: 60
+        height: 95
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_6
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1840
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_7
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1762
+        width: 134
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_8
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1834
+        width: 60
+        height: 95
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_9
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1840
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_10
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1762
+        width: 134
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_11
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1834
+        width: 59
+        height: 95
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1444
+        width: 210
+        height: 385
+      alignment: 9
+      pivot: {x: 0.55, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_13
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1444
+        width: 210
+        height: 385
+      alignment: 9
+      pivot: {x: 0.55, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_14
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1444
+        width: 210
+        height: 385
+      alignment: 9
+      pivot: {x: 0.55, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_15
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1512
+        width: 191
+        height: 232
+      alignment: 9
+      pivot: {x: 0.52, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_16
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1512
+        width: 191
+        height: 232
+      alignment: 9
+      pivot: {x: 0.52, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_17
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1512
+        width: 191
+        height: 232
+      alignment: 9
+      pivot: {x: 0.52, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1228
+        width: 89
+        height: 188
+      alignment: 9
+      pivot: {x: 0.58, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_19
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1234
+        width: 70
+        height: 181
+      alignment: 9
+      pivot: {x: 0.49, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_20
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1228
+        width: 89
+        height: 188
+      alignment: 9
+      pivot: {x: 0.58, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_21
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1234
+        width: 70
+        height: 181
+      alignment: 9
+      pivot: {x: 0.49, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_22
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1228
+        width: 89
+        height: 188
+      alignment: 9
+      pivot: {x: 0.58, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_23
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1234
+        width: 70
+        height: 181
+      alignment: 9
+      pivot: {x: 0.49, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_24
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1265
+        width: 131
+        height: 197
+      alignment: 9
+      pivot: {x: 0.49, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_25
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1269
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_26
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1265
+        width: 131
+        height: 197
+      alignment: 9
+      pivot: {x: 0.49, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_27
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1269
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_28
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1265
+        width: 131
+        height: 197
+      alignment: 9
+      pivot: {x: 0.49, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_29
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1269
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1010
+        width: 118
+        height: 185
+      alignment: 9
+      pivot: {x: 0.43, y: 1.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_31
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1016
+        width: 99
+        height: 188
+      alignment: 9
+      pivot: {x: 0.39, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_32
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1010
+        width: 118
+        height: 185
+      alignment: 9
+      pivot: {x: 0.43, y: 1.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_33
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1016
+        width: 99
+        height: 188
+      alignment: 9
+      pivot: {x: 0.39, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_34
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1010
+        width: 118
+        height: 185
+      alignment: 9
+      pivot: {x: 0.43, y: 1.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_35
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1016
+        width: 99
+        height: 188
+      alignment: 9
+      pivot: {x: 0.39, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_36
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1002
+        width: 127
+        height: 176
+      alignment: 9
+      pivot: {x: 0.48, y: 0.555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_37
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1002
+        width: 127
+        height: 176
+      alignment: 9
+      pivot: {x: 0.48, y: 0.555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_38
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1002
+        width: 127
+        height: 176
+      alignment: 9
+      pivot: {x: 0.48, y: 0.555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_39
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 738
+        width: 136
+        height: 172
+      alignment: 9
+      pivot: {x: 0.51, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_40
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 738
+        width: 136
+        height: 172
+      alignment: 9
+      pivot: {x: 0.51, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_41
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 738
+        width: 136
+        height: 172
+      alignment: 9
+      pivot: {x: 0.51, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_42
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 795
+        width: 137
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_43
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 772
+        width: 149
+        height: 204
+      alignment: 9
+      pivot: {x: 0.52, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_44
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 772
+        width: 149
+        height: 204
+      alignment: 9
+      pivot: {x: 0.52, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_45
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 772
+        width: 149
+        height: 204
+      alignment: 9
+      pivot: {x: 0.52, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_46
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 455
+        width: 150
+        height: 240
+      alignment: 9
+      pivot: {x: 0.54, y: 0.985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_47
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 455
+        width: 150
+        height: 240
+      alignment: 9
+      pivot: {x: 0.54, y: 0.985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_48
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 455
+        width: 150
+        height: 240
+      alignment: 9
+      pivot: {x: 0.54, y: 0.985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_49
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 638
+        width: 144
+        height: 130
+      alignment: 9
+      pivot: {x: 0.515, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_50
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 570
+        width: 85
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_51
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 574
+        width: 76
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_52
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 570
+        width: 85
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_53
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 574
+        width: 76
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_54
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 570
+        width: 85
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_55
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 574
+        width: 76
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_56
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 522
+        width: 80
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_57
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 522
+        width: 70
+        height: 87
+      alignment: 9
+      pivot: {x: 0.46, y: 1.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 183
+        width: 82
+        height: 203
+      alignment: 9
+      pivot: {x: 0.59, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_59
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 183
+        width: 80
+        height: 198
+      alignment: 9
+      pivot: {x: 0.52, y: 1.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_60
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 183
+        width: 82
+        height: 203
+      alignment: 9
+      pivot: {x: 0.59, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_61
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 183
+        width: 80
+        height: 198
+      alignment: 9
+      pivot: {x: 0.52, y: 1.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_62
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 183
+        width: 82
+        height: 203
+      alignment: 9
+      pivot: {x: 0.59, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_63
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 183
+        width: 80
+        height: 198
+      alignment: 9
+      pivot: {x: 0.52, y: 1.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_64
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 271
+        width: 137
+        height: 173
+      alignment: 9
+      pivot: {x: 0.51, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_65
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 352
+        width: 69
+        height: 94
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_66
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 328
+        width: 133
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_67
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 345
+        width: 60
+        height: 97
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_68
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 352
+        width: 69
+        height: 94
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_69
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 328
+        width: 133
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_70
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 345
+        width: 60
+        height: 97
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_71
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 352
+        width: 69
+        height: 94
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_72
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 328
+        width: 133
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_73
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 345
+        width: 60
+        height: 97
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_74
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 114
+        width: 144
+        height: 130
+      alignment: 9
+      pivot: {x: 0.53, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_75
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 47
+        width: 70
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_76
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 38
+        width: 77
+        height: 98
+      alignment: 9
+      pivot: {x: 0.52, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_77
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 47
+        width: 70
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_78
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 38
+        width: 77
+        height: 98
+      alignment: 9
+      pivot: {x: 0.52, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_79
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 47
+        width: 70
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_80
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 38
+        width: 77
+        height: 98
+      alignment: 9
+      pivot: {x: 0.52, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_81
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 3
+        width: 80
+        height: 89
+      alignment: 9
+      pivot: {x: 0.52, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_82
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 3
+        width: 70
+        height: 87
+      alignment: 9
+      pivot: {x: 0.48, y: 1.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_83
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 161
+        width: 140
+        height: 141
+      alignment: 9
+      pivot: {x: 0.51, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_84
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 161
+        width: 140
+        height: 141
+      alignment: 9
+      pivot: {x: 0.51, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-black_85
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 161
+        width: 140
+        height: 141
+      alignment: 9
+      pivot: {x: 0.51, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

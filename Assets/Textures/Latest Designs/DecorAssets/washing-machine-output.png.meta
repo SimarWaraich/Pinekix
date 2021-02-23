@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: 7ae6bc1b68df144c9b0672a7461a3823
+timeCreated: 1511949996
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: washing-machine-output_0
+    21300002: washing-machine-output_1
+    21300004: washing-machine-output_2
+    21300006: washing-machine-output_3
+    21300008: washing-machine-output_4
+    21300010: washing-machine-output_5
+    21300012: washing-machine-output_6
+    21300014: washing-machine-output_7
+    21300016: washing-machine-output_8
+    21300018: washing-machine-output_9
+    21300020: washing-machine-output_10
+    21300022: washing-machine-output_11
+    21300024: washing-machine-output_12
+    21300026: washing-machine-output_13
+    21300028: washing-machine-output_14
+    21300030: washing-machine-output_15
+    21300032: washing-machine-output_16
+    21300034: washing-machine-output_17
+    21300036: washing-machine-output_18
+    21300038: washing-machine-output_19
+    21300040: washing-machine-output_20
+    21300042: washing-machine-output_21
+    21300044: washing-machine-output_22
+    21300046: washing-machine-output_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: washing-machine-output_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 888
+        width: 87
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 888
+        width: 88
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 888
+        width: 87
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 888
+        width: 88
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 714
+        width: 111
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 714
+        width: 111
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_6
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 714
+        width: 111
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_7
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 714
+        width: 111
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 551
+        width: 96
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 551
+        width: 96
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_10
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 551
+        width: 96
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_11
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 551
+        width: 96
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 370
+        width: 113
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_13
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 370
+        width: 113
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_14
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 370
+        width: 113
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_15
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 370
+        width: 113
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 198
+        width: 123
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 198
+        width: 124
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_18
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 198
+        width: 123
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_19
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 198
+        width: 124
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 11
+        width: 108
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_21
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 11
+        width: 108
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_22
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 11
+        width: 108
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: washing-machine-output_23
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 11
+        width: 108
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

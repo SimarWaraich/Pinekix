@@ -1,0 +1,759 @@
+fileFormatVersion: 2
+guid: c5c030c9d8c2c4840875a383328c7aa3
+timeCreated: 1510745404
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: frames-girls-boots_0
+    21300002: frames-girls-boots_1
+    21300004: frames-girls-boots_2
+    21300006: frames-girls-boots_3
+    21300008: frames-girls-boots_4
+    21300010: frames-girls-boots_5
+    21300012: frames-girls-boots_6
+    21300014: frames-girls-boots_7
+    21300016: frames-girls-boots_8
+    21300018: frames-girls-boots_9
+    21300020: frames-girls-boots_10
+    21300022: frames-girls-boots_11
+    21300024: frames-girls-boots_12
+    21300026: frames-girls-boots_13
+    21300028: frames-girls-boots_14
+    21300030: frames-girls-boots_15
+    21300032: frames-girls-boots_16
+    21300034: frames-girls-boots_17
+    21300036: frames-girls-boots_18
+    21300038: frames-girls-boots_19
+    21300040: frames-girls-boots_20
+    21300042: frames-girls-boots_21
+    21300044: frames-girls-boots_22
+    21300046: frames-girls-boots_23
+    21300048: frames-girls-boots_24
+    21300050: frames-girls-boots_25
+    21300052: frames-girls-boots_26
+    21300054: frames-girls-boots_27
+    21300056: frames-girls-boots_28
+    21300058: frames-girls-boots_29
+    21300060: frames-girls-boots_30
+    21300062: frames-girls-boots_31
+    21300064: frames-girls-boots_32
+    21300066: frames-girls-boots_33
+    21300068: frames-girls-boots_34
+    21300070: frames-girls-boots_35
+    21300072: frames-girls-boots_36
+    21300074: frames-girls-boots_37
+    21300076: frames-girls-boots_38
+    21300078: frames-girls-boots_39
+    21300080: frames-girls-boots_40
+    21300082: frames-girls-boots_41
+    21300084: frames-girls-boots_42
+    21300086: frames-girls-boots_43
+    21300088: frames-girls-boots_44
+    21300090: frames-girls-boots_45
+    21300092: frames-girls-boots_46
+    21300094: frames-girls-boots_47
+    21300096: frames-girls-boots_48
+    21300098: frames-girls-boots_49
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frames-girls-boots_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1787
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1787
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1787
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_3
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1787
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_4
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1787
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_5
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1787
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_6
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1787
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1533
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_8
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1533
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1533
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_10
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1533
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_11
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1533
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_12
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1533
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_13
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1533
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1285
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_15
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1285
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1285
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_17
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1285
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_18
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1285
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_19
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1285
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_20
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1285
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1028
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_22
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1035
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1035
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_24
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1035
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_25
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1035
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_26
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1028
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_27
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1028
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 772
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_29
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 772
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_30
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 772
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_31
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 772
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_32
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 772
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_33
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 765
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_34
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 525
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_35
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 525
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 525
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_37
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 525
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_38
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 525
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_39
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 521
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_40
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 266
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_41
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 266
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 266
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_43
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 266
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_44
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 268
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_45
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_46
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 17
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 17
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_48
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 17
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-boots_49
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 19
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

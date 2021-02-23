@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: a4ce6a5bc434841aa815c91df0ecc2fc
+timeCreated: 1511949976
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wardrobes-output1_0
+    21300002: Wardrobes-output1_1
+    21300004: Wardrobes-output1_2
+    21300006: Wardrobes-output1_3
+    21300008: Wardrobes-output1_4
+    21300010: Wardrobes-output1_5
+    21300012: Wardrobes-output1_6
+    21300014: Wardrobes-output1_7
+    21300016: Wardrobes-output1_8
+    21300018: Wardrobes-output1_9
+    21300020: Wardrobes-output1_10
+    21300022: Wardrobes-output1_11
+    21300024: Wardrobes-output1_12
+    21300026: Wardrobes-output1_13
+    21300028: Wardrobes-output1_14
+    21300030: Wardrobes-output1_15
+    21300032: Wardrobes-output1_16
+    21300034: Wardrobes-output1_17
+    21300036: Wardrobes-output1_18
+    21300038: Wardrobes-output1_19
+    21300040: Wardrobes-output1_20
+    21300042: Wardrobes-output1_21
+    21300044: Wardrobes-output1_22
+    21300046: Wardrobes-output1_23
+    21300048: Wardrobes-output1_24
+    21300050: Wardrobes-output1_25
+    21300052: Wardrobes-output1_26
+    21300054: Wardrobes-output1_27
+    21300056: Wardrobes-output1_28
+    21300058: Wardrobes-output1_29
+    21300060: Wardrobes-output1_30
+    21300062: Wardrobes-output1_31
+    21300064: Wardrobes-output1_32
+    21300066: Wardrobes-output1_33
+    21300068: Wardrobes-output1_34
+    21300070: Wardrobes-output1_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 60
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wardrobes-output1_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1726
+        width: 195
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1726
+        width: 195
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1726
+        width: 195
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_3
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1726
+        width: 195
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_4
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1710
+        width: 226
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_5
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1689
+        width: 226
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1390
+        width: 139
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_7
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1390
+        width: 139
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_8
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1390
+        width: 139
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_9
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1390
+        width: 138
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_10
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1299
+        width: 226
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_11
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1320
+        width: 226
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1074
+        width: 181
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1074
+        width: 181
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_14
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1074
+        width: 181
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1074
+        width: 180
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_16
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 808
+        width: 150
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_17
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 808
+        width: 150
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_18
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 808
+        width: 150
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_19
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 808
+        width: 150
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 781
+        width: 149
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_21
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 781
+        width: 150
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_22
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 781
+        width: 149
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_23
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 781
+        width: 150
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 469
+        width: 143
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_25
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 469
+        width: 143
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_26
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 469
+        width: 143
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_27
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 469
+        width: 142
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_28
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 408
+        width: 152
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_29
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 408
+        width: 152
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_30
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 408
+        width: 152
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_31
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 408
+        width: 152
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 110
+        width: 209
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_33
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 109
+        width: 210
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_34
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 109
+        width: 211
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wardrobes-output1_35
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 110
+        width: 208
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

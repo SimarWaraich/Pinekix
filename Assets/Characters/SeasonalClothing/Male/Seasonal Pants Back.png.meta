@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 09f4c7c44684a4b718f1439377a017e7
+timeCreated: 1513075633
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Seasonal Pants Back_0
+    21300002: Seasonal Pants Back_1
+    21300004: Seasonal Pants Back_2
+    21300006: Seasonal Pants Back_3
+    21300008: Seasonal Pants Back_4
+    21300010: Seasonal Pants Back_5
+    21300012: Seasonal Pants Back_6
+    21300014: Seasonal Pants Back_7
+    21300016: Seasonal Pants Back_8
+    21300018: Seasonal Pants Back_9
+    21300020: Seasonal Pants Back_10
+    21300022: Seasonal Pants Back_11
+    21300024: Seasonal Pants Back_12
+    21300026: Seasonal Pants Back_13
+    21300028: Seasonal Pants Back_14
+    21300030: Seasonal Pants Back_15
+    21300032: Seasonal Pants Back_16
+    21300034: Seasonal Pants Back_17
+    21300036: Seasonal Pants Back_18
+    21300038: Seasonal Pants Back_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Seasonal Pants Back_0
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 419
+        width: 145
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Pants Back_1
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 419
+        width: 144
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Pants Back_2
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 419
+        width: 145
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Pants Back_3
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 419
+        width: 144
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Pants Back_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 204
+        width: 96
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Pants Back_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 203
+        width: 81
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Pants Back_6
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 204
+        width: 97
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Pants Back_7
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 203
+        width: 80
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Pants Back_8
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 204
+        width: 98
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Pants Back_9
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 203
+        width: 79
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Pants Back_10
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 204
+        width: 98
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Pants Back_11
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 203
+        width: 81
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Pants Back_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 26
+        width: 73
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Pants Back_13
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 26
+        width: 65
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Pants Back_14
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 26
+        width: 74
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Pants Back_15
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 26
+        width: 65
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Pants Back_16
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 26
+        width: 75
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Pants Back_17
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 26
+        width: 64
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Pants Back_18
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 26
+        width: 75
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seasonal Pants Back_19
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 26
+        width: 66
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

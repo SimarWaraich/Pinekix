@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: 45e98e325796141e896fab245c4ddc25
+timeCreated: 1510059733
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Boy-lips_0
+    21300002: Boy-lips_1
+    21300004: Boy-lips_2
+    21300006: Boy-lips_3
+    21300008: Boy-lips_4
+    21300010: Boy-lips_5
+    21300012: Boy-lips_6
+    21300014: Boy-lips_7
+    21300016: Boy-lips_8
+    21300018: Boy-lips_9
+    21300020: Boy-lips_10
+    21300022: Boy-lips_11
+    21300024: Boy-lips_12
+    21300026: Boy-lips_13
+    21300028: Boy-lips_14
+    21300030: Boy-lips_15
+    21300032: Boy-lips_16
+    21300034: Boy-lips_17
+    21300036: Boy-lips_18
+    21300038: Boy-lips_19
+    21300040: Boy-lips_20
+    21300042: Boy-lips_21
+    21300044: Boy-lips_22
+    21300046: Boy-lips_23
+    21300048: Boy-lips_24
+    21300050: Boy-lips_25
+    21300052: Boy-lips_26
+    21300054: Boy-lips_27
+    21300056: Boy-lips_28
+    21300058: Boy-lips_29
+    21300060: Boy-lips_30
+    21300062: Boy-lips_31
+    21300064: Boy-lips_32
+    21300066: Boy-lips_33
+    21300068: Boy-lips_34
+    21300070: Boy-lips_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boy-lips_0
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1540
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_1
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1540
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_2
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1540
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_3
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1540
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_4
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1540
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_5
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1540
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_6
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1288
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_7
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1288
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_8
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1288
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_9
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1288
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_10
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1288
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_11
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1288
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_12
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1036
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_13
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1036
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_14
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1036
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_15
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1036
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_16
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1036
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_17
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1036
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_18
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 784
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_19
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 784
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_20
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 784
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_21
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 784
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_22
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 784
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_23
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 784
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_24
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 532
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_25
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 532
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_26
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 532
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_27
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 532
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_28
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 532
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_29
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 532
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_30
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 280
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_31
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 280
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_32
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 280
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_33
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 280
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_34
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 280
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-lips_35
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 280
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

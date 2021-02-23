@@ -1,0 +1,1389 @@
+fileFormatVersion: 2
+guid: aaddc2ff5eacd4696b70fede03d82d94
+timeCreated: 1513666558
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: seasonal clothes for girl sciling -01_0
+    21300002: seasonal clothes for girl sciling -01_1
+    21300004: seasonal clothes for girl sciling -01_2
+    21300006: seasonal clothes for girl sciling -01_3
+    21300008: seasonal clothes for girl sciling -01_4
+    21300010: seasonal clothes for girl sciling -01_5
+    21300012: seasonal clothes for girl sciling -01_6
+    21300014: seasonal clothes for girl sciling -01_7
+    21300016: seasonal clothes for girl sciling -01_8
+    21300018: seasonal clothes for girl sciling -01_9
+    21300020: seasonal clothes for girl sciling -01_10
+    21300022: seasonal clothes for girl sciling -01_11
+    21300024: seasonal clothes for girl sciling -01_12
+    21300026: seasonal clothes for girl sciling -01_13
+    21300028: seasonal clothes for girl sciling -01_14
+    21300030: seasonal clothes for girl sciling -01_15
+    21300032: seasonal clothes for girl sciling -01_16
+    21300034: seasonal clothes for girl sciling -01_17
+    21300036: seasonal clothes for girl sciling -01_18
+    21300038: seasonal clothes for girl sciling -01_19
+    21300040: seasonal clothes for girl sciling -01_20
+    21300042: seasonal clothes for girl sciling -01_21
+    21300044: seasonal clothes for girl sciling -01_22
+    21300046: seasonal clothes for girl sciling -01_23
+    21300048: seasonal clothes for girl sciling -01_24
+    21300050: seasonal clothes for girl sciling -01_25
+    21300052: seasonal clothes for girl sciling -01_26
+    21300054: seasonal clothes for girl sciling -01_27
+    21300056: seasonal clothes for girl sciling -01_28
+    21300058: seasonal clothes for girl sciling -01_29
+    21300060: seasonal clothes for girl sciling -01_30
+    21300062: seasonal clothes for girl sciling -01_31
+    21300064: seasonal clothes for girl sciling -01_32
+    21300066: seasonal clothes for girl sciling -01_33
+    21300068: seasonal clothes for girl sciling -01_34
+    21300070: seasonal clothes for girl sciling -01_35
+    21300072: seasonal clothes for girl sciling -01_36
+    21300074: seasonal clothes for girl sciling -01_37
+    21300076: seasonal clothes for girl sciling -01_38
+    21300078: seasonal clothes for girl sciling -01_39
+    21300080: seasonal clothes for girl sciling -01_40
+    21300082: seasonal clothes for girl sciling -01_41
+    21300084: seasonal clothes for girl sciling -01_42
+    21300086: seasonal clothes for girl sciling -01_43
+    21300088: seasonal clothes for girl sciling -01_44
+    21300090: seasonal clothes for girl sciling -01_45
+    21300092: seasonal clothes for girl sciling -01_46
+    21300094: seasonal clothes for girl sciling -01_47
+    21300096: seasonal clothes for girl sciling -01_48
+    21300098: seasonal clothes for girl sciling -01_49
+    21300100: seasonal clothes for girl sciling -01_50
+    21300102: seasonal clothes for girl sciling -01_51
+    21300104: seasonal clothes for girl sciling -01_52
+    21300106: seasonal clothes for girl sciling -01_53
+    21300108: seasonal clothes for girl sciling -01_54
+    21300110: seasonal clothes for girl sciling -01_55
+    21300112: seasonal clothes for girl sciling -01_56
+    21300114: seasonal clothes for girl sciling -01_57
+    21300116: seasonal clothes for girl sciling -01_58
+    21300118: seasonal clothes for girl sciling -01_59
+    21300120: seasonal clothes for girl sciling -01_60
+    21300122: seasonal clothes for girl sciling -01_61
+    21300124: seasonal clothes for girl sciling -01_62
+    21300126: seasonal clothes for girl sciling -01_63
+    21300128: seasonal clothes for girl sciling -01_64
+    21300130: seasonal clothes for girl sciling -01_65
+    21300132: seasonal clothes for girl sciling -01_66
+    21300134: seasonal clothes for girl sciling -01_67
+    21300136: seasonal clothes for girl sciling -01_68
+    21300138: seasonal clothes for girl sciling -01_69
+    21300140: seasonal clothes for girl sciling -01_70
+    21300142: seasonal clothes for girl sciling -01_71
+    21300144: seasonal clothes for girl sciling -01_72
+    21300146: seasonal clothes for girl sciling -01_73
+    21300148: seasonal clothes for girl sciling -01_74
+    21300150: seasonal clothes for girl sciling -01_75
+    21300152: seasonal clothes for girl sciling -01_76
+    21300154: seasonal clothes for girl sciling -01_77
+    21300156: seasonal clothes for girl sciling -01_78
+    21300158: seasonal clothes for girl sciling -01_79
+    21300160: seasonal clothes for girl sciling -01_80
+    21300162: seasonal clothes for girl sciling -01_81
+    21300164: seasonal clothes for girl sciling -01_82
+    21300166: seasonal clothes for girl sciling -01_83
+    21300168: seasonal clothes for girl sciling -01_84
+    21300170: seasonal clothes for girl sciling -01_85
+    21300172: seasonal clothes for girl sciling -01_86
+    21300174: seasonal clothes for girl sciling -01_87
+    21300176: seasonal clothes for girl sciling -01_88
+    21300178: seasonal clothes for girl sciling -01_89
+    21300180: seasonal clothes for girl sciling -01_90
+    21300182: seasonal clothes for girl sciling -01_91
+    21300184: seasonal clothes for girl sciling -01_92
+    21300186: seasonal clothes for girl sciling -01_93
+    21300188: seasonal clothes for girl sciling -01_94
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1931
+        width: 105
+        height: 97
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1799
+        width: 136
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1877
+        width: 89
+        height: 113
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_3
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1927
+        width: 52
+        height: 48
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_4
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1809
+        width: 137
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_5
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1923
+        width: 50
+        height: 51
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_6
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1803
+        width: 135
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_7
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1820
+        width: 88
+        height: 116
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_8
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1869
+        width: 105
+        height: 98
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_9
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1789
+        width: 136
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_10
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1845
+        width: 89
+        height: 114
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1737
+        width: 41
+        height: 108
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_12
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1834
+        width: 107
+        height: 97
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1680
+        width: 129
+        height: 63
+      alignment: 9
+      pivot: {x: 0.52, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_14
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1739
+        width: 80
+        height: 91
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_15
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1681
+        width: 129
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_16
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1706
+        width: 42
+        height: 103
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_17
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1703
+        width: 134
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_18
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1720
+        width: 75
+        height: 88
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_19
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1680
+        width: 42
+        height: 108
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_20
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1702
+        width: 80
+        height: 91
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_21
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1670
+        width: 129
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1469
+        width: 106
+        height: 103
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1372
+        width: 134
+        height: 210
+      alignment: 9
+      pivot: {x: 0.5, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_24
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1466
+        width: 91
+        height: 116
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_25
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1485
+        width: 105
+        height: 101
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_26
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1440
+        width: 134
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_27
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1458
+        width: 88
+        height: 115
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_28
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1451
+        width: 107
+        height: 97
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_29
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1393
+        width: 135
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_30
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1443
+        width: 88
+        height: 116
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_31
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1432
+        width: 134
+        height: 169
+      alignment: 9
+      pivot: {x: 0.52, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_32
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1343
+        width: 47
+        height: 60
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_33
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1364
+        width: 58
+        height: 59
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_34
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1366
+        width: 41
+        height: 94
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_35
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1295
+        width: 144
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_36
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1345
+        width: 74
+        height: 84
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_37
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1323
+        width: 41
+        height: 103
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_38
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1343
+        width: 75
+        height: 88
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_39
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1279
+        width: 161
+        height: 122
+      alignment: 9
+      pivot: {x: 0.48, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_40
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1218
+        width: 70
+        height: 91
+      alignment: 9
+      pivot: {x: 0.58, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_41
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1229
+        width: 80
+        height: 93
+      alignment: 9
+      pivot: {x: 0.55, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_42
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1299
+        width: 134
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_43
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1140
+        width: 117
+        height: 161
+      alignment: 9
+      pivot: {x: 0.42, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_44
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1150
+        width: 128
+        height: 136
+      alignment: 9
+      pivot: {x: 0.53, y: 0.68}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_45
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1049
+        width: 108
+        height: 206
+      alignment: 9
+      pivot: {x: 0.42, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_46
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 963
+        width: 151
+        height: 160
+      alignment: 9
+      pivot: {x: 0.47, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_47
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1022
+        width: 107
+        height: 103
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_48
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 964
+        width: 135
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_49
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 978
+        width: 91
+        height: 116
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_50
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1066
+        width: 54
+        height: 51
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_51
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 969
+        width: 135
+        height: 175
+      alignment: 9
+      pivot: {x: 0.52, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_52
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1073
+        width: 49
+        height: 55
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_53
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 927
+        width: 73
+        height: 120
+      alignment: 9
+      pivot: {x: 0.56, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_54
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 928
+        width: 92
+        height: 124
+      alignment: 9
+      pivot: {x: 0.52, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_55
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 924
+        width: 47
+        height: 60
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_56
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 910
+        width: 59
+        height: 59
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_57
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 787
+        width: 186
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_58
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 867
+        width: 134
+        height: 168
+      alignment: 9
+      pivot: {x: 0.52, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_59
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 874
+        width: 121
+        height: 51
+      alignment: 9
+      pivot: {x: 0.49, y: -0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_60
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 773
+        width: 99
+        height: 115
+      alignment: 9
+      pivot: {x: 0.42, y: 0.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_61
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 734
+        width: 128
+        height: 137
+      alignment: 9
+      pivot: {x: 0.53, y: 0.68}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_62
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 665
+        width: 124
+        height: 141
+      alignment: 9
+      pivot: {x: 0.55, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_63
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 751
+        width: 97
+        height: 117
+      alignment: 9
+      pivot: {x: 0.63, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_64
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 619
+        width: 117
+        height: 160
+      alignment: 9
+      pivot: {x: 0.42, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_65
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 725
+        width: 162
+        height: 121
+      alignment: 9
+      pivot: {x: 0.48, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_66
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 587
+        width: 72
+        height: 120
+      alignment: 9
+      pivot: {x: 0.56, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_67
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 563
+        width: 151
+        height: 159
+      alignment: 9
+      pivot: {x: 0.47, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_68
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 572
+        width: 92
+        height: 124
+      alignment: 9
+      pivot: {x: 0.52, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_69
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 507
+        width: 86
+        height: 121
+      alignment: 9
+      pivot: {x: 0.58, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_70
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 492
+        width: 169
+        height: 161
+      alignment: 9
+      pivot: {x: 0.49, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_71
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 504
+        width: 92
+        height: 118
+      alignment: 9
+      pivot: {x: 0.44, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_72
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 618
+        width: 54
+        height: 52
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_73
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 533
+        width: 134
+        height: 175
+      alignment: 9
+      pivot: {x: 0.52, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_74
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 620
+        width: 50
+        height: 55
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_75
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 528
+        width: 109
+        height: 205
+      alignment: 9
+      pivot: {x: 0.42, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_76
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 181
+        width: 137
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_77
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 286
+        width: 124
+        height: 142
+      alignment: 9
+      pivot: {x: 0.55, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_78
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 305
+        width: 97
+        height: 117
+      alignment: 9
+      pivot: {x: 0.63, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_79
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 357
+        width: 185
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_80
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 311
+        width: 100
+        height: 115
+      alignment: 9
+      pivot: {x: 0.42, y: 0.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_81
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 325
+        width: 105
+        height: 101
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_82
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 278
+        width: 134
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_83
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 309
+        width: 88
+        height: 115
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_84
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 299
+        width: 53
+        height: 49
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_85
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 295
+        width: 49
+        height: 51
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_86
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 82
+        width: 169
+        height: 160
+      alignment: 9
+      pivot: {x: 0.49, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_87
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 200
+        width: 41
+        height: 94
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_88
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 124
+        width: 144
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_89
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 214
+        width: 74
+        height: 84
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_90
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 81
+        width: 129
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_91
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 76
+        width: 87
+        height: 121
+      alignment: 9
+      pivot: {x: 0.53, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_92
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 82
+        width: 92
+        height: 117
+      alignment: 9
+      pivot: {x: 0.44, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_93
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 83
+        width: 70
+        height: 91
+      alignment: 9
+      pivot: {x: 0.58, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: seasonal clothes for girl sciling -01_94
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 108
+        width: 80
+        height: 94
+      alignment: 9
+      pivot: {x: 0.55, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

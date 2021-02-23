@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 47fa4f1950b304045b51e599247600f3
+timeCreated: 1474979468
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Red3
+    21300002: Red_4
+    21300004: Red_5
+    21300006: Red_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 143
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Red3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 469
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106.5, y: 109.5}
+        - {x: 96.5, y: 117.5}
+        - {x: 82.5, y: 117.5}
+        - {x: 77.5, y: 114.5}
+        - {x: -106.5, y: 11.5}
+        - {x: -106.5, y: -111.5}
+        - {x: -104.5, y: -113.5}
+        - {x: -96.5, y: -117.5}
+        - {x: -83.5, y: -117.5}
+        - {x: 96.5, y: -17.5}
+        - {x: 106.5, y: -11.5}
+    - name: Red_4
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 329
+        width: 437
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 89.02658, y: 114.15703}
+        - {x: 81.02658, y: 114.15703}
+        - {x: -13.973419, y: 63.15703}
+        - {x: -98.97342, y: 14.157028}
+        - {x: -98.97342, y: -105.84297}
+        - {x: -88.97342, y: -113.84297}
+        - {x: -75.97342, y: -113.84297}
+        - {x: -68.97342, y: -110.84297}
+        - {x: 99.02658, y: -16.842972}
+        - {x: 100.02658, y: -15.842972}
+        - {x: 100.02658, y: 106.15703}
+    - name: Red_5
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 327
+        width: 467
+        height: 520
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.95453, y: 47.525375}
+        - {x: -94.95453, y: 47.525375}
+        - {x: -104.95453, y: 40.525375}
+        - {x: -104.95453, y: -78.474625}
+        - {x: -102.95453, y: -81.474625}
+        - {x: -65.95453, y: -102.474625}
+        - {x: 80.04547, y: -188.47462}
+        - {x: 99.04547, y: -188.47462}
+        - {x: 107.04547, y: -185.47462}
+        - {x: 107.04547, y: -59.474625}
+        - {x: 25.045471, y: -12.474625}
+    - name: Red_6
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 0
+        width: 430
+        height: 501
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.15582, y: 114}
+        - {x: -88.15582, y: 114}
+        - {x: -96.15582, y: 111}
+        - {x: -96.15582, y: -16}
+        - {x: -94.15582, y: -16}
+        - {x: 77.84418, y: -114}
+        - {x: 90.84418, y: -114}
+        - {x: 98.84418, y: -110}
+        - {x: 98.84418, y: 16}
+        - {x: -61.155823, y: 109}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

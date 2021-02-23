@@ -1,0 +1,759 @@
+fileFormatVersion: 2
+guid: 1f36640569e444001acdf1142db75c15
+timeCreated: 1510059726
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Boy-hair_0
+    21300002: Boy-hair_1
+    21300004: Boy-hair_2
+    21300006: Boy-hair_3
+    21300008: Boy-hair_4
+    21300010: Boy-hair_5
+    21300012: Boy-hair_6
+    21300014: Boy-hair_7
+    21300016: Boy-hair_8
+    21300018: Boy-hair_9
+    21300020: Boy-hair_10
+    21300022: Boy-hair_11
+    21300024: Boy-hair_12
+    21300026: Boy-hair_13
+    21300028: Boy-hair_14
+    21300030: Boy-hair_15
+    21300032: Boy-hair_16
+    21300034: Boy-hair_17
+    21300036: Boy-hair_18
+    21300038: Boy-hair_19
+    21300040: Boy-hair_20
+    21300042: Boy-hair_21
+    21300044: Boy-hair_22
+    21300046: Boy-hair_23
+    21300048: Boy-hair_24
+    21300050: Boy-hair_25
+    21300052: Boy-hair_26
+    21300054: Boy-hair_27
+    21300056: Boy-hair_28
+    21300058: Boy-hair_29
+    21300060: Boy-hair_30
+    21300062: Boy-hair_31
+    21300064: Boy-hair_32
+    21300066: Boy-hair_33
+    21300068: Boy-hair_34
+    21300070: Boy-hair_35
+    21300072: Boy-hair_36
+    21300074: Boy-hair_37
+    21300076: Boy-hair_38
+    21300078: Boy-hair_39
+    21300080: Boy-hair_40
+    21300082: Boy-hair_41
+    21300084: Boy-hair_42
+    21300086: Boy-hair_43
+    21300088: Boy-hair_44
+    21300090: Boy-hair_45
+    21300092: Boy-hair_46
+    21300094: Boy-hair_47
+    21300096: Boy-hair_48
+    21300098: Boy-hair_49
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boy-hair_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1799
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1799
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_2
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1799
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_3
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1799
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_4
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1799
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_5
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1799
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_6
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1799
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1547
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1547
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_9
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1547
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_10
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1547
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_11
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1547
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_12
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1547
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_13
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1547
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1295
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_15
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1295
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_16
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1295
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_17
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1295
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_18
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1295
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_19
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1295
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_20
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1295
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_21
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1043
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1043
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_23
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1043
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_24
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1043
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_25
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1043
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_26
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1043
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_27
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 1043
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 791
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_29
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 791
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_30
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 791
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_31
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 791
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_32
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 791
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_33
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 791
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_34
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 791
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_35
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 539
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_36
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 539
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_37
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 539
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_38
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 539
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_39
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 539
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_40
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 290
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_41
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 290
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_42
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 290
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_43
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 290
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_44
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 290
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 35
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_46
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 35
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_47
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 35
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_48
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 35
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-hair_49
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 35
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

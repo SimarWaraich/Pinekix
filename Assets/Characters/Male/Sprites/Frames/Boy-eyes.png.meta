@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: 9881b81da2c324b10afe7953a25bddf9
+timeCreated: 1510059715
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Boy-eyes_0
+    21300002: Boy-eyes_1
+    21300004: Boy-eyes_2
+    21300006: Boy-eyes_3
+    21300008: Boy-eyes_4
+    21300010: Boy-eyes_5
+    21300012: Boy-eyes_6
+    21300014: Boy-eyes_7
+    21300016: Boy-eyes_8
+    21300018: Boy-eyes_9
+    21300020: Boy-eyes_10
+    21300022: Boy-eyes_11
+    21300024: Boy-eyes_12
+    21300026: Boy-eyes_13
+    21300028: Boy-eyes_14
+    21300030: Boy-eyes_15
+    21300032: Boy-eyes_16
+    21300034: Boy-eyes_17
+    21300036: Boy-eyes_18
+    21300038: Boy-eyes_19
+    21300040: Boy-eyes_20
+    21300042: Boy-eyes_21
+    21300044: Boy-eyes_22
+    21300046: Boy-eyes_23
+    21300048: Boy-eyes_24
+    21300050: Boy-eyes_25
+    21300052: Boy-eyes_26
+    21300054: Boy-eyes_27
+    21300056: Boy-eyes_28
+    21300058: Boy-eyes_29
+    21300060: Boy-eyes_30
+    21300062: Boy-eyes_31
+    21300064: Boy-eyes_32
+    21300066: Boy-eyes_33
+    21300068: Boy-eyes_34
+    21300070: Boy-eyes_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boy-eyes_0
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1540
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_1
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1540
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_2
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1540
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_3
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1540
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_4
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1540
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_5
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1540
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_6
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1288
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_7
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1288
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_8
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1288
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_9
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1288
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_10
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1288
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_11
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1288
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_12
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1036
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_13
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1036
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_14
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1036
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_15
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1036
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_16
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1036
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_17
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1036
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_18
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 784
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_19
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 784
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_20
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 784
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_21
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 784
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_22
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 784
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_23
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 784
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_24
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 532
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_25
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 532
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_26
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 532
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_27
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 532
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_28
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 532
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_29
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 532
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_30
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 280
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_31
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 280
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_32
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 280
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_33
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 280
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_34
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 280
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy-eyes_35
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 280
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 134c975267b4e46ad843d2df181c93c8
+timeCreated: 1510662866
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FaceShapes_0
+    21300002: FaceShapes_1
+    21300004: FaceShapes_2
+    21300006: FaceShapes_3
+    21300008: FaceShapes_4
+    21300010: FaceShapes_5
+    21300012: FaceShapes_6
+    21300014: FaceShapes_7
+    21300016: FaceShapes_8
+    21300018: FaceShapes_9
+    21300020: FaceShapes_10
+    21300022: FaceShapes_11
+    21300024: FaceShapes_12
+    21300026: FaceShapes_13
+    21300028: FaceShapes_14
+    21300030: FaceShapes_15
+    21300032: FaceShapes_16
+    21300034: FaceShapes_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FaceShapes_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 541
+        width: 94
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FaceShapes_1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 548
+        width: 102
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FaceShapes_2
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 544
+        width: 93
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FaceShapes_3
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 548
+        width: 103
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FaceShapes_4
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 542
+        width: 94
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FaceShapes_5
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 550
+        width: 103
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FaceShapes_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 352
+        width: 94
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FaceShapes_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 355
+        width: 102
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FaceShapes_8
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 356
+        width: 93
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FaceShapes_9
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 355
+        width: 103
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FaceShapes_10
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 354
+        width: 94
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FaceShapes_11
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 357
+        width: 103
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FaceShapes_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 140
+        width: 94
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FaceShapes_13
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 137
+        width: 102
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FaceShapes_14
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 144
+        width: 93
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FaceShapes_15
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 137
+        width: 103
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FaceShapes_16
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 141
+        width: 94
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FaceShapes_17
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 140
+        width: 103
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

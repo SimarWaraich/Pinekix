@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 310441565
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d780e681d76d96abfd28b94d7cf5cccb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 59c069e40e5dbd02c5da1068faf9c38d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 736bc292a22284a2d925f105071b4f50, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e80492f3d9a58455abab0ae4fd926635, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 275eb4660a3f7403a93a5c460318aedc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea9c524af48604083b8d42cd2aff8a6d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d50ac3aaa4bf84008922c7eecf2f0a29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25aa6baac4fab493384d972f7dd7c618, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c5e1313c559054070b3621809581950b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6d9acdfcfd1c343a59db0f1ca2c297a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1ec170f97a8d490a867d445e0ddf9f2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/zzzPrefabs to be deleted/EventPrize 4.prefab
+Dependencies: []

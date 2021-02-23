@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 0cd306a0edb9d45af8209a3e3066b3ba
+timeCreated: 1468823714
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Untitled-1_0
+    21300002: Untitled-1_1
+    21300004: Untitled-1_2
+    21300006: Untitled-1_3
+    21300008: Untitled-1_4
+    21300010: Untitled-1_5
+    21300012: Untitled-1_6
+    21300014: Untitled-1_7
+    21300016: Untitled-1_8
+    21300018: Untitled-1_9
+    21300020: Untitled-1_10
+    21300022: Untitled-1_11
+    21300024: Untitled-1_12
+    21300026: Untitled-1_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Untitled-1_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 456
+        width: 161
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76.5, y: 102.5}
+        - {x: 35.5, y: 112.5}
+        - {x: -17.5, y: 112.5}
+        - {x: -46.5, y: 92.5}
+        - {x: -69.5, y: 69.5}
+        - {x: -80.5, y: 21.5}
+        - {x: -80.5, y: -56.5}
+        - {x: -66.5, y: -112.5}
+        - {x: 36.5, y: -112.5}
+        - {x: 51.5, y: -105.5}
+        - {x: 80.5, y: 28.5}
+        - {x: 80.5, y: 89.5}
+    - name: Untitled-1_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 463
+        width: 174
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: 88}
+        - {x: -79, y: 88}
+        - {x: -87, y: 68}
+        - {x: -87, y: -71}
+        - {x: -40, y: -88}
+        - {x: 40, y: -88}
+        - {x: 87, y: -30}
+        - {x: 87, y: 23}
+        - {x: 71, y: 67}
+    - name: Untitled-1_2
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 452
+        width: 132
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 105}
+        - {x: -66, y: -48}
+        - {x: -66, y: -103}
+        - {x: -61, y: -105}
+        - {x: -26, y: -105}
+        - {x: 66, y: 36}
+        - {x: 66, y: 105}
+    - name: Untitled-1_3
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 452
+        width: 131
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: 55}
+        - {x: 17.5, y: -104}
+        - {x: 65.5, y: -104}
+        - {x: 65.5, y: -69}
+        - {x: -2.5, y: 104}
+        - {x: -59.5, y: 104}
+        - {x: -65.5, y: 99}
+    - name: Untitled-1_4
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 307
+        width: 70
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 171.5}
+        - {x: -31, y: 164.5}
+        - {x: -31, y: 150.5}
+        - {x: -35, y: 103.5}
+        - {x: -35, y: 25.5}
+        - {x: -32, y: 10.5}
+        - {x: -17, y: -153.5}
+        - {x: -6, y: -171.5}
+        - {x: 31, y: -171.5}
+        - {x: 35, y: -18.5}
+        - {x: 35, y: 105.5}
+        - {x: 29, y: 171.5}
+    - name: Untitled-1_5
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 299
+        width: 77
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 179.5}
+        - {x: -38.5, y: 178.5}
+        - {x: -38.5, y: -113.5}
+        - {x: -36.5, y: -178.5}
+        - {x: -35.5, y: -179.5}
+        - {x: 4.5, y: -179.5}
+        - {x: 38.5, y: -82.5}
+        - {x: 38.5, y: 166.5}
+        - {x: 22.5, y: 179.5}
+    - name: Untitled-1_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 30
+        width: 101
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 155.5}
+        - {x: -44.5, y: 155.5}
+        - {x: -50.5, y: 134.5}
+        - {x: -50.5, y: 11.5}
+        - {x: -31.5, y: -155.5}
+        - {x: 50.5, y: -155.5}
+        - {x: 50.5, y: 97.5}
+        - {x: -0.5, y: 144.5}
+    - name: Untitled-1_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 27
+        width: 101
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.5, y: 135}
+        - {x: 36.5, y: 159}
+        - {x: 12.5, y: 159}
+        - {x: -30.5, y: 141}
+        - {x: -50.5, y: 110}
+        - {x: -50.5, y: -48}
+        - {x: -46.5, y: -134}
+        - {x: -44.5, y: -159}
+        - {x: 28.5, y: -159}
+        - {x: 34.5, y: -127}
+        - {x: 50.5, y: -12}
+        - {x: 50.5, y: 107}
+    - name: Untitled-1_8
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 185
+        width: 94
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 69}
+        - {x: -47, y: -1}
+        - {x: -47, y: -69}
+        - {x: -4, y: -69}
+        - {x: 47, y: 29}
+        - {x: 47, y: 69}
+    - name: Untitled-1_9
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 182
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 70.5}
+        - {x: -48, y: 68.5}
+        - {x: -48, y: 39.5}
+        - {x: -40, y: 15.5}
+        - {x: 16, y: -70.5}
+        - {x: 46, y: -70.5}
+        - {x: 48, y: -69.5}
+        - {x: 48, y: -0.5}
+        - {x: -11, y: 70.5}
+    - name: Untitled-1_10
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 104
+        width: 116
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 40}
+        - {x: -58, y: -25}
+        - {x: -58, y: -40}
+        - {x: 22, y: -40}
+        - {x: 58, y: -35}
+        - {x: 58, y: 34}
+        - {x: 50, y: 40}
+    - name: Untitled-1_11
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 104
+        width: 87
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 40}
+        - {x: -43.5, y: -18}
+        - {x: -43.5, y: -40}
+        - {x: 15.5, y: -40}
+        - {x: 36.5, y: -38}
+        - {x: 43.5, y: -29}
+        - {x: 43.5, y: 40}
+    - name: Untitled-1_12
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 31.5}
+        - {x: -16.5, y: 10.5}
+        - {x: -16.5, y: -29.5}
+        - {x: -10.5, y: -31.5}
+        - {x: 3.5, y: -31.5}
+        - {x: 16.5, y: -19.5}
+        - {x: 16.5, y: 29.5}
+        - {x: 15.5, y: 31.5}
+    - name: Untitled-1_13
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 0
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 31.5}
+        - {x: -16.5, y: 28.5}
+        - {x: -16.5, y: -18.5}
+        - {x: -5.5, y: -30.5}
+        - {x: -3.5, y: -31.5}
+        - {x: 10.5, y: -31.5}
+        - {x: 16.5, y: -27.5}
+        - {x: 16.5, y: 9.5}
+        - {x: 5.5, y: 31.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1278 @@
+fileFormatVersion: 2
+guid: 0784ca27124c54386965cdd81b333040
+timeCreated: 1512731470
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shirt5_B_upr_armL1
+    21300002: Shirt5_B_torso1
+    21300004: Shirt5_B_upr_armR1
+    21300006: Shirt1_B_armL1
+    21300008: Shirt1_B_torso1
+    21300010: Shirt1_B_armR1
+    21300012: Shirt2_B_uprarmR1
+    21300014: Shirt2_B_torso1
+    21300016: Shirt2_B_uprarmL1
+    21300018: Shirt3_B_uprarmR1
+    21300020: Shirt3_B_torso1
+    21300022: Shirt3_B_uprarmR1
+    21300024: Shirt5_B_lower_torso1
+    21300026: Shirt1_B_lowertorso1
+    21300028: Shirt2_B_midarmR1
+    21300030: Shirt2_B_lowertorso1
+    21300032: Shirt2_B_midarmL1
+    21300034: Shirt3_B_midarmR1
+    21300036: Shirt3_B_lowertorso1
+    21300038: Shirt3_B_midarmR1
+    21300040: Shirt5_B_upr_armL2
+    21300042: Shirt5_B_torso2
+    21300044: Shirt5_B_upr_armR2
+    21300046: Shirt1_B_armL2
+    21300048: Shirt1_B_torso2
+    21300050: Shirt1_B_armR2
+    21300052: Shirt2_B_uprarmR2
+    21300054: Shirt2_B_torso2
+    21300056: Shirt2_B_uprarmL2
+    21300058: Shirt3_B_uprarmR2
+    21300060: Shirt3_B_torso2
+    21300062: Shirt3_B_upr_armL2
+    21300064: Shirt5_B_lower_torso2
+    21300066: Shirt1_B_lowertorso2
+    21300068: Shirt2_B_midarmR2
+    21300070: Shirt2_B_lowertorso2
+    21300072: Shirt2_B_midarmL2
+    21300074: Shirt3_B_midarmR2
+    21300076: Shirt3_B_lowertorso2
+    21300078: Shirt3_B_midarmR2
+    21300080: Shirt5_B_upr_armL3
+    21300082: Shirt5_B_torso3
+    21300084: Shirt5_B_upr_armR3
+    21300086: Shirt1_B_armL3
+    21300088: Shirt1_B_torso3
+    21300090: Shirt1_B_armR3
+    21300092: Shirt2_B_uprarmR3
+    21300094: Shirt2_B_torso3
+    21300096: Shirt2_B_uprarmL3
+    21300098: Shirt3_B_uprarmR3
+    21300100: Shirt3_B_torso3
+    21300102: Shirt3_B_uprarmR3
+    21300104: Shirt5_B_lower_torso3
+    21300106: Shirt1_B_lowertorso3
+    21300108: Shirt2_B_midarmR3
+    21300110: Shirt2_B_lowertorso3
+    21300112: Shirt2_B_midarmL3
+    21300114: Shirt3_B_lowertorso3
+    21300116: Shirt3_B_midarmR3
+    21300118: Shirt3_B_midarmL3
+    21300120: Shirt4_B_torso1
+    21300122: Shirt6_B_torso1
+    21300124: Shirt4_B_upr_armL1
+    21300126: Shirt4_B_upr_armR1
+    21300128: Shirt6_B_lower_torso1
+    21300130: Shirt4_B_upr_armL2
+    21300132: Shirt4_B_torso2
+    21300134: Shirt4_B_upr_armR2
+    21300136: Shirt6_B_torso2
+    21300138: Shirt6_B_lower_torso2
+    21300140: Shirt7_B_torso3
+    21300142: Shirt4_B_upr_armL3
+    21300144: Shirt4_B_torso3
+    21300146: Shirt4_B_upr_armR3
+    21300148: Shirt6_B_torso3
+    21300150: Shirt7_B_torso1
+    21300152: Shirt7_B_torso2
+    21300154: Shirt6_B_lower_torso3
+    21300156: Shirt7_B_lower_torso1
+    21300158: Shirt7_B_lower_torso2
+    21300160: Shirt7_B_lower_torso3
+    21300162: Shirt3_B_upr_armL1
+    21300164: Shirt3_B_mid_armL1
+    21300166: Shirt3_B_mid_armL2
+    21300168: Shirt3_B_upr_armL3
+    21300170: Shirts_Back_0
+    21300172: Shirts_Back_1
+    21300174: Shirts_Back_2
+    21300176: Shirts_Back_3
+    21300178: Shirts_Back_4
+    21300180: Shirts_Back_5
+    21300182: Shirts_Back_6
+    21300184: Shirts_Back_7
+    21300186: Shirts_Back_8
+    21300188: Shirts_Back_9
+    21300190: Shirts_Back_10
+    21300192: Shirts_Back_11
+    21300194: Shirts_Back_12
+    21300196: Shirts_Back_13
+    21300198: Shirts_Back_14
+    21300200: Shirts_Back_15
+    21300202: Shirts_Back_16
+    21300204: Shirts_Back_17
+    21300206: Shirts_Back_18
+    21300208: Shirts_Back_19
+    21300210: Shirts_Back_20
+    21300212: Shirts_Back_21
+    21300214: Shirts_Back_22
+    21300216: Shirts_Back_23
+    21300218: Shirts_Back_24
+    21300220: Shirts_Back_25
+    21300222: Shirts_Back_26
+    21300224: Shirts_Back_27
+    21300226: Shirts_Back_28
+    21300228: Shirts_Back_29
+    21300230: Shirts_Back_30
+    21300232: Shirts_Back_31
+    21300234: Shirts_Back_32
+    21300236: Shirts_Back_33
+    21300238: Shirts_Back_34
+    21300240: Shirts_Back_35
+    21300242: Shirts_Back_36
+    21300244: Shirts_Back_37
+    21300246: Shirts_Back_38
+    21300248: Shirts_Back_39
+    21300250: Shirts_Back_40
+    21300252: Shirts_Back_41
+    21300254: Shirts_Back_42
+    21300256: Shirts_Back_43
+    21300258: Shirts_Back_44
+    21300260: Shirts_Back_45
+    21300262: Shirts_Back_46
+    21300264: Shirts_Back_47
+    21300266: Shirts_Back_48
+    21300268: Shirts_Back_49
+    21300270: Shirts_Back_50
+    21300272: Shirts_Back_51
+    21300274: Shirts_Back_52
+    21300276: Shirts_Back_53
+    21300278: Shirts_Back_54
+    21300280: Shirts_Back_55
+    21300282: Shirts_Back_56
+    21300284: Shirts_Back_57
+    21300286: Shirts_Back_58
+    21300288: Shirts_Back_59
+    21300290: Shirts_Back_60
+    21300292: Shirts_Back_61
+    21300294: Shirts_Back_62
+    21300296: Shirts_Back_63
+    21300298: Shirts_Back_64
+    21300300: Shirts_Back_65
+    21300302: Shirts_Back_66
+    21300304: Shirts_Back_67
+    21300306: Shirts_Back_68
+    21300308: Shirts_Back_69
+    21300310: Shirts_Back_70
+    21300312: Shirts_Back_71
+    21300314: Shirts_Back_72
+    21300316: Shirts_Back_73
+    21300318: Shirts_Back_74
+    21300320: Shirts_Back_75
+    21300322: Shirts_Back_76
+    21300324: Shirts_Back_77
+    21300326: Shirts_Back_78
+    21300328: Shirts_Back_79
+    21300330: Shirts_Back_80
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shirts_Back_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1871
+        width: 78
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1793
+        width: 171
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1872
+        width: 68
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1882
+        width: 79
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_4
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1795
+        width: 170
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_5
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1892
+        width: 67
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_6
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1865
+        width: 77
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_7
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1785
+        width: 170
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_8
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1879
+        width: 69
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_9
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 1861
+        width: 77
+        height: 94
+      alignment: 9
+      pivot: {x: 0.48, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_10
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1785
+        width: 170
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_11
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1865
+        width: 69
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1703
+        width: 145
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_13
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1701
+        width: 146
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_14
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1702
+        width: 141
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_15
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1702
+        width: 141
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1467
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.48, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_17
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1377
+        width: 170
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_18
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1471
+        width: 70
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_19
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1439
+        width: 78
+        height: 96
+      alignment: 9
+      pivot: {x: 0.48, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_20
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1370
+        width: 170
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1452
+        width: 67
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_22
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1419
+        width: 88
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_23
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1405
+        width: 170
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_24
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1414
+        width: 73
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_25
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1463
+        width: 87
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_26
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1414
+        width: 170
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_27
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1472
+        width: 74
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_28
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1294
+        width: 140
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_29
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1276
+        width: 145
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_30
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1272
+        width: 45
+        height: 115
+      alignment: 9
+      pivot: {x: 0.45, y: 1.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_31
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1305
+        width: 141
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_32
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1277
+        width: 57
+        height: 105
+      alignment: 9
+      pivot: {x: 0.55, y: 0.97}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_33
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1297
+        width: 45
+        height: 115
+      alignment: 9
+      pivot: {x: 0.45, y: 1.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_34
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1309
+        width: 141
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_35
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1296
+        width: 58
+        height: 105
+      alignment: 9
+      pivot: {x: 0.55, y: 0.97}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1034
+        width: 87
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_37
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 980
+        width: 170
+        height: 209
+      alignment: 9
+      pivot: {x: 0.49, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_38
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1037
+        width: 70
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_39
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1034
+        width: 87
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_40
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 981
+        width: 170
+        height: 209
+      alignment: 9
+      pivot: {x: 0.49, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_41
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1030
+        width: 68
+        height: 140
+      alignment: 9
+      pivot: {x: 0.49, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_42
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1035
+        width: 86
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_43
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 993
+        width: 170
+        height: 209
+      alignment: 9
+      pivot: {x: 0.49, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_44
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1035
+        width: 69
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_45
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 968
+        width: 87
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_46
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 923
+        width: 170
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_47
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 983
+        width: 74
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_48
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 910
+        width: 51
+        height: 74
+      alignment: 9
+      pivot: {x: 0.52, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_49
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 877
+        width: 145
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_50
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 901
+        width: 51
+        height: 79
+      alignment: 9
+      pivot: {x: 0.55, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_51
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 911
+        width: 51
+        height: 74
+      alignment: 9
+      pivot: {x: 0.52, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_52
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 878
+        width: 145
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_53
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 901
+        width: 52
+        height: 79
+      alignment: 9
+      pivot: {x: 0.55, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_54
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 902
+        width: 51
+        height: 73
+      alignment: 9
+      pivot: {x: 0.52, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_55
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 887
+        width: 145
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_56
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 911
+        width: 52
+        height: 78
+      alignment: 9
+      pivot: {x: 0.55, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_57
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 802
+        width: 47
+        height: 115
+      alignment: 9
+      pivot: {x: 0.45, y: 1.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_58
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 817
+        width: 141
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_59
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 803
+        width: 58
+        height: 106
+      alignment: 9
+      pivot: {x: 0.55, y: 0.97}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_60
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 519
+        width: 79
+        height: 112
+      alignment: 9
+      pivot: {x: 0.46, y: 0.98}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_61
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 459
+        width: 170
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_62
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 532
+        width: 70
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_63
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 501
+        width: 79
+        height: 112
+      alignment: 9
+      pivot: {x: 0.46, y: 0.98}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_64
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 441
+        width: 170
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_65
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 509
+        width: 68
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_66
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 526
+        width: 80
+        height: 112
+      alignment: 9
+      pivot: {x: 0.46, y: 0.98}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_67
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 454
+        width: 170
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_68
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 529
+        width: 70
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_69
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 477
+        width: 158
+        height: 203
+      alignment: 9
+      pivot: {x: 0.52, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_70
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 386
+        width: 136
+        height: 67
+      alignment: 9
+      pivot: {x: 0.515, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_71
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 135
+        width: 149
+        height: 198
+      alignment: 9
+      pivot: {x: 0.48, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_72
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 135
+        width: 149
+        height: 198
+      alignment: 9
+      pivot: {x: 0.48, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_73
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 135
+        width: 149
+        height: 198
+      alignment: 9
+      pivot: {x: 0.48, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_74
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 145
+        width: 158
+        height: 203
+      alignment: 9
+      pivot: {x: 0.52, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_75
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 145
+        width: 158
+        height: 203
+      alignment: 9
+      pivot: {x: 0.52, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_76
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 54
+        width: 139
+        height: 63
+      alignment: 9
+      pivot: {x: 0.52, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_77
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 54
+        width: 139
+        height: 63
+      alignment: 9
+      pivot: {x: 0.52, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_78
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 54
+        width: 139
+        height: 63
+      alignment: 9
+      pivot: {x: 0.52, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_79
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 54
+        width: 136
+        height: 67
+      alignment: 9
+      pivot: {x: 0.515, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirts_Back_80
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 54
+        width: 136
+        height: 67
+      alignment: 9
+      pivot: {x: 0.515, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

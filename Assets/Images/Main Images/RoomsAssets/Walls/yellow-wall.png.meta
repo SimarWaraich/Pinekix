@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 3dae2dc030624428d9014c80fc8d5240
+timeCreated: 1475040057
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Yellow3
+    21300002: Yellow4
+    21300004: Yellow5
+    21300006: Yellow6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 143
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Yellow3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 467
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101.5, y: 117}
+        - {x: 95.5, y: 119}
+        - {x: 83.5, y: 119}
+        - {x: -99.5, y: 16}
+        - {x: -107.5, y: 11}
+        - {x: -107.5, y: -113}
+        - {x: -97.5, y: -119}
+        - {x: -83.5, y: -119}
+        - {x: 103.5, y: -14}
+        - {x: 107.5, y: -10}
+        - {x: 107.5, y: 111}
+    - name: Yellow4
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 10
+        width: 435
+        height: 499
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96.19174, y: 46.90825}
+        - {x: 69.19174, y: 46.90825}
+        - {x: -95.80826, y: -50.09175}
+        - {x: -99.80826, y: -54.09175}
+        - {x: -99.80826, y: -176.09175}
+        - {x: -89.80826, y: -183.09175}
+        - {x: -75.80826, y: -183.09175}
+        - {x: 55.191742, y: -112.09175}
+        - {x: 101.19174, y: -84.09175}
+        - {x: 101.19174, y: 40.90825}
+    - name: Yellow5
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 0
+        width: 462
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.202515, y: 67}
+        - {x: -77.797485, y: 119}
+        - {x: -96.797485, y: 119}
+        - {x: -103.797485, y: 117}
+        - {x: -105.797485, y: 113}
+        - {x: -105.797485, y: -10}
+        - {x: -104.797485, y: -12}
+        - {x: 83.202515, y: -119}
+        - {x: 98.202515, y: -119}
+        - {x: 107.202515, y: -113}
+        - {x: 107.202515, y: 11}
+    - name: Yellow6
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 8
+        width: 428
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.8584, y: 116.17025}
+        - {x: -91.8584, y: 116.17025}
+        - {x: -97.8584, y: 115.17025}
+        - {x: -97.8584, y: -13.82975}
+        - {x: -95.8584, y: -14.82975}
+        - {x: 42.1416, y: -94.82975}
+        - {x: 79.1416, y: -114.82975}
+        - {x: 87.1416, y: -114.82975}
+        - {x: 99.1416, y: -107.82975}
+        - {x: 99.1416, y: 17.17025}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

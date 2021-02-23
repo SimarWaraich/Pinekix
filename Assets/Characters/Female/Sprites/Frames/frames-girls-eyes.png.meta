@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: 2e77dac637e65499094a8042e48e370f
+timeCreated: 1510059864
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: frames-girls-eyes_0
+    21300002: frames-girls-eyes_1
+    21300004: frames-girls-eyes_2
+    21300006: frames-girls-eyes_3
+    21300008: frames-girls-eyes_4
+    21300010: frames-girls-eyes_5
+    21300012: frames-girls-eyes_6
+    21300014: frames-girls-eyes_7
+    21300016: frames-girls-eyes_8
+    21300018: frames-girls-eyes_9
+    21300020: frames-girls-eyes_10
+    21300022: frames-girls-eyes_11
+    21300024: frames-girls-eyes_12
+    21300026: frames-girls-eyes_13
+    21300028: frames-girls-eyes_14
+    21300030: frames-girls-eyes_15
+    21300032: frames-girls-eyes_16
+    21300034: frames-girls-eyes_17
+    21300036: frames-girls-eyes_18
+    21300038: frames-girls-eyes_19
+    21300040: frames-girls-eyes_20
+    21300042: frames-girls-eyes_21
+    21300044: frames-girls-eyes_22
+    21300046: frames-girls-eyes_23
+    21300048: frames-girls-eyes_24
+    21300050: frames-girls-eyes_25
+    21300052: frames-girls-eyes_26
+    21300054: frames-girls-eyes_27
+    21300056: frames-girls-eyes_28
+    21300058: frames-girls-eyes_29
+    21300060: frames-girls-eyes_30
+    21300062: frames-girls-eyes_31
+    21300064: frames-girls-eyes_32
+    21300066: frames-girls-eyes_33
+    21300068: frames-girls-eyes_34
+    21300070: frames-girls-eyes_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frames-girls-eyes_0
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1541
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_1
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1541
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1541
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_3
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1541
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_4
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1541
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_5
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1541
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1289
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_7
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1289
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1289
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_9
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1289
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_10
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1289
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_11
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1289
+        width: 226
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_12
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1036
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_13
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1036
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1036
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_15
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1036
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_16
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1036
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_17
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1036
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_18
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 784
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_19
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 784
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 784
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_21
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 784
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_22
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 784
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_23
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 784
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_24
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 532
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_25
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 532
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 532
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_27
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 532
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_28
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 532
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_29
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 532
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_30
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 280
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_31
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 280
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_32
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 280
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_33
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 280
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_34
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 280
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-eyes_35
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 280
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 5b6fc388c37f04cd09039d8057bcffe5
+timeCreated: 1516704488
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Walls Green_0
+    21300002: Walls Green_1
+    21300004: Walls Green_2
+    21300006: Walls Green_3
+    21300008: Walls Green_4
+    21300010: Walls Green_5
+    21300012: Walls Green_6
+    21300014: Walls Green_7
+    21300016: Walls Green_8
+    21300018: Walls Green_9
+    21300020: Walls Green_10
+    21300022: Walls Green_11
+    21300024: Walls Green_12
+    21300026: Walls Green_13
+    21300028: Walls Green_14
+    21300030: Walls Green_15
+    21300032: Walls Green_16
+    21300034: Walls Green_17
+    21300036: Walls Green_18
+    21300038: Walls Green_19
+    21300040: Walls Green_20
+    21300042: Walls Green_21
+    21300044: Walls Green_22
+    21300046: Walls Green_23
+    21300048: Walls Green_24
+    21300050: Walls Green_25
+    21300052: Walls Green_26
+    21300054: Walls Green_27
+    21300056: Walls Green_28
+    21300058: Walls Green_29
+    21300060: Walls Green_30
+    21300062: Walls Green_31
+    21300064: Walls Green_32
+    21300066: Walls Green_33
+    21300068: Walls Green_34
+    21300070: Walls Green_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 83
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walls Green_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1780
+        width: 130
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1769
+        width: 131
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_2
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1769
+        width: 131
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_3
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1771
+        width: 131
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_4
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1541
+        width: 102
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_5
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1524
+        width: 131
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_6
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1527
+        width: 131
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_7
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1517
+        width: 132
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1225
+        width: 132
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1298
+        width: 130
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_10
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1314
+        width: 131
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_11
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1303
+        width: 132
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_12
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 963
+        width: 132
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_13
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 962
+        width: 131
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_14
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 958
+        width: 131
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_15
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 962
+        width: 132
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 610
+        width: 132
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 624
+        width: 131
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_18
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 615
+        width: 131
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_19
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 623
+        width: 132
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_20
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 635
+        width: 131
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_21
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 649
+        width: 131
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_22
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 640
+        width: 130
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_23
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 389
+        width: 132
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 22
+        width: 131
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_25
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 32
+        width: 131
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_26
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 28
+        width: 131
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_27
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 28
+        width: 127
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_28
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 76
+        width: 124
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_29
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 61
+        width: 131
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_30
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 80
+        width: 130
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walls Green_31
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 79
+        width: 130
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

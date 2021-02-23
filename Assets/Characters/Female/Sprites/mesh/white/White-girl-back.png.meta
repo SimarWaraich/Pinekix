@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: e622aefa3e80b4e72aba80ed76cecca2
+timeCreated: 1505472258
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: White-girl-L_arm upr
+    21300002: White-girl-face
+    21300004: White-girl-R_arm upr
+    21300006: White-girl-hand
+    21300008: White-girl-L_hand
+    21300010: White-girl-R_arm mid
+    21300012: White-girl-neck
+    21300014: White-girl-L_arm mid
+    21300016: White-girl-torso
+    21300018: White-girl-L-leg upr
+    21300020: White-girl-L-leg mid
+    21300022: White-girl-lower_torso
+    21300024: White-girl-R-leg upr
+    21300026: White-girl-R-leg mid
+    21300028: White-girl-L-foot
+    21300030: White-girl-R-foot
+    21300032: upr_arm_L
+    21300034: head
+    21300036: upr_arm_R
+    21300038: hand_R
+    21300040: hand_L
+    21300042: mid_arm_R
+    21300044: neck
+    21300046: mid_arm_L
+    21300048: torso
+    21300050: upr_leg_L
+    21300052: mid_leg_L
+    21300054: lower_torso
+    21300056: upr_leg_R
+    21300058: mid_leg_R
+    21300060: foot_L
+    21300062: foot_R
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: upr_arm_L
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 852
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: head
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 812
+        width: 92
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: upr_arm_R
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 847
+        width: 59
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hand_R
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 776
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hand_L
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 734
+        width: 70
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mid_arm_R
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 643
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: neck
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 688
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mid_arm_L
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 550
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: torso
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 506
+        width: 129
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: upr_leg_L
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 218
+        width: 73
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mid_leg_L
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 197
+        width: 53
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lower_torso
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 313
+        width: 120
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: upr_leg_R
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 248
+        width: 64
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mid_leg_R
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 203
+        width: 52
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: foot_L
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 59
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: foot_R
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 49
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: GirlCharacter
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

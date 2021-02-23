@@ -1,0 +1,1431 @@
+fileFormatVersion: 2
+guid: 95f8c0b578c6046fd904f7ed42e52ffd
+timeCreated: 1510040761
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dress-front_0
+    21300002: dress-front_1
+    21300004: dress-front_2
+    21300006: dress-front_3
+    21300008: dress-front_4
+    21300010: dress-front_5
+    21300012: dress-front_6
+    21300014: dress-front_7
+    21300016: dress-front_8
+    21300018: dress-front_9
+    21300020: dress-front_10
+    21300022: dress-front_11
+    21300024: dress-front_12
+    21300026: dress-front_13
+    21300028: dress-front_14
+    21300030: dress-front_15
+    21300032: dress-front_16
+    21300034: dress-front_17
+    21300036: dress-front_18
+    21300038: dress-front_19
+    21300040: dress-front_20
+    21300042: dress-front_21
+    21300044: dress-front_22
+    21300046: dress-front_23
+    21300048: dress-front_24
+    21300050: dress-front_25
+    21300052: dress-front_26
+    21300054: dress-front_27
+    21300056: dress-front_28
+    21300058: dress-front_29
+    21300060: dress-front_30
+    21300062: dress-front_31
+    21300064: dress-front_32
+    21300066: dress-front_33
+    21300068: dress-front_34
+    21300070: dress-front_35
+    21300072: dress-front_36
+    21300074: dress-front_37
+    21300076: dress-front_38
+    21300078: dress-front_39
+    21300080: dress-front_40
+    21300082: dress-front_41
+    21300084: dress-front_42
+    21300086: dress-front_43
+    21300088: dress-front_44
+    21300090: dress-front_45
+    21300092: dress-front_46
+    21300094: dress-front_47
+    21300096: dress-front_48
+    21300098: dress-front_49
+    21300100: dress-front_50
+    21300102: dress-front_51
+    21300104: dress-front_52
+    21300106: dress-front_53
+    21300108: dress-front_54
+    21300110: dress-front_55
+    21300112: dress-front_56
+    21300114: dress-front_57
+    21300116: dress-front_58
+    21300118: dress-front_59
+    21300120: dress-front_60
+    21300122: dress-front_61
+    21300124: dress-front_62
+    21300126: dress-front_63
+    21300128: dress-front_64
+    21300130: dress-front_65
+    21300132: dress-front_66
+    21300134: dress-front_67
+    21300136: dress-front_68
+    21300138: dress-front_69
+    21300140: dress-front_70
+    21300142: dress-front_71
+    21300144: dress-front_72
+    21300146: dress-front_73
+    21300148: dress-front_74
+    21300150: dress-front_75
+    21300152: dress-front_76
+    21300154: dress-front_77
+    21300156: dress-front_78
+    21300158: dress-front_79
+    21300160: dress-front_80
+    21300162: dress-front_81
+    21300164: dress-front_82
+    21300166: dress-front_83
+    21300168: dress-front_84
+    21300170: dress-front_85
+    21300172: dress-front_86
+    21300174: dress-front_87
+    21300176: dress-front_88
+    21300178: dress-front_89
+    21300180: dress-front_90
+    21300182: dress-front_91
+    21300184: dress-front_92
+    21300186: dress-front_93
+    21300188: dress-front_94
+    21300190: dress-front_95
+    21300192: dress-front_96
+    21300194: dress-front_97
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dress-front_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1916
+        width: 85
+        height: 77
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1870
+        width: 132
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1909
+        width: 75
+        height: 91
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1916
+        width: 85
+        height: 77
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_4
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1870
+        width: 132
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_5
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1909
+        width: 75
+        height: 91
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_6
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1916
+        width: 85
+        height: 77
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_7
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1870
+        width: 132
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_8
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1909
+        width: 75
+        height: 91
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_9
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1854
+        width: 119
+        height: 176
+      alignment: 9
+      pivot: {x: 0.55, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_10
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1854
+        width: 119
+        height: 176
+      alignment: 9
+      pivot: {x: 0.55, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_11
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1854
+        width: 119
+        height: 176
+      alignment: 9
+      pivot: {x: 0.55, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1706
+        width: 139
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_13
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1706
+        width: 139
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_14
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1706
+        width: 139
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_15
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1634
+        width: 149
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_16
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1634
+        width: 149
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_17
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1634
+        width: 149
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_18
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1571
+        width: 74
+        height: 100
+      alignment: 9
+      pivot: {x: 0.51, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1581
+        width: 71
+        height: 93
+      alignment: 9
+      pivot: {x: 0.53, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_20
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1571
+        width: 74
+        height: 100
+      alignment: 9
+      pivot: {x: 0.51, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_21
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1581
+        width: 71
+        height: 93
+      alignment: 9
+      pivot: {x: 0.53, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_22
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1571
+        width: 74
+        height: 100
+      alignment: 9
+      pivot: {x: 0.51, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_23
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1581
+        width: 71
+        height: 93
+      alignment: 9
+      pivot: {x: 0.53, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_24
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1437
+        width: 77
+        height: 163
+      alignment: 9
+      pivot: {x: 0.54, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_25
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1434
+        width: 85
+        height: 168
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_26
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1437
+        width: 77
+        height: 163
+      alignment: 9
+      pivot: {x: 0.54, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_27
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1434
+        width: 86
+        height: 168
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_28
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1437
+        width: 77
+        height: 163
+      alignment: 9
+      pivot: {x: 0.54, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_29
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1434
+        width: 86
+        height: 168
+      alignment: 9
+      pivot: {x: 0.52, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_30
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1351
+        width: 87
+        height: 76
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_31
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1312
+        width: 135
+        height: 175
+      alignment: 9
+      pivot: {x: 0.5, y: 0.545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_32
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1355
+        width: 76
+        height: 90
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_33
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1351
+        width: 87
+        height: 76
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_34
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1312
+        width: 135
+        height: 175
+      alignment: 9
+      pivot: {x: 0.5, y: 0.545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_35
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1355
+        width: 76
+        height: 90
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_36
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1351
+        width: 87
+        height: 76
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_37
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1312
+        width: 135
+        height: 175
+      alignment: 9
+      pivot: {x: 0.5, y: 0.545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_38
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1355
+        width: 76
+        height: 90
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_39
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1261
+        width: 126
+        height: 136
+      alignment: 9
+      pivot: {x: 0.53, y: 0.69}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_40
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1261
+        width: 126
+        height: 136
+      alignment: 9
+      pivot: {x: 0.53, y: 0.69}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_41
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1261
+        width: 125
+        height: 136
+      alignment: 9
+      pivot: {x: 0.53, y: 0.69}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_42
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1204
+        width: 138
+        height: 94
+      alignment: 9
+      pivot: {x: 0.52, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_43
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1204
+        width: 137
+        height: 94
+      alignment: 9
+      pivot: {x: 0.52, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_44
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1204
+        width: 137
+        height: 94
+      alignment: 9
+      pivot: {x: 0.52, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_45
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 862
+        width: 210
+        height: 385
+      alignment: 9
+      pivot: {x: 0.46, y: 0.82}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_46
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 862
+        width: 210
+        height: 385
+      alignment: 9
+      pivot: {x: 0.46, y: 0.82}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_47
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 862
+        width: 210
+        height: 385
+      alignment: 9
+      pivot: {x: 0.46, y: 0.82}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 993
+        width: 94
+        height: 192
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_49
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 988
+        width: 131
+        height: 196
+      alignment: 9
+      pivot: {x: 0.55, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_50
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 993
+        width: 94
+        height: 192
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 988
+        width: 131
+        height: 196
+      alignment: 9
+      pivot: {x: 0.55, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_52
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1005
+        width: 94
+        height: 192
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_53
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1000
+        width: 131
+        height: 196
+      alignment: 9
+      pivot: {x: 0.55, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_54
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 765
+        width: 122
+        height: 186
+      alignment: 9
+      pivot: {x: 0.57, y: 0.575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_55
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 765
+        width: 122
+        height: 186
+      alignment: 9
+      pivot: {x: 0.57, y: 0.575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_56
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 765
+        width: 122
+        height: 186
+      alignment: 9
+      pivot: {x: 0.57, y: 0.575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_57
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 697
+        width: 79
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_58
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 698
+        width: 82
+        height: 203
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_59
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 650
+        width: 70
+        height: 189
+      alignment: 9
+      pivot: {x: 0.57, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_60
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 650
+        width: 89
+        height: 189
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_61
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 650
+        width: 70
+        height: 189
+      alignment: 9
+      pivot: {x: 0.57, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_62
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 650
+        width: 89
+        height: 189
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_63
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 650
+        width: 70
+        height: 189
+      alignment: 9
+      pivot: {x: 0.57, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_64
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 650
+        width: 89
+        height: 189
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_65
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 614
+        width: 132
+        height: 133
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_66
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 614
+        width: 132
+        height: 133
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_67
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 614
+        width: 132
+        height: 133
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_68
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 459
+        width: 79
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_69
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 460
+        width: 82
+        height: 203
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_70
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 437
+        width: 98
+        height: 200
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_71
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 430
+        width: 119
+        height: 192
+      alignment: 9
+      pivot: {x: 0.6, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_72
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 437
+        width: 98
+        height: 200
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_73
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 430
+        width: 119
+        height: 192
+      alignment: 9
+      pivot: {x: 0.6, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_74
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 437
+        width: 98
+        height: 200
+      alignment: 9
+      pivot: {x: 0.65, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_75
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 430
+        width: 119
+        height: 192
+      alignment: 9
+      pivot: {x: 0.6, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_76
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 478
+        width: 69
+        height: 86
+      alignment: 9
+      pivot: {x: 0.52, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_77
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 478
+        width: 75
+        height: 89
+      alignment: 9
+      pivot: {x: 0.52, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_78
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 478
+        width: 69
+        height: 86
+      alignment: 9
+      pivot: {x: 0.52, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_79
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 478
+        width: 75
+        height: 89
+      alignment: 9
+      pivot: {x: 0.52, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_80
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 478
+        width: 69
+        height: 86
+      alignment: 9
+      pivot: {x: 0.52, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_81
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 478
+        width: 75
+        height: 89
+      alignment: 9
+      pivot: {x: 0.52, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_82
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 170
+        width: 122
+        height: 173
+      alignment: 9
+      pivot: {x: 0.55, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_83
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 179
+        width: 70
+        height: 88
+      alignment: 9
+      pivot: {x: 0.535, y: -0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_84
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 179
+        width: 80
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_85
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 170
+        width: 122
+        height: 173
+      alignment: 9
+      pivot: {x: 0.55, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_86
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 160
+        width: 122
+        height: 172
+      alignment: 9
+      pivot: {x: 0.56, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_87
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 87
+        width: 150
+        height: 240
+      alignment: 9
+      pivot: {x: 0.48, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_88
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 160
+        width: 122
+        height: 172
+      alignment: 9
+      pivot: {x: 0.56, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_89
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 92
+        width: 150
+        height: 240
+      alignment: 9
+      pivot: {x: 0.48, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_90
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 110
+        width: 79
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_91
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 111
+        width: 82
+        height: 203
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_92
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 94
+        width: 150
+        height: 240
+      alignment: 9
+      pivot: {x: 0.48, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_93
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 160
+        width: 122
+        height: 172
+      alignment: 9
+      pivot: {x: 0.56, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_94
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 24
+        width: 143
+        height: 132
+      alignment: 9
+      pivot: {x: 0.48, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_95
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 41
+        width: 70
+        height: 88
+      alignment: 9
+      pivot: {x: 0.535, y: -0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_96
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 41
+        width: 80
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dress-front_97
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 24
+        width: 143
+        height: 132
+      alignment: 9
+      pivot: {x: 0.48, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

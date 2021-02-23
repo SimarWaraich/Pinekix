@@ -1,0 +1,759 @@
+fileFormatVersion: 2
+guid: 01e41a3f670984e0e85ae68a6926783b
+timeCreated: 1510059872
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: frames-girls-hairs_0
+    21300002: frames-girls-hairs_1
+    21300004: frames-girls-hairs_2
+    21300006: frames-girls-hairs_3
+    21300008: frames-girls-hairs_4
+    21300010: frames-girls-hairs_5
+    21300012: frames-girls-hairs_6
+    21300014: frames-girls-hairs_7
+    21300016: frames-girls-hairs_8
+    21300018: frames-girls-hairs_9
+    21300020: frames-girls-hairs_10
+    21300022: frames-girls-hairs_11
+    21300024: frames-girls-hairs_12
+    21300026: frames-girls-hairs_13
+    21300028: frames-girls-hairs_14
+    21300030: frames-girls-hairs_15
+    21300032: frames-girls-hairs_16
+    21300034: frames-girls-hairs_17
+    21300036: frames-girls-hairs_18
+    21300038: frames-girls-hairs_19
+    21300040: frames-girls-hairs_20
+    21300042: frames-girls-hairs_21
+    21300044: frames-girls-hairs_22
+    21300046: frames-girls-hairs_23
+    21300048: frames-girls-hairs_24
+    21300050: frames-girls-hairs_25
+    21300052: frames-girls-hairs_26
+    21300054: frames-girls-hairs_27
+    21300056: frames-girls-hairs_28
+    21300058: frames-girls-hairs_29
+    21300060: frames-girls-hairs_30
+    21300062: frames-girls-hairs_31
+    21300064: frames-girls-hairs_32
+    21300066: frames-girls-hairs_33
+    21300068: frames-girls-hairs_34
+    21300070: frames-girls-hairs_35
+    21300072: frames-girls-hairs_36
+    21300074: frames-girls-hairs_37
+    21300076: frames-girls-hairs_38
+    21300078: frames-girls-hairs_39
+    21300080: frames-girls-hairs_40
+    21300082: frames-girls-hairs_41
+    21300084: frames-girls-hairs_42
+    21300086: frames-girls-hairs_43
+    21300088: frames-girls-hairs_44
+    21300090: frames-girls-hairs_45
+    21300092: frames-girls-hairs_46
+    21300094: frames-girls-hairs_47
+    21300096: frames-girls-hairs_48
+    21300098: frames-girls-hairs_49
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frames-girls-hairs_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1806
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1806
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1806
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_3
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1806
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_4
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1806
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_5
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1806
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_6
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1806
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1554
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_8
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1554
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_9
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1554
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_10
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1554
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_11
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1554
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_12
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1524
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_13
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1524
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_14
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1302
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_15
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1302
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_16
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1302
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_17
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1302
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_18
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1302
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_19
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1254
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_20
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1254
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1050
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_22
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1050
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_23
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1050
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_24
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1050
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_25
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1050
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_26
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 999
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_27
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 999
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_28
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 798
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_29
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 798
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_30
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 798
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_31
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 798
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_32
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 798
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_33
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 712
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_34
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 712
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_35
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 546
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_36
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 546
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_37
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 546
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_38
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 546
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_39
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 546
+        width: 225
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_40
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 294
+        width: 225
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_41
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 294
+        width: 225
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_42
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 294
+        width: 225
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_43
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 294
+        width: 225
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_44
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 294
+        width: 225
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_45
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 42
+        width: 225
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_46
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 42
+        width: 225
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_47
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 42
+        width: 225
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_48
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 42
+        width: 225
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frames-girls-hairs_49
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 42
+        width: 225
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
